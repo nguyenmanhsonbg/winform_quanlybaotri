@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Appointments">
+    <Key>
+      <PropertyRef Name="UniqueID" />
+    </Key>
+    <Property Name="UniqueID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDAppointments" Type="int" StoreGeneratedPattern="Computed" Nullable="false" />
+    <Property Name="Type" Type="int" />
+    <Property Name="StartDate" Type="smalldatetime" />
+    <Property Name="EndDate" Type="smalldatetime" />
+    <Property Name="AllDay" Type="bit" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="50" />
+    <Property Name="Location" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Status" Type="int" />
+    <Property Name="Label" Type="int" />
+    <Property Name="ResourceID" Type="int" />
+    <Property Name="ResourceIDs" Type="nvarchar(max)" />
+    <Property Name="ReminderInfo" Type="nvarchar(max)" />
+    <Property Name="RecurrenceInfo" Type="nvarchar(max)" />
+    <Property Name="TimeZoneId" Type="nvarchar(max)" />
+    <Property Name="CustomField1" Type="nvarchar(max)" />
+    <Property Name="IDDept" Type="nvarchar" MaxLength="10" />
+    <Property Name="Priority" Type="nvarchar" MaxLength="50" />
+    <Property Name="Performance_Human" Type="nvarchar" MaxLength="1000" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Appointments" EntityType="Self.Appointments" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

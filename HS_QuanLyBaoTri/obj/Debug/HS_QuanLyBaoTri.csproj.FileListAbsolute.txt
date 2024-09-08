@@ -1,0 +1,787 @@
+c:\users\le.huu\documents\visual studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+C:\Users\le.huu\Documents\Visual Studio 2013\Projects\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\Phanmem_Trung\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\OpenNETCF.Desktop.Communication.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\RAPI2.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+D:\PHONG CONG NGHE\PHAN MEM THAM KHAO\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\Phanmem_Trung\KhoVT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\OpenNETCF.Desktop.Communication.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\RAPI2.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+D:\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\PROJECT\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+\\172.17.25.192\Folder_VTDP_Share\Sofware\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+Z:\File code C#\TongHopPhanMem_05122018\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+Z:\File code C#\TongHopPhanMem_05122018\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+Z:\File code C#\TongHopPhanMem_05122018\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\1. FileInstallApps\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+C:\Users\admin\Downloads\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.xml
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.xml
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240828\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.xml
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.xml
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.Cache
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.cache
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\RdlCompile.compiled
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csprojResolveAssemblyReference.cache
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.XtraForm1.resources
+D:\CONG VIEC HOA SEN\Backup Code App VTBT\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmGroupEquipments.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChangePass.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmBaoTri_ISO.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmDetailEquipments.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupEQ.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmGroupFL.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmImport_Puchare.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmLoaiThietBi.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmNhapKho.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmProblem.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmStaff.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThemPhieuBaoTri.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmView_VatTuBaoTri.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmXuatKho.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.ImageProblem.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmGroupEquipments.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmLogIn.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmReport_Puchase.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmMain.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportExcel.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportNhapKho.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmImportXuatKho.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.ImportExcell.frmSelectSTOCK.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.frmReportISO.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportCheckingListEquipments.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.Report.Report_ReportScheadule.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.XtraForm1.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.de.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.es.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ja.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.ru.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.de.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.es.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ja.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.ru.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.pdb
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.CustomAppointmentForm1.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingDetails_Alltime.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmCheckingListEquipments.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmHistory_Check_ByEQ.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmPurchaseEQ_1.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTaiKhoan.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmThietBiXeNang.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmChild.frmTonKho.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmEquipments.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.frmSchedule_Big.resources
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe.config
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.exe
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\HS_QuanLyBaoTri.pdb
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\de\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\es\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ja\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\ru\HS_QuanLyBaoTri.resources.dll
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanL.08602D25.Up2Date
+C:\Users\ADMIN\Downloads\C# winform-20240908T092613Z-001\C# winform\20240831\HS_QuanLyBaoTri\HS_QuanLyBaoTri\obj\Debug\HS_QuanLyBaoTri.exe.licenses

@@ -1,0 +1,1501 @@
+﻿5072	﻿801003546	Chêm PU phi 260 x phi 351 x 10mm	CAI	58	KHO_CO	58	True	8/20/2018 10:50:23 AM
+5073	801003547	Chêm PU phi 260 x phi 351 x 20mm	CAI	70	KHO_CO	70	True	8/20/2018 10:50:12 AM
+5074	801003548	Chêm PU phi 260 x phi 351 x 30mm	CAI	34	KHO_CO	34	True	8/20/2018 10:50:45 AM
+5075	801001815	Bộ lọc khí SB20K-4G-M1P/RGMN	CAI	6	KHO_CO	6	True	8/20/2018 10:17:26 AM
+5076	801005820	Khớp nối xích KC-6018	CAI	2	KHO_CO			
+5077	801010768	Van bướm tay gạt DN80	CAI	10	KHO_CO			
+5078	801010874	Van chuyển đổi cụm PSA dùng cho trạm H2N2 DN50	CAI	6	KHO_CO	6	True	8/20/2018 10:15:43 AM
+5079	801004986	Hộp số CHH-6165-21, 5.5kW, 21/1	CAI	1	KHO_CO			
+5080	801004137	Khóa xích PHC BL1634C/L	CAI	9	KHO_CO			
+5081	801001796	Bộ lọc khí BFC2000	BO	4	KHO_CO			
+5082	801001958	Bộ làm mát dầu OR-600	CAI	2	KHO_CO			
+5083	801001960	Bộ làm mát dầu OR-800	CAI	1	KHO_CO			
+5084	801016316	Lưỡi dao cắt tôn 50x1450mm dùng cho dây chuyền Tẩy rỉ	CAI	6	KHO_CO			
+5085	801004225	Xích PHC 12B-2X10FT	HOP	1	KHO_CO	1	True	8/20/2018 3:53:14 PM
+5086	801006171	Lõi lọc dầu 0030 D 005 BH4HC	CAI	8	KHO_CO	8	True	8/20/2018 3:07:22 PM
+5087	801005491	Khớp nối GIICL11 J1 110x167/J1 140x202	CAI	2	KHO_CO			
+5088	801005500	Khớp nối GIICL12 J1 140x202/J1 170x242	CAI	1	KHO_CO			
+5089	801005501	Khớp nối GIICL12 J1 140x202/J1 180x242	CAI	1	KHO_CO			
+5090	801005513	Khớp nối GIICL14 J1 220x282/J1 250x330	CAI	3	KHO_CO			
+5091	801005514	Khớp nối GIICL14 J1 220x330/J1 250x330	CAI	2	KHO_CO			
+5092	801005515	Khớp nối GIICL14 J1 240x330/J1 250x330	CAI	3	KHO_CO			
+5093	801005084	Hộp số ZLY280-20-II	BO	3	KHO_CO			
+5094	801005119	Hộp số ZSY315-22.4-I	CAI	1	KHO_CO			
+5095	801005120	Hộp số ZSY315-22.4-II	CAI	2	KHO_CO			
+5096	801005145	Hộp số ZSY560-90-I	CAI	1	KHO_CO			
+5097	801003105	Cánh quạt 22302335	CAI	3	KHO_CO			
+5098	801010744	Van bướm inox DN100, chịu nhiệt	CAI	1	KHO_CO			
+5099	801005738	Khớp nối thắng đĩa WGP4 Y65x142/J1 48x84	CAI	3	KHO_CO			
+5100	801005739	Khớp nối thắng đĩa WGP4 Y75x142/J1 55x84	CAI	2	KHO_CO			
+5101	801005747	Khớp nối thắng đĩa WGP4 Y80x172/J1 55x84	CAI	2	KHO_CO			
+5102	801005748	Khớp nối thắng đĩa WGP4 Y80x172/J1 60x107	CAI	1	KHO_CO			
+5103	801011433	Van thủy lực 4WE10D31B/CG24N9Z5L	CAI	5	KHO_CO	5	True	8/20/2018 10:44:53 AM
+5104	801011437	Van thủy lực 4WE10E31B/CG24N9Z5L	CAI	2	KHO_CO	2	True	8/20/2018 10:46:49 AM
+5105	801011438	Van thủy lực 4WE10E31B/CW220 50N9Z5L	CAI	2	KHO_CO	2	True	8/20/2018 10:47:22 AM
+5106	801011452	Van thủy lực 4WE6D61B/CW220-50N9Z5L	CAI	2	KHO_CO	2	True	8/20/2018 9:51:00 AM
+5107	801011484	Van thủy lực 4WEH16J50B/6EW220-50NETZ5L	CAI	6	KHO_CO	6	True	8/20/2018 10:42:47 AM
+5108	801011710	Van thủy lực Z2FS10-20B	CAI	1	KHO_CO	1	True	8/20/2018 2:55:11 PM
+5109	801018838	Van thủy lực DYJ-03-P	CAI	5	KHO_CO	5	True	8/20/2018 10:21:14 AM
+5110	801010862	Van chống lún thủy lực Z2S10A-1-30B	CAI	2	KHO_CO	2	True	8/20/2018 10:25:58 AM
+5111	801010863	Van chống lún thủy lực Z2S16-1-50B	BO	3	KHO_CO	3	True	8/20/2018 10:44:28 AM
+5112	801011514	Van thủy lực DB10-1-50B/50	CAI	1	KHO_CO	1	True	8/20/2018 10:13:28 AM
+5113	801012865	Ron 101x140x20	CAI	30	KHO_CO	30	True	8/20/2018 3:40:20 PM
+5114	801012866	Ron 101x140x30	CAI	30	KHO_CO	38	True	8/20/2018 3:40:13 PM
+5115	801012867	Ron 101x140x4	CAI	20	KHO_CO	20	True	8/20/2018 3:39:04 PM
+5116	801012868	Ron 101x140x40	CAI	30	KHO_CO	30	True	8/20/2018 3:40:46 PM
+5117	801012869	Ron 101x140x5	CAI	50	KHO_CO	50	True	8/20/2018 3:39:55 PM
+5118	801012870	Ron 101x140x50	CAI	30	KHO_CO	30	True	8/20/2018 3:39:13 PM
+5119	801012871	Ron 101x140x6	CAI	50	KHO_CO	50	True	8/20/2018 3:39:27 PM
+5120	801012872	Ron 101x140x7	CAI	50	KHO_CO	50	True	8/20/2018 3:39:40 PM
+5121	801012873	Ron 101x140x8	CAI	50	KHO_CO	50	True	8/20/2018 3:39:19 PM
+5122	801012874	Ron 101x140x9	CAI	50	KHO_CO	50	True	8/20/2018 3:39:33 PM
+5123	801014722	Oring 0663211155	CAI	5	KHO_CO			
+5124	801016077	Oring PN 0663210811	CAI	5	KHO_CO			
+5125	801013248	Chất xúc tác có nền chứa kim loại Palladium	KG	100	KHO_CO			
+5126	801013252	Oxit nhôm	KG	300	KHO_CO			
+5127	801013262	Than hoạt tính dùng cho trạm lọc khí Nitơ	KG	500	KHO_CO			
+5128	801013453	Tấm inox 316L 15x50x570mm	TAM	10	KHO_CO			
+5129	801013459	Tấm inox 316L 510x16x785mm	TAM	4	KHO_CO			
+5130	801013654	Thép tròn đặc C45 mạ crom phi 75x700mm	CAY	2	KHO_CO			
+5131	801013705	Thép tròn đặc phi 22x1300mm	CAY	2	KHO_CO			
+5132	801013748	Bạc càng dùng cho trục dìm phi 500, phi 116 x phi 136 x 112mm	CAI	14	KHO_CO			
+5133	801013759	Bạc càng trục dìm phi 166 x phi 186 x 120mm	CAI	10	KHO_CO			
+5134	801013760	Bạc càng trục dìm phi 171 x phi 220 x 128mm	CAI	4	KHO_CO			
+5135	801013762	Bạc càng trục ổn định phi 124 x phi 160 x 100mm	CAI	8	KHO_CO			
+5136	801013763	Bạc càng trục ổn định phi 73 x phi 92 x 92mm	CAI	84	KHO_CO			
+5137	801013780	Bạc trục dìm phi 130 x phi 165 x 160mm	CAI	4	KHO_CO			
+5138	801013781	Bạc trục dìm phi 140 x phi 161 x 160mm	CAI	14	KHO_CO			
+5139	801013782	Bạc trục dìm phi 90 x phi 111 x 160mm	CAI	18	KHO_CO			
+5140	801013786	Bạc trục dùng cho trục ổn định phi 200, phi 50 phi 71 x 130mm	CAI	44	KHO_CO			
+5141	801013789	Bạc trục ổn định phi 50 x phi 71 x 130mm	CAI	52	KHO_CO			
+5142	801013790	Bạc trục ổn định phi 90 x phi 120 x 130mm	CAI	8	KHO_CO			
+5143	801013800	Càng trục ổn định trên dùng cho dây chuyền mạ NOF2	CAI	2	KHO_CO			
+5144	801013804	Ngàm trục dìm dùng cho dây chuyền NOF2	CAI	2	KHO_CO			
+5145	801015359	Bạc càng trục dìm phi 120 x phi 220 x 109mm	CAI	20	KHO_CO			
+5146	801015360	Bạc càng trục ổn định phi 72.5 x 120 x 84mm	CAI	68	KHO_CO			
+5147	801015361	Bạc trục dìm phi 92 x phi 115 x 140mm	CAI	12	KHO_CO			
+5148	801015362	Bạc trục ổn định phi 50 x phi 68 x 110mm	CAI	35	KHO_CO			
+5149	801013829	Xy lanh 100x200CA	CAI	1	KHO_CO			
+5150	801013831	Xy lanh 100x450 50TC	CAI	1	KHO_CO			
+5151	801013832	Xy lanh 100x450 TC-I	CAI	1	KHO_CO			
+5152	801013837	Xy lanh 63x35x400	CAI	1	KHO_CO			
+5153	801013838	Xy lanh 63x35x500-Y-TC	CAI	1	KHO_CO			
+5154	801013839	Xy lanh 63x500	CAY	2	KHO_CO			
+5155	801013845	Xy lanh dùng cho bàn kẹp hỗ trợ thu cuộn NOF1	CAI	1	KHO_CO			
+5156	801013847	Xy lanh dùng cho dao cắt đầu vào NOF1	CAI	1	KHO_CO			
+5157	801013848	Xy lanh dùng cho đẩy tang xả cuộn, bản vẽ gia công	CAI	1	KHO_CO			
+5158	801013851	Xy lanh khí nén 10A-2 CDD200B150Y	BO	1	KHO_CO			
+5159	801013857	Xy lanh khí nén 10A-5 FA 125B80-Y	CAI	2	KHO_CO			
+5160	801013858	Xy lanh khí nén 10A-5 FA125B100	BO	2	KHO_CO			
+5161	801013861	Xy lanh khí nén 10A-5 FA160B100 RY-T	CAI	2	KHO_CO			
+5162	801013863	Xy lanh khí nén 10A-5 FA160B185	BO	2	KHO_CO			
+5163	801013864	Xy lanh khí nén 10A-5 FA160B80	CAI	6	KHO_CO			
+5164	801013865	Xy lanh khí nén 10A-5 FB80B500 RY 0.05-1	CAI	1	KHO_CO			
+5165	801013868	Xy lanh khí nén 10A-5 TCC100B200 RY-T	CAI	1	KHO_CO			
+5166	801013869	Xy lanh khí nén 10A-5 TCC125B350 RY	CAI	1	KHO_CO			
+5167	801013871	Xy lanh khí nén 10A-5 TCC125B350-RY	CAI	2	KHO_CO			
+5168	801013872	Xy lanh khí nén 10A-5CBB 125 ZB150-RY-T	BO	1	KHO_CO			
+5169	801013873	Xy lanh khí nén 10A-5CBB125B125-RY-T	CAI	4	KHO_CO			
+5170	801013875	Xy lanh khí nén 10A-5CBB125x125RY-T	CAI	2	KHO_CO			
+5171	801013880	Xy lanh khí nén 10A-5CC 125B100 RY	CAI	2	KHO_CO			
+5172	801013881	Xy lanh khí nén 10A-5CC 125B60RY	BO	3	KHO_CO			
+5173	801013883	Xy lanh khí nén 10A5CC125B125 RY	CAI	1	KHO_CO	1	True	8/20/2018 3:45:05 PM
+5174	801013885	Xy lanh khí nén 10A-5FA125 B150-RY	CAI	1	KHO_CO			
+5175	801013890	Xy lanh khí nén 10A-5FA160 B185	CAI	2	KHO_CO			
+5176	801013891	Xy lanh khí nén 10A-5FA160B185	BO	3	KHO_CO			
+5177	801013894	Xy lanh khí nén 10A-5FB80x500RY-CA	CAI	1	KHO_CO			
+5178	801013897	Xy lanh khí nén 10A-5R TCC160B70F2-RY	CAI	1	KHO_CO			
+5179	801013898	Xy lanh khí nén 10A-5RFA160B100F2-F	CAI	1	KHO_CO			
+5180	801013907	Xy lanh khí nén 150x125	CAY	1	KHO_CO			
+5181	801013909	Xy lanh khí nén 160x300FA, mặt bích	BO	1	KHO_CO			
+5182	801013912	Xy lanh khí nén 23858236	CAI	1	KHO_CO	1	True	8/20/2018 3:18:18 PM
+5183	801013945	Xy lanh khí nén JB 160-10-B-136	CAI	2	KHO_CO			
+5184	801013946	Xy lanh khí nén JB160x10-B136	CAI	1	KHO_CO			
+5185	801013955	Xy lanh khí nén QGA 125x100 ST162	CAI	2	KHO_CO			
+5186	801013956	Xy lanh khí nén QGA 125x100-F-272	CAI	4	KHO_CO			
+5187	801013957	Xy lanh khí nén QGA 125x135 ST159	CAI	8	KHO_CO			
+5188	801013959	Xy lanh khí nén QGA 160x125 F275	CAI	1	KHO_CO			
+5189	801013962	Xy lanh khí nén QGA 250x100 ST163	CAI	2	KHO_CO			
+5190	801013963	Xy lanh khí nén QGA 250x125 ST156	CAI	3	KHO_CO			
+5191	801013964	Xy lanh khí nén QGA 40x390	CAI	2	KHO_CO			
+5192	801013966	Xy lanh khí nén QGA 80x450 ST157	CAI	1	KHO_CO			
+5193	801013968	Xy lanh khí nén QGB2 160x155	CAI	2	KHO_CO			
+5194	801013969	Xy lanh khí nén QGB-EZ200x100-L3	BO	3	KHO_CO			
+5195	801013971	Xy lanh khí nén QGBQ 100-120-MS2	CAI	2	KHO_CO			
+5196	801013972	Xy lanh khí nén QGBQ 40x390	CAI	1	KHO_CO			
+5197	801013973	Xy lanh khí nén QGBQ 50x25 ST 1994	CAI	3	KHO_CO			
+5198	801013974	Xy lanh khí nén QGBQ-40-390	CAI	1	KHO_CO			
+5199	801013976	Xy lanh khí nén QGBZ 160-150	CAI	4	KHO_CO			
+5200	801013977	Xy lanh khí nén QGBZ 160x155	CAI	2	KHO_CO			
+5201	801013978	Xy lanh khí nén QGBZ 160x500-MF1-1087	CAI	3	KHO_CO			
+5202	801013979	Xy lanh khí nén QGBZ 63-400-MF1	CAI	2	KHO_CO			
+5203	801013980	Xy lanh khí nén QGBZ160-120MF1 1554	CAI	3	KHO_CO			
+5204	801013981	Xy lanh khí nén QGBZST200-130MF1 1582	CAI	1	KHO_CO	1	True	8/20/2018 3:56:50 PM
+5205	801013982	Xy lanh khí nén SC 100x250x25	CAI	4	KHO_CO			
+5206	801013990	Xy lanh khí nén SC100x450	CAI	1	KHO_CO	1	True	8/20/2018 3:43:23 PM
+5207	801013992	Xy lanh khí nén SC100x500	CAI	1	KHO_CO			
+5208	801013994	Xy lanh khí nén SC125x130 ST	CAI	2	KHO_CO	2	True	8/20/2018 3:42:39 PM
+5209	801013998	Xy lanh khí nén SC125x250 FA	CAI	1	KHO_CO	1	True	8/20/2018 3:36:28 PM
+5210	801014004	Xy lanh khí nén SC160-200-S	CAI	2	KHO_CO			
+5211	801014009	Xy lanh khí nén SC160x200-S	CAI	4	KHO_CO			
+5212	801014010	Xy lanh khí nén SC160x200-Y	CAI	2	KHO_CO	2	True	8/20/2018 3:43:56 PM
+5213	801014011	Xy lanh khí nén SC160x250	CAI	2	KHO_CO			
+5214	801014012	Xy lanh khí nén SC160x250-Y	CAI	4	KHO_CO	4	True	8/20/2018 3:44:42 PM
+5215	801014017	Xy lanh khí nén SC200x250	CAI	1	KHO_CO			
+5216	801014046	Xy lanh khí nén SC80x125-S	CAI	2	KHO_CO			
+5217	801014047	Xy lanh khí nén SC80x160-ST	CAI	6	KHO_CO	6	True	8/20/2018 3:45:00 PM
+5218	801014067	Xy lanh khí nén SGC 160x250S	CAI	1	KHO_CO	1	True	8/20/2018 3:43:14 PM
+5219	801014068	Xy lanh khí nén SI-125-300	CAI	3	KHO_CO			
+5220	801014080	Xy lanh khí nén TGC 160x80	CAY	1	KHO_CO			
+5221	801014102	Xy lanh thuỷ lực 100x50x160-CA-Y	CAI	1	KHO_CO			
+5222	801014107	Xy lanh thuỷ lực 110x70x700	CAI	1	KHO_CO			
+5223	801014111	Xy lanh thủy lực 125x70x125	CAI	2	KHO_CO			
+5224	801014114	Xy lanh thủy lực 180x125x1000, 250Bar	CAI	2	KHO_CO			
+5225	801014115	Xy lanh thủy lực 180x90x300-TC- Y	CAI	1	KHO_CO			
+5226	801014116	Xy lanh thủy lực 190x120x600	CAI	1	KHO_CO			
+5227	801014123	Xy lanh thuỷ lực 40x25x580-FA	CAI	1	KHO_CO			
+5228	801014129	Xy lanh thủy lực 50x28x200	CAI	2	KHO_CO			
+5229	801014130	Xy lanh thủy lực 50x28x300	CAI	2	KHO_CO			
+5230	801014142	Xy lanh thủy lực 90x60x120	CAI	1	KHO_CO			
+5231	801014143	Xy lanh thuỷ lực 90x60x800-CA-Y	CAI	1	KHO_CO			
+5232	801014196	Xy lanh thủy lực dùng cho co bung tang cuốn cuộn dây chuyền NOF2	CAI	1	KHO_CO			
+5233	801014198	Xy lanh thủy lực dùng cho co bung tang xả cuộn Mạ Màu 2	CAI	1	KHO_CO			
+5234	801014202	Xy lanh thủy lực dùng cho dao cắt đầu ra 160x80x125	BO	1	KHO_CO			
+5235	801014206	Xy lanh thủy lực dùng cho dây chuyền Mạ Màu 2	CAI	2	KHO_CO	1	True	8/20/2018 3:46:23 PM
+5236	801014211	Xy lanh thủy lực dùng cho máy hàn 140x90x368	CAI	1	KHO_CO			
+5237	801014214	Xy lanh thủy lực dùng cho nâng hạ máy nắn Tension NOF2	CAI	1	KHO_CO			
+5238	801014218	Xy lanh thủy lực dùng cho tay đỡ tang xả dây chuyền NOF 80x470-TC	CAI	1	KHO_CO			
+5239	801014219	Xy lanh thủy lực dùng cho trục chống nhăn máy cán Skinpass NOF3 125x70x270	CAI	3	KHO_CO			
+5240	801014224	Xy lanh thủy lực HOB-D-80x1500-TC	CAI	1	KHO_CO			
+5241	801014233	Xy lanh thủy lực HSGK01-80/45E-2511-200	CAI	1	KHO_CO			
+5242	801014235	Xy lanh thủy lực HSGK01-80x45x200	CAI	1	KHO_CO			
+5243	801014266	Xy lanh thủy lực NOK HOBN-080-B-AA-040-N-0150-FAHT, 14MPa	CAI	2	KHO_CO			
+5244	801014286	Xy lanh thủy lực W140-1-1 FA 160C-140H250-B-D	CAI	1	KHO_CO			
+5245	801015378	Xy lanh tay đỡ đầu bò vào dùng cho dây chuyền Nof 1	CAI	5	KHO_CO			
+5246	801015380	Xylanh trục kẹp tang 1.2 đầu vào dùng cho dây chuyền Nof 1	CAY	4	KHO_CO			
+5247	801015381	Ben thủy lực dao cắt máy hàn dùng cho dây chuyền Nof 1	CAI	1	KHO_CO			
+5248	801015382	Xy lanh thủy lực 100/50-250 16 Mpa	CAI	4	KHO_CO			
+5249	801015383	Xy lanh thủy lực dao cắt dùng cho dây chuyền Nof 1	CAI	2	KHO_CO			
+5250	801015518	Xy lanh SC200x1000-S	CAI	2	KHO_CO			
+5251	801015519	Xy lanh khí TSC 80x500	CAI	4	KHO_CO	4	True	8/20/2018 3:09:04 PM
+5252	801014339	Bộ ruột phân giải khí NH3 trong lò NOF1	CAI	2	KHO_CO			
+5253	801014351	Chốt xoay trục kẹp tôn đứng phi 100x680mm	CAY	2	KHO_CO			
+5254	801014360	Đầu phun trên tháp giải nhiệt phi 140	CAI	2	KHO_CO			
+5255	801014380	Khối đỡ dùng cho thiết bị đo độ cứng lớp mạ phi 200x50mm	CAI	1	KHO_CO			
+5256	801015269	Bản lề cửa lò sấy kiểu tay quay, 14mm	CAI	30	KHO_CO			
+5257	802000575	Bộ điều khiển Servo GT50-60T 20E	CAI	2	KHO_CO	2	True	8/20/2018 3:16:34 PM
+5258	802000671	Bột chịu nhiệt độ cao ZW-ZN-G	KG	475	KHO_CO			
+5259	802000672	Bột chịu nhiệt dùng để xây chảo nhôm kẽm	KG	1900	KHO_CO			
+5260	802000674	Bột chịu nhiệt ZW-ZN-H	KG	750	KHO_CO			
+5261	802000677	Bột keo dùng cho Inductor chảo Mạ NOF (Flour)	KG	1660	KHO_CO			
+5262	802000678	Bột silicat	KG	3000	KHO_CO			
+5263	802000682	Cuộn kháng dùng cho bộ gia nhiệt inductor, công suất danh định 510A	CAI	2	KHO_CO			
+5264	802000686	Khung hợp kim nhôm bọc cuộn kháng	CAI	13	KHO_CO			
+5265	802000687	Khung lõi từ hình chữ I bằng thép dùng cho bộ gia nhiệt	CAI	4	KHO_CO			
+5266	802000688	Khung lõi từ hình chữ U bằng thép dùng cho bộ gia nhiệt	CAI	1	KHO_CO			
+5267	802000690	Khung thép hình chữ B loại 370	CAI	3	KHO_CO			
+5268	802001240	Cảm biến nhiệt độ 54716683	CAI	1	KHO_CO			
+5269	802003385	Dây điện CVV 3Cx38+1Cx22mm2	M	100	KHO_CO			
+5270	802004683	Đầu bơm nước trục ngang CNR50-160/7.5	CAI	3	KHO_CO	3	True	8/20/2018 3:34:26 PM
+5271	802004684	Đầu bơm nước trục ngang CNR65-160/15	CAI	3	KHO_CO	3	True	8/20/2018 3:34:18 PM
+5272	802004685	Đầu bơm nước trục ngang CNR65-200/22.5	CAI	2	KHO_CO	2	True	8/20/2018 3:35:02 PM
+5273	802004686	Đầu bơm nước trục ngang CNR80-200/37	CAI	1	KHO_CO	1	True	8/20/2018 3:32:51 PM
+5274	802004745	Gas máy lạnh R404A	BIN	1	KHO_CO			
+5275	802005197	Cánh quạt lò sấy dùng cho dây chuyền Mạ Màu	CAI	2	KHO_CO			
+5276	802005992	Đồng hồ đo lưu lượng gas VEMMTEC IGTM - CT, DN100, G160	CAI	1	KHO_CO			
+5277	802005997	Đồng hồ đo lưu lượng khí (Monitor % O2) dùng cho dây chuyền NOF1 4400-2, 220V - 90Hz	CAI	1	KHO_CO			
+5278	802006001	Đồng hồ đo lưu lượng khí NH3 LZB-50	CAI	2	KHO_CO			
+5279	802006009	Đồng hồ đo lưu lượng khí trạm H2N2 LZB-80	CAI	4	KHO_CO			
+5280	802006121	Dây dò nhiệt bằng hợp kim nhôm	BO	30	KHO_CO			
+5281	802006679	Đầu nối Activator red 6 months P/N:20:001.006	CAI	6	KHO_CO	6	True	8/20/2018 3:19:20 PM
+5282	802007175	Thiết bị khuấy từ sử dụng cho lò nấu hợp kim	BO	1	KHO_CO			
+5283	805000006	Dầu block RL684	CHA	6	KHO_CO			
+5284	805000049	Dầu máy nén khí Fusheng FS600-20	THU	1	KHO_CO			
+5285	808000101	Motor điện bước dùng để điều chỉnh bánh xe hàn 56BYG 250D	BO	2	KHO_CO			
+5286	808000484	Motor khí nén 56BYG250DK, 850W	CAI	5	KHO_CO			
+5287	808000485	Motor khí nén 6AM-NRV-7A-P120.25	CAI	2	KHO_CO	2	True	8/20/2018 3:59:50 PM
+5288	808000487	Motor khí nén dùng cho dẫn động bánh xe hàn TMY 0.70, 0.7kW - 4500rpm - 0.5Mpa, của máy hàn 1248	CAI	2	KHO_CO			
+5289	808000490	Motor khí nén dưới của máy hàn 1667, TMY 0.5	CAI	4	KHO_CO			
+5290	808000493	Motor khí nén TMY J09-6, 0.86kW	CAI	2	KHO_CO			
+5291	808000494	Motor khí nén trên của máy hàn 1667, TMY 0.5	CAI	4	KHO_CO			
+5292	808000525	Motor liền hộp số điều khiển bánh xe hàn dưới, 56BYG250D, 0.8kW	BO	1	KHO_CO			
+5293	808000526	Motor liền hộp số điều khiển bánh xe hàn trên, 56BYG250D, 0.8kW	BO	1	KHO_CO			
+5294	808000536	Motor liền hộp số dùng cho động cơ xoay chiều 3 pha XWD8135-47-2.2, 2.2kW	CAI	1	KHO_CO			
+5295	808000660	Bơm dầu thủy lực Internal Gear Pump, 10cc - 21MPa	CAI	1	KHO_CO	1	True	8/20/2018 3:49:14 PM
+5296	808000661	Bơm dầu thủy lực Internal Gear Pump, 15MPa	CAI	1	KHO_CO	1	True	8/20/2018 3:49:21 PM
+5297	808000662	Bơm dầu thủy lực Internal Gear Pump, 32cc- 21MPa	CAI	2	KHO_CO	2	True	8/20/2018 3:49:37 PM
+5298	808000663	Bơm dầu thủy lực IRG 65-125A-2.2	CAI	1	KHO_CO			
+5299	808000664	Bơm dầu thủy lực L10VS045DR/31R-PPA12N00	CAI	1	KHO_CO			
+5300	808000688	Bơm thuỷ lực R910907369	CAI	1	KHO_CO	1	True	8/20/2018 3:17:47 PM
+5301	808000689	Bơm thuỷ lực R910916629	CAI	1	KHO_CO	1	True	8/20/2018 3:17:42 PM
+5302	808000693	Bơm thủy lực thủy lực trạm nguồn CPC IGP3-M010	CAI	2	KHO_CO	2	True	8/20/2018 3:48:04 PM
+5303	808000694	Bơm thủy lực thủy lực trạm nguồn CPC IGP4-M032	CAI	3	KHO_CO	1	True	8/20/2018 3:49:05 PM
+5304	808000695	Bơm thủy lực trạm nguồn CPC có lắp thiết bị đo lường dùng cho tẩy rỉ, 31-104, YB100/E16	CAI	1	KHO_CO			
+5305	808000696	Bơm thủy lực trạm nguồn của máy hàn PV2R2-47-F-RAA-41	CAI	2	KHO_CO			
+5306	808000697	Bơm thủy lực trạm nguồn EPC NB3-D25F	CAI	2	KHO_CO			
+5307	808000703	Bơm thủy lực YB1-63	CAI	1	KHO_CO	1	True	8/20/2018 3:50:35 PM
+5308	808000707	Bơm thủy lực YP1-6.3MPa 100r/m	CAI	1	KHO_CO	1	True	8/20/2018 3:50:53 PM
+5309	808000708	Bơm thủy lực PFE 31044 1DT 20	CAI	2	KHO_CO			
+5310	808000709	Bơm thủy lực PFE 51090-1DT 32	CAI	1	KHO_CO			
+5311	808000710	Bơm thủy lực PFE 51110-1DT 32	CAI	2	KHO_CO			
+5312	808000718	Đầu bơm thuỷ lực PV2R1-25Y-F-R	CAI	1	KHO_CO	1	True	8/20/2018 3:48:29 PM
+5313	808000720	Đầu bơm thủy lực dùng cho trạm nguồn máy cán Skinpass L10VS045DDR/31R - PDAI12N00	CAI	1	KHO_CO	1	True	8/20/2018 3:17:52 PM
+5314	808000724	Đầu bơm thủy lực PV2R1-12Y-F-R 21Mpa	CAI	1	KHO_CO	1	True	8/20/2018 3:48:19 PM
+5315	808000725	Đầu bơm thuỷ lực PVP4136C9R211	CAI	2	KHO_CO			
+5316	808000726	Đầu bơm thủy lực R983032281	CAI	1	KHO_CO			
+5317	808000742	Motor thủy dùng cho trạm thủy lực máy phun dầu MCY14-1B	CAI	1	KHO_CO	1	True	8/20/2018 3:17:00 PM
+5318	808000746	Motor thủy lực 3520HV 38AM05-1CB	CAI	2	KHO_CO			
+5319	808000748	Motor thủy lực A A10 VSO 28 DFR/1/31R-PPA12N00	CAI	1	KHO_CO	1	True	8/20/2018 3:50:58 PM
+5320	808000756	Motor thủy lực BAP 1.5-Q0-D-6	CAI	2	KHO_CO	2	True	8/20/2018 3:49:59 PM
+5321	808000757	Motor thủy lực BMP-36-2AM	CAI	1	KHO_CO	1	True	8/20/2018 2:56:45 PM
+5322	808000761	Motor thủy lực có lắp thiết bị đo lường dùng cho mạ màu PEE 31044-1DT	CAI	1	KHO_CO			
+5323	808000762	Motor thủy lực DT6CMB311R00B1- Hãng TDZ	CAI	1	KHO_CO	1	True	8/20/2018 3:49:44 PM
+5324	808000771	Motor thủy lực dưới bể thủy lực máy phun dầu CBW-F305-ALP	CAI	1	KHO_CO	1	True	8/20/2018 10:23:01 AM
+5325	808000790	Motor thủy lực Piston P16-A2-F-L	BO	1	KHO_CO	1	True	8/20/2018 3:51:03 PM
+5326	808000791	Motor thủy lực PV2R1-12F1	CAI	1	KHO_CO	1	True	8/20/2018 3:50:23 PM
+5327	808000792	Motor thủy lực PV2R1-25Y-F-R	CAI	2	KHO_CO			
+5328	808000793	Motor thủy lực PVL 1-8-F-2R-4-10, 21mpa	CAI	1	KHO_CO	1	True	8/20/2018 2:56:53 PM
+5329	808000794	Motor thủy lực PVL1-25-F-2R-U-10	CAI	1	KHO_CO	1	True	8/20/2018 3:50:28 PM
+5330	808000845	Bơm  thủy lực cánh gạt PV2R1-25-F-RAA-4326	CAI	2	KHO_CO	2	True	8/20/2018 2:59:18 PM
+5331	809000015	Béc đốt dùng cho máy dẫn hợp kim dây chuyền mạ NOF	BO	20	KHO_CO			
+5332	810000054	Cáp thép cầu trục phi 22, 6x36IWRC, xoắn phải, 1770N/mm2	M	120	KHO_CO			
+5333	810000138	Thanh ray dẫn hướng bằng sắt 50x70x3600mm	CAI	2	KHO_CO			
+5334	810000145	Bánh răng dùng cho cầu trục 5T	CAI	2	KHO_CO			
+5335	810000187	Bánh xe rùa gang cầu dùng cho cầu trục 32 tấn ABUS	CAI	8	KHO_CO			
+5336	811000135	vòng chặn dùng cho xe nâng 25 tấn komatsu FD250-Z-6, PN: 162-23-66700	CAI	3	KHO_CO			
+5337	812000062	Chữ thập dùng cho tang dây chuyền Xẻ Băng	CAI	6	KHO_CO			
+5338	812000339	Chữ thập tang xả cuộn 1,2 phi 490x120mm	CAI	1	KHO_CO			
+5339	812000064	Bộ khuôn lắp diode máy hàn dùng cho dây chuyền NOF1	BO	2	KHO_CO			
+5340	812000072	Khuôn cái dùng cho máy dập T-Bend KCS	CAI	2	KHO_CO			
+5341	812000076	Khuôn dập chữ I 0.4-1.2mm	BO	6	KHO_CO			
+5342	812000082	Khuôn đúc bơm kẽm dùng cho dây chuyền NOF	BO	1	KHO_CO			
+5343	812000083	Khuôn đực dùng cho máy dập T-Bend	CAI	2	KHO_CO			
+5344	812000271	Tấm vỉ điện phân trên dùng cho dây chuyền NOF 1, 1310x1570x640x8mm	CAI	1	KHO_CO			
+5345	812000294	Bích giá đỡ đầu bơm thủy lực dùng cho trạm nguồn CPC	CAI	1	KHO_CO			
+5346	812000296	Bộ chày cối máy đột lỗ dùng cho máy hàn dây chuyền Mạ Màu 1	BO	1	KHO_CO	1	True	8/20/2018 3:56:28 PM
+5347	812000300	Bộ mang cá trượt trục máy sơn dùng cho dây chuyền Mạ Màu 1	BO	2	KHO_CO			
+5348	812000327	Ống lót thép dùng cho xy lanh thủy lực Sang Cuộn phi 210 x phi 180 x 175mm	CAI	2	KHO_CO			
+5349	812000342	Bạc trục máy hàn dùng cho dây chuyền Mạ màu	CAI	4	KHO_CO			
+5350	812000381	Bích dẫn hướng dùng cho bơm kẽm	CAI	2	KHO_CO			
+5351	814000024	Máy khuấy trộn có đai kẹp (225831)	CAI	1	KHO_CO			
+5352	814000036	Máy trộn sơn dầu TS-50R-M5	CAI	2	KHO_CO			
+5353	899000110	Keo Polymer B7000, 50ml	TUY	2	KHO_CO			
+5354	899000111	Keo Silicate Natri 20kg/thùng	THU	5	KHO_CO			
+5355	899000202	Chất xúc tác có nền chứa kim loại Palladium như chất hoạt tính dạng viên, L100xW100xH100mm	CAI	2000	KHO_CO			
+5356	801003761	Dao cạo trục dìm SKD11 12x80x140mm	CAI	66	KHO_CO			
+5357	801016570	Gối đỡ trục vắt dùng cho dây chuyền Nof 1	CAI	9	KHO_CO			
+5358	801014513	Màng bơm dùng cho bơm Husky 1050 24B627	CAI	5	KHO_CO			
+5359	801016279	Van thủy lực DBDS6P10B/100	CAI	2	KHO_CO	2	True	8/20/2018 10:39:07 AM
+5360	808000944	Motor liền hộp số YVF2-250M-4M, GR147-<Y55-4P>-5.98-M1-270-IEC	CAI	2	KHO_CO			
+5361	801016443	Ống lót bạc đạn 3535-55	BO	7	KHO_CO			
+5362	801016444	Ống lót bạc đạn 3535-60	BO	7	KHO_CO			
+5363	801016445	Puly TB SPC 280/4 Type TB SPC/22, No.9	BO	2	KHO_CO			
+5364	801016446	Puly TB SPC 450/4 Type TB SPC/22, No.10	BO	2	KHO_CO			
+5365	801016789	Bánh răng máy nén khí 1092023038	CAI	1	KHO_CO			
+5366	801016790	Bánh răng máy nén khí 1092023037	CAI	1	KHO_CO			
+5367	802008503	Đầu nối 1622369300	CAI	3	KHO_CO			
+5368	801016843	Van 1 chiều 1613900500	CAI	3	KHO_CO			
+5369	802008504	Đầu nối 0571003607	CAI	3	KHO_CO			
+5370	801016331	Lõi lọc dầu WU-40x80-J	CAI	5	KHO_CO	5	True	8/20/2018 2:59:56 PM
+5371	802008165	Quạt ly tâm F4 68 10C 30530 - 52740 m3/h; 2557 - 1793 Pa; 37 kw; 1250 r/min; 200˚C	BO	1	KHO_CO			
+5372	802008164	Quạt ly tâm T4 - 72 12C 34145 - 63482 m3/h; 1916 - 1218 Pa; 37 kw; 940 r/min; 200oC	BO	1	KHO_CO			
+5373	801016372	Bộ làm mát khí H2 C13129	BO	1	KHO_CO			
+5374	801016375	Trục cuốn cáp dàn bù dùng cho dây chuyền Nof 2	BO	1	KHO_CO			
+5375	801016968	Ống hồi dầu 85557577	CAI	1	KHO_CO			
+5376	801016977	Van 1 chiều 39303284	CAI	3	KHO_CO			
+5377	801016970	Ống hồi dầu 23504129	CAI	3	KHO_CO			
+5378	801016969	Ống hồi dầu 54619960	CAI	3	KHO_CO			
+5379	801016954	Bánh răng máy nén khí 23430663	BO	1	KHO_CO			
+5380	801015117	Lõi trục vắt phi 170x2530mm	CAY	4	KHO_CO			
+5381	801016438	Xích PHC BL1634X10FT, 3m	HOP	2	KHO_CO			
+5382	801016437	Xích PHC BL1434X10FT, 3m	HOP	2	KHO_CO			
+5383	801016439	Khóa xích PHC BL834C/L	CAI	2	KHO_CO			
+5384	801016440	Khóa xích PHC BL1434C/L	CAI	6	KHO_CO			
+5385	801016377	Hộp giảm tốc ZLY112-16–II	CAI	3	KHO_CO			
+5386	801016378	Khớp nối NL8 L1=112mm, L2=142mm,L=229mm,D1=D2=96mm	CAI	3	KHO_CO			
+5387	802000684	Keo dán miệng Inductor	KG	3.5	KHO_CO			
+5388	802008170	Thanh gỗ định vị dùng cho inductor	CAI	4	KHO_CO			
+5389	801017303	Bạc càng trục dìm 75426/2, phi 155 - 190	CAI	8	KHO_CO			
+5390	801017304	Bạc trục dìm 75426/3, phi 114 - 147	CAI	8	KHO_CO			
+5391	801017305	Bạc càng trục ổn định 75403/2, phi 130 - 160	CAI	79	KHO_CO			
+5392	801017306	Bạc trục ổn định 75423/3, phi 90 - 125	CAI	69	KHO_CO			
+5393	801017307	Bạc càng trục dìm 75403/1, phi 175 - 220	CAI	36	KHO_CO			
+5394	801017308	Bạc trục dìm 75422/2, phi 130 - 170	CAI	29	KHO_CO			
+5395	801017309	Lưỡi dao gió phía trên 1600x200mm	CAI	1	KHO_CO			
+5396	801017310	Lưỡi dao gió phía dưới 1600x272mm	CAI	1	KHO_CO			
+5397	801017311	Lưỡi dao gió phía trước bên trái 190x272mm	CAI	1	KHO_CO			
+5398	801017312	Lưỡi dao gió phía trước bên phải 190x272mm	CAI	1	KHO_CO			
+5399	801015880	Van bi tay gạt mặt bích DN65, JIS 10K	CAI	2	KHO_CO			
+5400	801017413	Van vặn ren inox 304 M27	CAI	20	KHO_CO			
+5401	808001009	Hộp giảm tốc HW WPS 100	CAI	1	KHO_CO			
+5402	801017408	Van 1 chiều đĩa lò xo DN65, PN25, nối  mặt bích	CAI	7	KHO_CO	2	True	8/20/2018 3:17:34 PM
+5403	801017409	Van bướm tay gạt DN65, JIS 10K, thân gang, cánh Inox 304	CAI	5	KHO_CO			
+5404	801017410	Van bướm tay gạt DN80, JIS 10K, thân gang, cánh Inox 304	CAI	5	KHO_CO			
+5405	801017411	Van bướm tay gạt DN100, JIS 10K, thân gang, cánh Inox 304	CAI	2	KHO_CO			
+5406	810000199	Thanh dẫn hướng xếp cáp Phi 20x1520mm	CAI	7	KHO_CO			
+5407	801016313	Ty dẫn hướng xe rùa Phi 164x1400mm	CAY	4	KHO_CO			
+5408	801016284	Gối bạc đạn dùng cho cầu trục HR	CAI	10	KHO_CO			
+5409	801016453	Van chặn thép 10SCLS DN80, lắp bích, JIS10K	CAI	4	KHO_CO			
+5410	801016454	Van chặn thép 10SCLS DN100, lắp bích, JIS10K	CAI	5	KHO_CO			
+5411	801016456	Van chặn thép 10SCLS DN150, lắp bích, JIS10K	CAI	5	KHO_CO			
+5412	812000456	Mặt bích lỗ luồn U phi 410x65mm	CAI	3	KHO_CO			
+5413	801016455	Van chặn thép 150SCLS DN100, lắp bích, ANSI Class 150	CAI	2	KHO_CO			
+5414	801016457	Van chặn thép 10SCLS DN200, lắp bích, JIS10K	CAI	2	KHO_CO			
+5415	801016458	Van chặn thép 10SCLS DN300, lắp bích, JIS10K	CAI	2	KHO_CO			
+5416	801016308	Lõi trục chuyển hướng máy sơn Phi 500x1890mm	CAY	1	KHO_CO			
+5417	801016299	Trục chuyển hướng phi 470x1885mm	CAY	1	KHO_CO			
+5418	801016292	Khớp nối co giãn DN800x750mm, không mặt bích	ONG	1	KHO_CO			
+5419	801016383	Bộ truyền động trục vít SWL15-1A-III-FZ	BO	2	KHO_CO			
+5420	801016374	Ben thủy lực bàn kẹp máy hàn 1247 dùng cho dây chuyền Nof 1	CAI	4	KHO_CO			
+5421	801016364	Xy lanh thủy lực máy nắn CDM1MF1125/70/40, 12PMa	CAI	5	KHO_CO			
+5422	801016367	Van điều áp V3071-A22	CAI	1	KHO_CO	1	True	8/20/2018 3:03:44 PM
+5423	801011053	Van điều áp MBRV-03P-2	CAI	2	KHO_CO	2	True	8/20/2018 3:03:38 PM
+5424	801016366	Van chống lún MPC-03-W	CAI	2	KHO_CO	2	True	8/20/2018 3:03:53 PM
+5425	801016368	Van chống lún MPCV-03A	CAI	2	KHO_CO	2	True	8/20/2018 3:04:13 PM
+5426	801016369	Van modulor MPR-03-P-1	CAI	2	KHO_CO	2	True	8/20/2018 3:03:29 PM
+5427	801018674	Khớp co giãn ES-100, DN480x700mm	CAI	1	KHO_CO			
+5428	801017430	Xy lanh khí nén SC200x300	CAI	4	KHO_CO			
+5429	801018153	Trục Cardan SWC 120x1500mm	CAI	3	KHO_CO			
+5430	801016296	Trục đỡ bánh xe hàn Phi 115x146mm	CAI	1	KHO_CO			
+5431	801016451	Van cầu gang tay quay 10SPBOF DN80, lắp bích, JIS10K	CAI	2	KHO_CO			
+5432	801016452	Van cầu gang tay quay 150SPBO DN100, lắp bích, ANSI Class 150	CAI	2	KHO_CO			
+5433	801016303	Trục chống nhăn phi 300x1710mm	CAY	1	KHO_CO			
+5434	801016304	Trục đo lực càng trước máy cán Skinpass phi 300×2054mm	CAY	1	KHO_CO			
+5435	801016305	Trục đo lực càng sau máy cán skinpass phi 300×1904mm	CAY	1	KHO_CO			
+5436	801017770	Bạc trục dẫn hướng phi 70 dùng cho dây chuyền NOF3	BO	6	KHO_CO			
+5437	801017769	Bộ gối đỡ trục ổn định 330x230mm dùng cho dây chuyền NOF3	BO	2	KHO_CO			
+5438	801017768	Bộ rà trục ổn định 460x100mm dùng cho dây chuyền NOF3	BO	5	KHO_CO			
+5439	801017767	Bạc càng trục ổn định phi 120 dùng cho dây chuyền NOF3	BO	30	KHO_CO			
+5440	801017766	Bạc trục ổn định phi 70 dùng cho dây chuyền NOF3	BO	28	KHO_CO			
+5441	801017764	Bộ gối đỡ trục dìm 500x330 mm dùng cho dây chuyền NOF3	BO	2	KHO_CO			
+5442	801017771	Bạc càng trục dẫn hướng phi 120 dùng cho dây chuyền NOF3	BO	12	KHO_CO			
+5443	801017891	Bạc càng trục dìm phi 173 dùng cho dây chuyền NOF3	BO	14	KHO_CO			
+5444	801017773	Bộ rà trục dẫn hướng 460x100mm dùng cho dây chuyền NOF3	BO	10	KHO_CO			
+5445	801017772	Bộ gối đỡ trục dẫn hướng 330x230mm dùng cho dây chuyền NOF3	BO	2	KHO_CO			
+5446	801017890	Bạc trục dìm  phi 130 dùng cho dây chuyền NOF3	BO	30	KHO_CO			
+5447	801018885	Bộ gối trục ổn định 240x240x80mm	BO	2	KHO_CO			
+5448	801018884	Bộ gối trục dìm 289x308x86mm	BO	1	KHO_CO			
+5449	801017180	Gối đỡ bên phải trục Crom dùng cho máy phủ hóa chất dây chuyền Nof 3	BO	1	KHO_CO			
+5450	801017181	Gối đỡ bên trái trục Crom dùng cho máy phủ hóa chất dây chuyền Nof 3	BO	1	KHO_CO			
+5451	801017182	Gối đỡ bên phải trục PU dùng cho máy phủ hóa chất dây chuyền Nof 3	BO	1	KHO_CO			
+5452	801017183	Gối đỡ bên trái trục PU dùng cho máy phủ hóa chất dây chuyền Nof 3	BO	1	KHO_CO			
+5453	801005362	Khớp nối ECE 6418 size 38 - Hub 1	CAI	34	KHO_CO			
+5454	801018422	Khớp nối ECE 6418 Size 24	BO	30	KHO_CO			
+5455	801018887	Bánh xe dàn bù phi 405x100mm	BO	4	KHO_CO			
+5456	801011404	Van tay gạt SHV 300-04, ren 1/2 inch	CAI	16	KHO_CO			
+5457	801016281	Bulon chịu lực M12x60mm, cấp bền 12.9, ren lửng, gồm: Đai ốc, con tán	BO	165	KHO_CO			
+5458	801017202	Trục bánh xe dàn bù phi 85x324mm, gồm bánh xe phi 420	BO	4	KHO_CO			
+5459	801016280	Lõi trục phủ máy phi 210x2100mm	CAY	3	KHO_CO			
+5460	801017236	Van an toàn A48Y-150LB	CAI	2	KHO_CO			
+5461	801017197	Gối đỡ bánh xe dầm biên bên lắp motor dùng cho cầu trục Abus 20 tấn	CAI	2	KHO_CO			
+5462	801017196	Gối đỡ bánh xe dầm biên dùng cho cầu trục Abus 32 tấn	CAI	2	KHO_CO			
+5463	801017195	Gối đỡ bánh xe dầm biên Bên lắp motor dùng cho cầu trục Abus 32 tấn	CAI	6	KHO_CO			
+5464	801017199	Gối đỡ bánh xe rùa bên lắp motor dùng cho cầu trục Abus 32 tấn	CAI	4	KHO_CO			
+5465	812000443	Ống lót bánh xe dầm biên dùng cho cầu trục Abus 32 tấn	CAI	6	KHO_CO			
+5466	812000440	Chữ thập tang thu cuộn dùng cho dây chuyền Nof 3 phi 480 x 95mm	CAI	1	KHO_CO			
+5467	812000439	Chữ thập tang xả cuộn dùng cho dây chuyền Nof 3 phi 490 x 95mm	CAI	4	KHO_CO			
+5468	801016365	Hộp vít me FCWKO40 ratio 1/40, type C	CAI	4	KHO_CO			
+5469	801017200	Puly cuốn cáp dùng cho cẩu trục 32 tấn	CAI	2	KHO_CO			
+5470	801015175	Van thủy lực 4WE6J61B/CG24N9Z5L	CAI	5	KHO_CO	!A#	True	8/20/2018 2:46:51 PM
+5471	801011435	Van thủy lực 4WE10D31B/CW220-50N9Z5L	CAI	2	KHO_CO			
+5472	812000354	Khuôn dập chữ I	BO	10	KHO_CO			
+5473	801001778	Bộ lọc đôi GFC300-15 ren 21	BO	4	KHO_CO	4	True	8/20/2018 10:21:28 AM
+5474	812000441	Bánh xe di chuyển khung hàn phi 100 x 57mm	CON	8	KHO_CO			
+5475	801019402	Trục cardan phi 110x600mm	CAI	2	KHO_CO			
+5476	801017511	Align pin PN 023510	CAI	10	KHO_CO			
+5477	801017512	Bearing PN 024633	CAI	5	KHO_CO			
+5478	801017513	Valve collar PN 024676	CAI	5	KHO_CO			
+5479	801017516	Needle Bearing PN 008751	CAI	5	KHO_CO	5	True	8/20/2018 3:14:13 PM
+5480	802008149	Quạt 54569546, 24 inch	CAI	1	KHO_CO			
+5481	801019612	Van an toàn PN 72062185	CAI	1	KHO_CO			
+5482	801019400	Lọc khí AR25-03G-A	CAI	5	KHO_CO			
+5483	801006000	Lọc dầu máy nén khí Ingersollrand MM75, PN 39911631	CAI	7	KHO_CO			
+5484	801005997	Lọc dầu máy nén khí 23424922	CAI	6	KHO_CO			
+5485	801018834	Xy lanh đóng mở van máy nén khí PN 22334155	CAI	2	KHO_CO			
+5486	801019025	Đồng hồ điều áp khí dạng cơ SAR 6000T-10G	CAI	1	KHO_CO			
+5487	801018129	Bộ tách dầu máy nén khí P/N 2901056622, gồm: Oring	BO	1	KHO_CO			
+5488	812000674	Đầu bò dẫn động phi 380x650mm	CAI	1	KHO_CO			
+5489	801004576	Đồng hồ đó lưu lượng nước WPH-NQN40 DN80	CAI	1	KHO_CO			
+5490	801017389	Van F30154	CAI	2	KHO_CO			
+5491	801017237	Bộ bánh răng hộp số tang thu cuộn dùng cho dây chuyền Mạ màu 1, gồm: bánh răng lớn, trục bánh răng, bánh răng giữa, trục trung gian	BO	1	KHO_CO			
+5492	801011109	Van đồng tay gạt DN50	CAI	2	KHO_CO			
+5493	801019428	Van cổng WCB DN50	CAI	2	KHO_CO			
+5494	801018597	Vòng đệm phi 8.5 x phi 24 x 5mm	CAI	50	KHO_CO			
+5495	801019614	Van điều áp ALFA50, code: 2.50.55	CAI	1	KHO_CO			
+5496	801019613	Van điều áp ALFA20, code: 2.50.25	CAI	2	KHO_CO			
+5497	801016379	Bộ trục vít bánh vítType: 1, Stroke: 120, Ratio: 24:1, Size (thread): M18X1.5P, Capacity (TON): 2	CAI	2	KHO_CO	2	True	8/20/2018 3:37:02 PM
+5498	801013251	Hạt gốm Ceramic	KG	300	KHO_CO			
+5499	812000077	Khuôn dập chữ I dày	BO	4	KHO_CO			
+5500	812000078	Khuôn dập chữ I mỏng	BO	1	KHO_CO			
+5501	801011201	Van hơi chữ ngã dài 220mm dùng cho dây chuyền mạ công nghệ NOF DN50, PN25, WCB	CAI	1	KHO_CO			
+5502	801018835	Van điện từ cấp dầu trục vít máy nén khí PN 22173629	CAI	3	KHO_CO			
+5503	801004801	Gối đỡ dùng cho trục máy nắn phẳng NOF3 phi 35, 40mm	BO	84	KHO_CO			
+5504	801004802	Gối đỡ dùng cho trục quạt buồng sấy lò Gas, đốt phụ, cromic	BO	2	KHO_CO			
+5505	801005005	Hộp số FCWKO 80, i1/10	CAI	2	KHO_CO			
+5506	801005007	Hộp số GM4RSF70	CAI	1	KHO_CO			
+5507	801005008	Hộp số GRSZ107AD5-22.62-M1, i22.62	CAI	2	KHO_CO			
+5508	801005009	Hộp số GRSZ137AD7-19.38-M1, i19.38	BO	1	KHO_CO			
+5509	801005016	Hộp số M4RSF70 31kW, 110.3/1, 750v/ph	CAI	1	KHO_CO			
+5510	801005018	Hộp số NBD400-25, i25	CAI	1	KHO_CO			
+5511	801005030	Hộp số TBWEDY9245A-731, 5.5kW	CAI	1	KHO_CO			
+5512	801005041	Hộp số ZDY125-2.8-I	CAI	3	KHO_CO			
+5513	801005043	Hộp số ZDY200-3.55-IV	CAI	1	KHO_CO			
+5514	801005044	Hộp số ZDY250-5.6-II	CAI	1	KHO_CO			
+5515	801005051	Hộp giảm tốc ZLY112-18–I	CAI	2	KHO_CO			
+5516	801005052	Hộp số ZLY112-8-II	CAI	2	KHO_CO			
+5517	801005053	Hộp số ZLY125-16-II	BO	2	KHO_CO			
+5518	801005054	Hộp số ZLY125-18-I	BO	1	KHO_CO			
+5519	801005055	Hộp số ZLY125-18-II	BO	2	KHO_CO			
+5520	801005056	Hộp số ZLY125-20-II	BO	2	KHO_CO			
+5521	801005059	Hộp số ZLY140-18-I	CAI	1	KHO_CO			
+5522	801005060	Hộp số ZLY140-18-II	BO	1	KHO_CO			
+5523	801005062	Hộp số ZLY160-16-I	BO	1	KHO_CO			
+5524	801005063	Hộp giảm tốc ZLY160-16–II	CAI	3	KHO_CO			
+5525	801005064	Hộp số ZLY160-18-I	CAI	2	KHO_CO			
+5526	801005065	Hộp số ZLY160-18-II	CAI	2	KHO_CO			
+5527	801005067	Hộp số ZLY180-18-I	BO	1	KHO_CO			
+5528	801005068	Hộp số ZLY180-18-II	BO	2	KHO_CO			
+5529	801005069	Hộp số ZLY200-16-I	CAI	1	KHO_CO			
+5530	801005070	Hộp số ZLY200-18-I	CAI	1	KHO_CO			
+5531	801005071	Hộp số ZLY200-18-II	CAI	1	KHO_CO			
+5532	801005075	Hộp số ZLY224-16-I	BO	1	KHO_CO			
+5533	801005076	Hộp số ZLY224-18-I	CAI	1	KHO_CO			
+5534	801005079	Hộp số ZLY250-16-II	CAI	1	KHO_CO			
+5535	801005080	Hộp số ZLY250-20-I	BO	2	KHO_CO			
+5536	801005082	Hộp số ZLY280-16-I	CAI	3	KHO_CO			
+5537	801005085	Hộp số ZLY280-22.4-II	BO	1	KHO_CO			
+5538	801005086	Hộp số ZLY315-20-I	BO	1	KHO_CO			
+5539	801005087	Hộp số ZLY315-20-II	CAI	1	KHO_CO			
+5540	801005088	Hộp số ZLY355-12.5-I	BO	1	KHO_CO			
+5541	801005089	Hộp số ZLY355-9-II	BO	1	KHO_CO			
+5542	801005090	Hộp số ZLY560-90-II	BO	1	KHO_CO			
+5543	801005092	Hộp số ZSY160-25-I	BO	2	KHO_CO			
+5544	801005093	Hộp số ZSY160-25-II	CAI	1	KHO_CO			
+5545	801005094	Hộp số ZSY160-35.5-II	CAI	1	KHO_CO			
+5546	801005095	Hộp số ZSY180-18-I	CAI	1	KHO_CO			
+5547	801005098	Hộp số ZSY200-22.4-I	BO	2	KHO_CO			
+5548	801005099	Hộp số ZSY200-25 II	BO	1	KHO_CO			
+5549	801005100	Hộp số ZSY200-25-I	CAI	1	KHO_CO			
+5550	801005102	Hộp số ZSY200-40-II	CAI	1	KHO_CO			
+5551	801005103	Hộp số ZSY224-22.4-I	CAI	1	KHO_CO			
+5552	801005104	Hộp số ZSY224-25-I	CAI	1	KHO_CO			
+5553	801005105	Hộp số ZSY224-25-II	CAI	2	KHO_CO			
+5554	801005106	Hộp số ZSY224-28-I	BO	1	KHO_CO			
+5555	801005107	Hộp số ZSY224-28-II	BO	1	KHO_CO			
+5556	801005108	Hộp số ZSY250-22.4-II	BO	1	KHO_CO			
+5557	801005113	Hộp số ZSY280-22.4-I	BO	2	KHO_CO			
+5558	801005114	Hộp số ZSY280-22.4-II	CAI	2	KHO_CO			
+5559	801005115	Hộp số ZSY280-25-I	CAI	1	KHO_CO			
+5560	801005118	Hộp số ZSY280-28-II	BO	2	KHO_CO			
+5561	801005121	Hộp số ZSY315-25-I	CAI	1	KHO_CO			
+5562	801005123	Hộp số ZSY315-25-II	CAI	1	KHO_CO			
+5563	801005124	Hộp số ZSY315-28-I	BO	1	KHO_CO			
+5564	801005125	Hộp số ZSY315-90-I	BO	1	KHO_CO			
+5565	801005127	Hộp số ZSY355-25-II	CAI	1	KHO_CO			
+5566	801005128	Hộp số ZSY400-22.4-I	BO	1	KHO_CO			
+5567	801005129	Hộp số ZSY400-22.4-II	BO	1	KHO_CO			
+5568	801005131	Hộp số ZSY450-22.4-I	BO	1	KHO_CO			
+5569	801005132	Hộp số ZSY450-22.4-II	BO	1	KHO_CO			
+5570	801005133	Hộp số ZSY450-25-I	BO	1	KHO_CO			
+5571	801005135	Hộp số ZSY450-25-II	BO	1	KHO_CO			
+5572	801005137	Hộp số ZSY450-28-I	BO	1	KHO_CO			
+5573	801005138	Hộp số ZSY450-90-II	BO	1	KHO_CO			
+5574	801005139	Hộp số ZSY500-25-I	BO	2	KHO_CO			
+5575	801005140	Hộp số ZSY500-25-II	BO	1	KHO_CO			
+5576	801005141	Hộp số ZSY500-28-I	CAI	1	KHO_CO			
+5577	801005142	Hộp số ZSY500-28-II	BO	1	KHO_CO			
+5578	801005146	Hộp số ZSY560-90-II	CAI	1	KHO_CO			
+5579	801005265	Thanh kẹp tôn dùng cho tang dây chuyền NOF1	CAI	2	KHO_CO			
+5580	801005269	Đầu nối móng ngựa inox 316L phi 20x2.5mm	CAI	4	KHO_CO	4	True	8/20/2018 3:19:05 PM
+5581	801005270	Đầu nối móng ngựa inox 316L phi 25x3mm	CAI	4	KHO_CO	4	True	8/20/2018 3:18:55 PM
+5582	801005277	Khớp bánh răng trượt trên trục bơm máy tiện Z35	CAI	3	KHO_CO	3	True	8/20/2018 2:53:03 PM
+5583	801005283	Khớp nối 160x230/140x200, 160x250/130x200	CAI	2	KHO_CO			
+5584	801005285	Khớp nối 3 chấu dùng cho nối trục motor và hộp giảm tốc phi trong 31, phi trong 60, dài 230mm	CAI	1	KHO_CO			
+5585	801005287	Khớp nối 3 chấu phi 54x53mm	CAI	1	KHO_CO	1	True	8/20/2018 3:58:47 PM
+5586	801005288	Khớp nối 3 chấu phi 95x85mm	CAI	1	KHO_CO	1	True	8/20/2018 3:58:43 PM
+5587	801005294	Khớp nối BC 460F460 Y140x200/Y160x240	CAI	2	KHO_CO			
+5588	801005295	Khớp nối BC175F268S9	CAI	4	KHO_CO			
+5589	801005297	Khớp nối BC460F460 Y140x200/Y160x240	CAI	1	KHO_CO			
+5590	801005298	Khớp nối BC460F460 Y160x240/140x200	CAI	1	KHO_CO			
+5591	801005299	Khớp nối BC460F460 Y160x240/Y130x200	CAI	3	KHO_CO			
+5592	801005300	Khớp nối BC460F460 Y160x240/Y140x200	CAI	4	KHO_CO			
+5593	801005305	Khớp nối bi cầu từ hộp số đến truc S số 1 trước máy nắn NOF4 BC600F640	CAI	3	KHO_CO			
+5594	801005306	Khớp nối bi cầu từ hộp số đến truc S số 2 sau máy nắn NOF4 BC600F690	CAI	4	KHO_CO			
+5595	801005307	Khớp nối bi cầu từ hộp số đến truc S số 2 trước máy nắn NOF4 BC600F690	CAI	1	KHO_CO			
+5596	801005308	Khớp nối BJS410A130x200/160x240-500	CAI	2	KHO_CO			
+5597	801005310	Khớp nối BJS410A170x240/160x240-500	CAI	2	KHO_CO			
+5598	801005311	Khớp nối BJS410A-170x240/160x240-500	CAI	4	KHO_CO			
+5599	801005326	Khớp nối chốt thép HL5 Y65x142/Y48x112	CAI	2	KHO_CO			
+5600	801005327	Khớp nối chốt thép HL6 Y75x142/Y48x112	CAI	2	KHO_CO			
+5601	801005328	Khớp nối cuốn cuộn 1 và 2 250x325/220x290	CAI	1	KHO_CO			
+5602	801005332	Khớp nối đồng thau xoay ren phải dùng cho đường ống dẫn nước làm mát trục lò gas	CAI	5	KHO_CO			
+5603	801005335	Khớp nối dùng cho bơm trạm nguồn thủy lực CPC HD25	CAI	1	KHO_CO	1	True	8/20/2018 3:50:45 PM
+5604	801005338	Khớp nối dùng cho dàn bù đầu vào, ra 18x42/17x42	CAI	2	KHO_CO			
+5605	801005339	Khớp nối dùng cho dây chuyền Mạ Màu WGP2 Y38x82 S9	CAI	1	KHO_CO			
+5606	801005340	Khớp nối dùng cho dây chuyền Mạ Màu WGP2 Y48x112 S9	CAI	2	KHO_CO			
+5607	801005341	Khớp nối dùng cho dây chuyền Mạ Màu WGP2 Y55x112 S9	CAI	2	KHO_CO			
+5608	801005343	Khớp nối dùng cho máy kéo căng số 1,2,3,5,7 dây chuyền Mạ Màu 1	CAI	6	KHO_CO			
+5609	801005344	Khớp nối dùng cho máy kéo căng số 4,6,8 GIICL7 100x167/100x212	CAI	1	KHO_CO			
+5610	801005345	Khớp nối dùng cho máy kéo căng số 5-6 150x195/150x195	CAI	1	KHO_CO			
+5611	801005346	Khớp nối dùng cho máy nắn 5 trục 35x180/35x110	CAI	1	KHO_CO			
+5612	801005347	Khớp nối dùng cho máy phủ Cromic 160x245/140x180	CAI	2	KHO_CO			
+5613	801005349	Khớp nối dùng cho máy xả cuộn 80x132/80x172	CAI	1	KHO_CO			
+5614	801005350	Khớp nối dùng cho motor lò NOF	CAI	21	KHO_CO	21	True	8/20/2018 3:56:01 PM
+5615	801005351	Khớp nối dùng cho quạt cấp khí lò gas NOF 4 65x110/65x140	CAI	2	KHO_CO			
+5616	801005352	Khớp nối dùng cho trục chuyển hướng phi trong 95x130mm Z17	CAI	4	KHO_CO			
+5617	801005353	Khớp nối dùng cho trục chuyển hướng trước và sau máy nắn HL6 75x142/148x112	CAI	1	KHO_CO			
+5618	801005354	Khớp nối dùng cho trục chuyển hướng trước và sau máy nắn WGP9 110x210/120x142	CAI	1	KHO_CO			
+5619	801005355	Khớp nối dùng cho trục cửa lò 30x60/40x82	CAI	9	KHO_CO			
+5620	801005356	Khớp nối dùng cho trục cửa lò GIICL2 J1	CAI	1	KHO_CO			
+5621	801005359	Khớp nối dùng cho trục kéo căng WGP4 Y65x142/J1 42	CAI	2	KHO_CO			
+5622	801005360	Khớp nối dùng cho trục S ra vào	CAI	4	KHO_CO			
+5623	801005361	Khớp nối dùng cho trục S trước, sau máy là phẳng vào, ra HL5 Y65x142/Y48x112	CAI	2	KHO_CO			
+5624	801005388	Khớp nối giãn nở cao su DN125, JIS 10K	CAI	10	KHO_CO			
+5625	801005438	Khớp nối giãn nở dùng cho chỉnh tâm CPC số 5 dây chuyền NOF1	CAI	2	KHO_CO			
+5626	801005440	Khớp nối giãn nở dùng cho trục căng số 4	CAI	5	KHO_CO			
+5627	801005454	Khớp nối giãn nở inox dùng cho dây chuyền NOF DN2002WB200-380	CAI	8	KHO_CO			
+5628	801005458	Khớp nối giãn nở inox nối bích DN80x300mm, JIS 10K	CAI	1	KHO_CO			
+5629	801005459	Khớp nối giãn nở inox phi 1000x2x370mm	CAI	1	KHO_CO			
+5630	801005460	Khớp nối giãn nở inox phi 400x2x370mm	CAI	2	KHO_CO			
+5631	801005462	Khớp nối giãn nở inox phi 590x700mm	CAI	3	KHO_CO			
+5632	801005463	Khớp nối giãn nở inox phi 600x2x370mm	CAI	1	KHO_CO			
+5633	801005464	Khớp nối giãn nở inox phi 800x2x370mm	CAI	2	KHO_CO			
+5634	801005478	Khớp nối GIICL10 J1 100x167/J1	CAI	2	KHO_CO			
+5635	801005479	Khớp nối GIICL10 J1 100x167/J1 140x202	CAI	2	KHO_CO			
+5636	801005480	Khớp nối GIICL10 J1 100x167/J1 150x202	CAI	1	KHO_CO			
+5637	801005481	Khớp nối GIICL10 J1 100x167/J1 95x132	CAI	1	KHO_CO			
+5638	801005482	Khớp nối GIICL10 J1 110x167/J1	CAI	1	KHO_CO			
+5639	801005483	Khớp nối GIICL10 J1 110x167/J1 150x202	CAI	4	KHO_CO			
+5640	801005486	Khớp nối GIICL10 J1 95x132/J1 110x167	CAI	2	KHO_CO			
+5641	801005487	Khớp nối GIICL10 Y100x212/J1 100x132	CAI	1	KHO_CO			
+5642	801005489	Khớp nối GIICL10 Y150x202/J1 130x202	CAI	4	KHO_CO			
+5643	801005490	Khớp nối GIICL11	CAI	1	KHO_CO			
+5644	801005492	Khớp nối GIICL11 J1 130x202/J1 160x242	CAI	4	KHO_CO			
+5645	801005493	Khớp nối GIICL11 J1 130x202/J1 170x242	CAI	4	KHO_CO			
+5646	801005494	Khớp nối GIICL12	CAI	1	KHO_CO			
+5647	801005495	Khớp nối GIICL12 J1 110x167/J1 160x242	CAI	2	KHO_CO			
+5648	801005496	Khớp nối GIICL12 J1 130x202/J1	CAI	1	KHO_CO			
+5649	801005497	Khớp nối GIICL12 J1 130x202/J1 160x242	CAI	1	KHO_CO			
+5650	801005498	Khớp nối GIICL12 J1 140x202/J1	CAI	1	KHO_CO			
+5651	801005499	Khớp nối GIICL12 J1 140x202/J1 160x242	CAI	2	KHO_CO			
+5652	801005502	Khớp nối GIICL12 J1 140x202/J1 190x282	CAI	2	KHO_CO			
+5653	801005503	Khớp nối GIICL12 J1 170x242/J1 160x242	CAI	5	KHO_CO			
+5654	801005504	Khớp nối GIICL12 Y160x242/J1 110x167	CAI	1	KHO_CO			
+5655	801005505	Khớp nối GIICL12 Y180x242/Y180x303	CAI	2	KHO_CO			
+5656	801005506	Khớp nối GIICL13 Y180x242/Y180x302	CAI	3	KHO_CO			
+5657	801005507	Khớp nối GIICL13 Y180x302/J1 180x242	CAI	2	KHO_CO			
+5658	801005508	Khớp nối GIICL14 J1 180x242/ J1 250x330	CAI	1	KHO_CO			
+5659	801005509	Khớp nối GIICL14 J1 180x242/J1	CAI	1	KHO_CO			
+5660	801005510	Khớp nối GIICL14 J1 180x242/J1 250x330	CAI	1	KHO_CO			
+5661	801005511	Khớp nối GIICL14 J1 220x282/J1	CAI	1	KHO_CO			
+5662	801005512	Khớp nối GIICL14 J1 220x282/J1 170x242	CAI	3	KHO_CO			
+5663	801005516	Khớp nối GIICL14 Y180x302/J1 180x242	CAI	2	KHO_CO			
+5664	801005517	Khớp nối GIICL15 J1 280x380/J1	CAI	1	KHO_CO			
+5665	801005518	Khớp nối GIICL15 J1 280x380/J1 260x330	CAI	2	KHO_CO			
+5666	801005519	Khớp nối GIICL2 J1 30x60/J1	CAI	5	KHO_CO			
+5667	801005520	Khớp nối GIICL2 Y25x52/J1 40x84	CAI	13	KHO_CO			
+5668	801005521	Khớp nối GIICL2 Y30x60/J1 40x82	CAI	1	KHO_CO			
+5669	801005522	Khớp nối GIICL2 Y40x82/J1 30x60	CAI	6	KHO_CO			
+5670	801005523	Khớp nối GIICL5	CAI	1	KHO_CO			
+5671	801005524	Khớp nối GIICL5 Y55x112/Y75x142	CAI	2	KHO_CO			
+5672	801005526	Khớp nối GIICL6 Y90x172/J1 55x84	CAI	3	KHO_CO			
+5673	801005527	Khớp nối GIICL6 Y90x172/J1 65x107	CAI	7	KHO_CO			
+5674	801005528	Khớp nối GIICL6 Y90x172/J1 75x107	CAI	1	KHO_CO			
+5675	801005529	Khớp nối GIICL7 Y100x212/J1 100x132	CAI	1	KHO_CO			
+5676	801005530	Khớp nối GIICL7 Y100x212/J1 100x167	CAI	7	KHO_CO			
+5677	801005531	Khớp nối GIICL7 Y100x212/J1 85x132	CAI	9	KHO_CO			
+5678	801005532	Khớp nối GIICL7 Y100x212/J1 95x132	CAI	3	KHO_CO			
+5679	801005533	Khớp nối GIICL7 Y95x172/J1 85x132	CAI	2	KHO_CO			
+5680	801005534	Khớp nối GIICL8 J1 85x132/Y90	CAI	2	KHO_CO			
+5681	801005535	Khớp nối GIICL8 Y100x212/J1 100x167	CAI	3	KHO_CO			
+5682	801005537	Khớp nối GIICL8 Y90x172/J1 70x107	CAI	1	KHO_CO			
+5683	801005538	Khớp nối GIICL8 Y90x172/J1 85x132	CAI	1	KHO_CO			
+5684	801005539	Khớp nối GIICL8 Y90x172/J1 95x132	CAI	3	KHO_CO			
+5685	801005540	Khớp nối GIICL8 Y95x172/J1 70x107	CAI	1	KHO_CO			
+5686	801005546	Khớp nối HL3 Y35x82/Y30x82	CAI	3	KHO_CO			
+5687	801005547	Khớp nối HL5 Y55x112/Y38x112	CAI	1	KHO_CO			
+5688	801005548	Khớp nối HL5 Y65x142/Y48x112	CAI	2	KHO_CO			
+5689	801005549	Khớp nối HL6 Y65X142/Y48X112	CAI	1	KHO_CO			
+5690	801005550	Khớp nối HL6 Y75x142/Y48x112	CAI	4	KHO_CO			
+5691	801005551	Khớp nối HL6 Y75x142/Y48x113	CAI	1	KHO_CO			
+5692	801005552	Khớp nối HL6 Y80x172/Y60x142	CAI	2	KHO_CO			
+5693	801005553	Khớp nối HL7 Y100x212/J1 80x132	CAI	2	KHO_CO			
+5694	801005554	Khớp nối HL7 Y95x172/J1 70x107	CAI	2	KHO_CO			
+5695	801005555	Khớp nối HL7 Y95x172/J1 70x132	CAI	2	KHO_CO			
+5696	801005556	Khớp nối HL7 Y95x172/J1 80x132	CAI	2	KHO_CO			
+5697	801005557	Khớp nối HL7 Y95x172/Y70x142	CAI	2	KHO_CO			
+5698	801005558	Khớp nối HLL6 YA50x142/YA60x142	CAI	1	KHO_CO			
+5699	801005559	Khớp nối HLL6 YA60x142/YA60x142	CAI	1	KHO_CO			
+5700	801005570	Khớp nối motor dầm biên cầu trục phi trong 12mm	BO	5	KHO_CO	5	True	8/20/2018 3:57:27 PM
+5701	801005571	Khớp nối motor dầm biên cầu trục phi trong 24mm	BO	5	KHO_CO	5	True	8/20/2018 3:57:35 PM
+5702	801005635	Khớp nối sắt dùng cho dàn bù đầu ra - vào J1 280x380/J1 260x330	CAI	2	KHO_CO			
+5703	801005640	Khớp nối sắt dùng cho dây chuyền Cắt Biên NT 1016	CAI	1	KHO_CO	1	True	8/20/2018 3:13:06 PM
+5704	801005641	Khớp nối sắt dùng cho dây chuyền Cắt Biên NT 8316	CAI	1	KHO_CO	1	True	8/20/2018 3:12:56 PM
+5705	801005642	Khớp nối sắt dùng cho máy sơn J18x42/J12x42	CAI	2	KHO_CO			
+5706	801005648	Khớp nối SISY BC150F180 S7	CAI	1	KHO_CO			
+5707	801005649	Khớp nối SISY BC150F180A S7	CAI	1	KHO_CO			
+5708	801005650	Khớp nối SISY BC287F295B S7	CAI	1	KHO_CO			
+5709	801005651	Khớp nối thắng đĩa BJS2154FZ95x172/80x172-354	CAI	2	KHO_CO			
+5710	801005652	Khớp nối thắng đĩa BJS275AFS101x210/110x210-439	CAI	2	KHO_CO			
+5711	801005662	Khớp nối thắng đĩa SISY BC150F180AS7	CAI	2	KHO_CO			
+5712	801005663	Khớp nối thắng đĩa SISY BC150F180S7	CAI	4	KHO_CO			
+5713	801005664	Khớp nối thắng đĩa SISY BC175F238S7	CAI	3	KHO_CO			
+5714	801005665	Khớp nối thắng đĩa SISY BC175F240S7	CAI	3	KHO_CO			
+5715	801005666	Khớp nối thắng đĩa SISY BC175F268S9	CAI	2	KHO_CO			
+5716	801005667	Khớp nối thắng đĩa SISY BC175F270AS7	CAI	1	KHO_CO			
+5717	801005668	Khớp nối thắng đĩa SISY BC175F270S7	CAI	6	KHO_CO			
+5718	801005669	Khớp nối thắng đĩa SISY BC175F570S7	CAI	2	KHO_CO			
+5719	801005670	Khớp nối thắng đĩa SISY BC287F295AS7	CAI	2	KHO_CO			
+5720	801005671	Khớp nối thắng đĩa SISY BC287F295BS7	CAI	2	KHO_CO			
+5721	801005672	Khớp nối thắng đĩa SISY BC287F295S7	CAI	2	KHO_CO			
+5722	801005673	Khớp nối thắng đĩa SISY BC287F300AS7	CAI	3	KHO_CO			
+5723	801005674	Khớp nối thắng đĩa SISY BC287F300S7	CAI	3	KHO_CO			
+5724	801005675	Khớp nối thắng đĩa SISY BC287F320S7	CAI	2	KHO_CO			
+5725	801005676	Khớp nối thắng đĩa SISY BC287F330AS7	CAI	2	KHO_CO			
+5726	801005699	Khớp nối thắng đĩa WGP2 Y38x82/Y22x52 - II	CAI	5	KHO_CO			
+5727	801005700	Khớp nối thắng đĩa WGP2 Y38x82/Y24x52	CAI	2	KHO_CO			
+5728	801005701	Khớp nối thắng đĩa WGP2 Y38x82/Y24x52 - II	CAI	2	KHO_CO			
+5729	801005703	Khớp nối thắng đĩa WGP2 Y42x112/Y24x52 - II S9	CAI	1	KHO_CO			
+5730	801005705	Khớp nối thắng đĩa WGP2 Y42x112/Y32x82	CAI	1	KHO_CO			
+5731	801005709	Khớp nối thắng đĩa WGP2 Y42x142/Y28x62	CAI	1	KHO_CO			
+5732	801005710	Khớp nối thắng đĩa WGP2 Y42x142/Y32x82 - II S9	CAI	1	KHO_CO			
+5733	801005711	Khớp nối thắng đĩa WGP2 Y48x112/Y28x62 - II	CAI	2	KHO_CO			
+5734	801005712	Khớp nối thắng đĩa WGP2 Y48x112/Y32x82	CAI	2	KHO_CO			
+5735	801005713	Khớp nối thắng đĩa WGP2 Y48x112/Y32x82 - II	CAI	2	KHO_CO			
+5736	801005714	Khớp nối thắng đĩa WGP2 Y48x112/Y32x82 - II S9	CAI	4	KHO_CO			
+5737	801005715	Khớp nối thắng đĩa WGP2 Y55x112/J1 32x60	CAI	1	KHO_CO			
+5738	801005716	Khớp nối thắng đĩa WGP2 Y55x112/Y32x82	CAI	6	KHO_CO			
+5739	801005717	Khớp nối thắng đĩa WGP2 Y55x112/Y32x82 - II S9	CAI	1	KHO_CO			
+5740	801005718	Khớp nối thắng đĩa WGP2 Y55x122/Y32x82 - II	CAI	1	KHO_CO			
+5741	801005724	Khớp nối thắng đĩa WGP3	CAI	1	KHO_CO			
+5742	801005725	Khớp nối thắng đĩa WGP3 Y60x112/Y42x112	CAI	1	KHO_CO			
+5743	801005726	Khớp nối thắng đĩa WGP3 Y60x142/Y38x82	CAI	9	KHO_CO			
+5744	801005727	Khớp nối thắng đĩa WGP3 Y60x142/Y38x82 - II S9	CAI	2	KHO_CO			
+5745	801005728	Khớp nối thắng đĩa WGP3 Y60x142/Y42x112	CAI	3	KHO_CO			
+5746	801005729	Khớp nối thắng đĩa WGP3 Y60x142/Y60x142	CAI	3	KHO_CO			
+5747	801005730	Khớp nối thắng đĩa WGP3 Y75x142/Y55x112 - II	CAI	1	KHO_CO			
+5748	801005732	Khớp nối thắng đĩa WGP4 400 Y75x142/Y55x112 - II	CAI	1	KHO_CO			
+5749	801005733	Khớp nối thắng đĩa WGP4 48x102/80x172, WGP4 38x100/60x125	CAI	2	KHO_CO			
+5750	801005735	Khớp nối thắng đĩa WGP4 Y60x142/Y38x82	CAI	1	KHO_CO			
+5751	801005736	Khớp nối thắng đĩa WGP4 Y60x142/Y42x84	CAI	4	KHO_CO			
+5752	801005737	Khớp nối thắng đĩa WGP4 Y60x142/Y75x142	CAI	1	KHO_CO			
+5753	801005741	Khớp nối thắng đĩa WGP4 Y75x142/Y45x112	CAI	1	KHO_CO			
+5754	801005743	Khớp nối thắng đĩa WGP4 Y75x142/Y55x112	CAI	1	KHO_CO			
+5755	801005746	Khớp nối thắng đĩa WGP4 Y80x172/J1 48x84	CAI	3	KHO_CO			
+5756	801005749	Khớp nối thắng đĩa WGP4 Y80x172/J1 60x142	CAI	1	KHO_CO			
+5757	801005750	Khớp nối thắng đĩa WGP4 Y80x172/Y60x142	CAI	2	KHO_CO			
+5758	801005756	Khớp nối thắng đĩa WGP6 560 Y95x172/J1 95x132	CAI	2	KHO_CO			
+5759	801005757	Khớp nối thắng đĩa WGP6 630 Y80x172/Y75x107	CAI	1	KHO_CO			
+5760	801005758	Khớp nối thắng đĩa WGP6 Y80x172/J1 65x107	CAI	2	KHO_CO			
+5761	801005759	Khớp nối thắng đĩa WGP6 Y80x172/J1 75x107	CAI	1	KHO_CO			
+5762	801005761	Khớp nối thắng đĩa WGP6 Y80x172/Y95x172	CAI	1	KHO_CO			
+5763	801005763	Khớp nối thắng đĩa WGP6 Y95x172/J1 70x107 II	CAI	4	KHO_CO			
+5764	801005764	Khớp nối thắng đĩa WGP6 Y95x172/J1 80x132 II	CAI	3	KHO_CO			
+5765	801005765	Khớp nối thắng đĩa WGP6 Y95x172/J1 95x132 - II	CAI	1	KHO_CO			
+5766	801005768	Khớp nối thắng đĩa WGP8 Y110x212/J1 100x170	CAI	1	KHO_CO			
+5767	801005770	Khớp nối thắng đĩa WGP9 Y110x210/J1 120x142	CAI	2	KHO_CO			
+5768	801005771	Khớp nối thắng đĩa WGP9 Y110x212/Y120x142	CAI	1	KHO_CO			
+5769	801005773	Khớp nối TL 18x42/15x42	CAI	3	KHO_CO			
+5770	801005774	Khớp nối TL 18x42/17x43	CAI	2	KHO_CO			
+5771	801005775	Khớp nối TL2 J18x42/J12x42	BO	2	KHO_CO			
+5772	801005776	Khớp nối TL2 Y18x42/Y17x42	BO	1	KHO_CO			
+5773	801005802	Khớp nối xích 40 phi trục 43	CAI	2	KHO_CO	2	True	8/20/2018 3:53:09 PM
+5774	801005803	Khớp nối xích 50 phi trục 60	CAI	2	KHO_CO	2	True	8/20/2018 3:52:39 PM
+5775	801005822	Khớp nối xoay dùng cho cấp nước lò gas	CAI	14	KHO_CO			
+5776	801005826	Khớp nối ZL3 42x112/24x38	CAI	2	KHO_CO			
+5777	801005838	Van bi thủy lực cao áp DN32	CAI	5	KHO_CO	5	True	8/20/2018 3:59:00 PM
+5778	801005843	Lò xo đĩa đệm dùng cho dây chuyền NOF4	CAI	200	KHO_CO	200	True	8/20/2018 2:27:31 PM
+5779	801005888	Bộ lọc dầu hồi dùng cho trạm CPC FAX 63x20 (Hydraulic Return Filter on CPCs Huydraulic Power Pack)	CAI	6	KHO_CO			
+5780	801005889	Bộ lọc dầu hồi dùng cho trạm nguồn CPC FAX 63x10(Hydraulic Filter on CPCs Hydraulic Power Pack)	CAI	1	KHO_CO			
+5781	801005890	Bộ lọc dầu hồi dùng cho trạm thủy lực của máy cán bên trái DFBN/HC 110TC 5D1.0	CAI	1	KHO_CO			
+5782	801005891	Bộ lọc dầu hồi dùng cho trạm thủy lực máy cán bên phải PLF-E160x20F LH0160D020BN3HC (Hydraulic Return Filter on Skinpass Mill Huydraulic Power Pack)	CAI	1	KHO_CO			
+5783	801005892	Bộ lọc dầu máy phun dầu D30x10C (Oil Filter on Electrostatic Oiler,SMF)	CAI	4	KHO_CO	1	True	8/20/2018 3:45:22 PM
+5784	801005895	Bộ lọc dùng cho đường ống bơm dầu hộp số xả cuộn XU-AX TXX-40x50 (Oil Filter on lubrication Uncoiler System)	CAI	4	KHO_CO			
+5785	801005897	Bộ lọc gas đầu đốt FM DN50	CAI	3	KHO_CO			
+5786	801005898	Bộ lọc gió dùng cho hệ thống đầu xả cuộn C-M42 x 2	BO	2	KHO_CO	2	True	8/20/2018 3:06:03 PM
+5787	801005909	Bộ tra dầu SMC AL60-10A	BO	3	KHO_CO	3	True	8/20/2018 3:46:52 PM
+5788	801005930	Lọc dầu DF-H60x10-C	CAI	1	KHO_CO			
+5789	801005955	Lọc dầu dùng cho máy nén khí N75 Ingersollrand, PN 39907175	CAI	4	KHO_CO			
+5790	801005998	Lọc dầu máy nén khí GA132 Atlas Copco, PN 1621737890	CAI	10	KHO_CO			
+5791	801005999	Lọc dầu máy nén khí GA90 Atlas Copco, PN 2901194402	BO	2	KHO_CO			
+5792	801006011	Lọc dầu RFA 160x20L-Y	BO	2	KHO_CO			
+5793	801006012	Lọc dầu RFA 400x20Y	CAI	1	KHO_CO			
+5794	801006013	Lọc dầu RFA 63x20L	BO	2	KHO_CO			
+5795	801006017	Lọc dầu SMF D30x10C	BO	2	KHO_CO	2	True	8/20/2018 3:54:00 PM
+5796	801006059	Lọc dầu ZU-E63x10 DLP	BO	1	KHO_CO	1	True	8/20/2018 3:36:34 PM
+5797	801006063	Lọc gas DAMAS FM DN50 50 micron Pmax 6bar	BO	1	KHO_CO	1	True	8/20/2018 3:08:36 PM
+5798	801006069	Lọc gió máy nén khí Ingersollrand PN 54672530	CAI	1	KHO_CO			
+5799	801006073	Lọc gió dùng cho máy nén khí GA132 Atlas Copco, PN 1630040899	CAI	5	KHO_CO			
+5800	801006074	Lọc gió dùng cho máy nén khí GA75 Atlas Copco, PN 2901194402	CAI	3	KHO_CO			
+5801	801006075	Lọc gió dùng cho máy nén khí GA90 Atlas Copco, PN 2901194402	CAI	2	KHO_CO			
+5802	801006081	Lọc gió dùng cho máy nén khí Ingersollrand M110-VSD, PN 24172215	CAI	1	KHO_CO			
+5803	801006094	Lọc gió máy nén khí Ingersollrand M110, PN 39903281	CAI	5	KHO_CO			
+5804	801006095	Lọc gió máy nén khí Ingersollrand M110-VSD, PN 24172215	CAI	4	KHO_CO			
+5805	801006096	Lọc gió máy nén khí Ingersollrand MM75, PN 39708466	CAI	1	KHO_CO			
+5806	801006097	Lọc gió Máy nén khí Ingersollrand N75, PN 39907175	CAI	2	KHO_CO			
+5807	801006098	Lọc gió máy nén khí Ingersollrand R110, PN 23429822	CAI	7	KHO_CO			
+5808	801006100	Lọc gió máy nén khí Ingersollrand R132, PN 23487457	CAI	2	KHO_CO			
+5809	801006168	Lõi lọc cao áp CPC HDX- 63x10	CAI	1	KHO_CO	1	True	8/20/2018 3:07:35 PM
+5810	801006169	Lõi lọc cao áp dùng cho trạm nguồn CPC LH0060S0.01BH3HC (Hydraulic Direction Filter on CPC Hydraulic Power Pack)	CAI	6	KHO_CO			
+5811	801006173	Lõi lọc dầu 0060 D 010 BN4HC	CAI	5	KHO_CO	5	True	8/20/2018 3:07:30 PM
+5812	801006174	Lõi lọc dầu 0060 D010 ON	CAI	1	KHO_CO	1	True	8/20/2018 3:07:39 PM
+5813	801006175	Lõi lọc dầu 0110 D 010 ON	CAI	2	KHO_CO	2	True	8/20/2018 3:06:19 PM
+5814	801006194	Lõi lọc dầu CPC FAX 63x20	CAI	2	KHO_CO	2	True	8/20/2018 2:59:28 PM
+5815	801006198	Lõi lọc dầu dùng cho trạm nguồn máy cán 0110D003BN4HC	CAI	1	KHO_CO			
+5816	801006201	Lõi lọc dầu FAR 400x20	CAI	3	KHO_CO	3	True	8/20/2018 2:59:40 PM
+5817	801006202	Lõi lọc dầu FAX - 160x20	CAI	2	KHO_CO			
+5818	801006203	Lõi lọc dầu FAX- 400x10	CAI	1	KHO_CO	1	True	8/20/2018 3:05:32 PM
+5819	801006204	Lõi lọc dầu FAX 400x20	CAI	4	KHO_CO			
+5820	801006205	Lõi lọc dầu FAX- 400x20	CAI	10	KHO_CO	10	True	8/20/2018 3:05:27 PM
+5821	801006210	Lõi lọc dầu HDX 100x10	CAI	2	KHO_CO			
+5822	801006211	Lõi lọc dầu HDX 160x10	CAI	2	KHO_CO			
+5823	801006212	Lõi lọc dầu HDX 25x10	CAI	9	KHO_CO	9	True	8/20/2018 3:00:43 PM
+5824	801006213	Lõi lọc dầu HDX 63x10	CAI	3	KHO_CO			
+5825	801006214	Lõi lọc dầu HDX-63x10	CAI	4	KHO_CO			
+5826	801006218	Lõi lọc dầu LH0060D010BN3HC	BO	16	KHO_CO	10	True	8/20/2018 3:00:23 PM
+5827	801006222	Lõi lọc dầu RFA-63x20	CAI	6	KHO_CO	2	True	8/20/2018 3:08:12 PM
+5828	801006223	Lõi lọc dầu WU 250x80F-J	CAI	2	KHO_CO			
+5829	801006225	Lõi lọc FAX 160x20	CAI	6	KHO_CO			
+5830	801006227	Lõi lọc khí E7-28.1 micromet	CAI	2	KHO_CO	2	True	8/20/2018 3:05:41 PM
+5831	801006228	Lõi lọc khí E7-40.1 micromet	CAI	2	KHO_CO	2	True	8/20/2018 3:05:46 PM
+5832	801006229	Lõi lọc khí FF 30/30	CAI	2	KHO_CO			
+5833	801006231	Lõi lọc khí PE 30/30	CAI	2	KHO_CO			
+5834	801006232	Lõi lọc khí SMF 30/30	CAI	2	KHO_CO			
+5835	801006251	Tách dầu dùng cho máy nén khí GA132 Atlas Copco, PN 2906056500	BO	3	KHO_CO			
+5836	801006253	Tách dầu dùng cho máy nén khí Ingersollrand MM75, PN 54601513	CAI	2	KHO_CO			
+5837	801006254	Tách dầu dùng cho máy nén khí Ingersollrand N75, PN 38008587	CAI	2	KHO_CO			
+5838	801006258	Tách dầu máy nén khí Ingersollrand M110, PN 54509427	CAI	3	KHO_CO			
+5839	801015973	Tách dầu 2605272320	CAI	1	KHO_CO			
+5840	801015995	Lọc dầu 2605530180	CAI	1	KHO_CO			
+5841	801006261	Lưới cước dùng cho inductor dây chuyền mạ NOF	CUO	6	KHO_CO			
+5842	801006404	Ma ní G4161, 35 tấn	CAI	1	KHO_CO	1	True	8/20/2018 3:16:38 PM
+5843	801006468	Đầu nén máy nén khí Ingersollrand, PN 70237672	CAI	2	KHO_CO			
+5844	801014715	Rod 1622368831	CAI	3	KHO_CO			
+5845	801014716	Tape 1622368900	CAI	3	KHO_CO			
+5846	801015990	Ống tim tách dầu 2116010098	CAI	1	KHO_CO			
+5847	801015993	Ruột lọc khí T60P, 2118089642	CAI	1	KHO_CO			
+5848	801015994	Ruột lọc khí T60H, 2118089643	CAI	1	KHO_CO			
+5849	801016070	Dẫn hướng PN 1622318200	CAI	5	KHO_CO			
+5850	801006562	Oring PN 23559 dùng cho máy rút đai Signode model PN2-114	CAI	15	KHO_CO	15	True	8/20/2018 3:15:34 PM
+5851	801006579	Mũi chống tâm cố định VCF-MT3A	CAI	2	KHO_CO			
+5852	801006582	Mũi chống tâm cố định VLC-113	CAI	3	KHO_CO			
+5853	801006583	Mũi chống tâm cố định VLC-114	CAI	2	KHO_CO			
+5854	801006584	Mũi chống tâm cố định VLC-115	CAI	2	KHO_CO			
+5855	801006585	Mũi chống tâm cố định VLC-116	CAI	2	KHO_CO			
+5856	801006589	Mũi chống tâm quay VLC-MT4A	CAI	2	KHO_CO	2	True	8/20/2018 3:47:13 PM
+5857	801006590	Mũi chống tâm quay VLC-MT5A	CAI	3	KHO_CO	3	True	8/20/2018 3:47:08 PM
+5858	801006591	Mũi chống tâm quay VLC-MT6A	CAI	3	KHO_CO	3	True	8/20/2018 3:47:03 PM
+5859	801006926	Lưỡi dao phay đĩa hàn dùng cho dây chuyền Mạ Màu MM2-08-01-01-00	CAI	45	KHO_CO			
+5860	801006927	Lưỡi dao phay đĩa hàn dùng cho dây chuyền Mạ Màu MM2-08-01-02-00	CAI	8	KHO_CO			
+5861	801006928	Lưỡi dao phay đĩa hàn dùng cho dây chuyền Mạ Màu MM2-08-01-03-00	CAI	20	KHO_CO			
+5862	801006929	Lưỡi dao phay đĩa hàn dùng cho dây chuyền Mạ Màu phi 12x100mm	CAI	1	KHO_CO	1	True	8/20/2018 3:18:47 PM
+5863	801007089	Đầu nối nhanh L phi 16 ren 1/2inch	CAI	10	KHO_CO	10	True	8/20/2018 3:21:08 PM
+5864	801007205	Đầu nối nhanh tiết lưu J2S10-3-3X	CAI	1	KHO_CO	1	True	8/20/2018 3:01:28 PM
+5865	801007215	Đầu nối nhanh tiết lưu phi 12 ren 13	CAI	15	KHO_CO			
+5866	801007232	Đầu nối ống hạt bắp dùng cho ống phi 20S	CAI	5	KHO_CO	8	True	8/20/2018 3:19:56 PM
+5867	801007233	Đầu nối ống hạt bắp dùng cho ống phi 25S	CAI	3	KHO_CO	3	True	8/20/2018 3:20:07 PM
+5868	801007394	Đầu nối T dùng cho ống phi 20S	CAI	7	KHO_CO	7	True	8/20/2018 3:20:15 PM
+5869	801007395	Đầu nối T dùng cho ống phi 25S	CAI	3	KHO_CO	3	True	8/20/2018 3:20:24 PM
+5870	801007855	Co thép hàn mạ kẽm phi 34	CAI	20	KHO_CO			
+5871	801007938	Đầu nối thủy lực 1 đầu ren 1 inch BSPP gắn oring, 1 đầu ren 1 inch BSPP côn 60 độ, 250bar	CAI	5	KHO_CO			
+5872	801007940	Đầu nối thủy lực 1 đầu ren 1 inch NPT, 1 đầu ren 1 inch BSPP	CAI	2	KHO_CO			
+5873	801007941	Đầu nối thủy lực 1 đầu ren 1.1/2 inch BSPP gắn oring, 1 đầu ren 1.1/4 inch BSPP côn lồi 60 độ, 250bar	CAI	10	KHO_CO			
+5874	801007942	Đầu nối thủy lực 1 đầu ren 1.1/4 inch BSPP gắn oring, 1 đầu ren 1.1/4 inch BSPP côn lồi 60 độ, 250bar	CAI	4	KHO_CO			
+5875	801007943	Đầu nối thủy lực 1 đầu ren 1/2 inch BSPP gắn oring, 1 đầu ren 1/2 inch BSPP côn lồi 60 độ, 250bar	CAI	5	KHO_CO			
+5876	801007947	Đầu nối thủy lực 1 đầu ren 1/4 inch BSPP gắn oring, 1 đầu ren 1/4 inch BSPP côn lồi 60 độ, 250bar	CAI	4	KHO_CO			
+5877	801007953	Đầu nối thủy lực 1 đầu ren 2 inch BSPP gắn oring, 1 đầu ren 2 inch BSPP côn lồi 60 độ, 250bar	CAI	5	KHO_CO			
+5878	801007954	Đầu nối thủy lực 1 đầu ren 2 inch BSPP gắn oring, 1 đầu ren 2.1/2 inch BSPP côn lồi 60 độ, 250bar	CAI	5	KHO_CO			
+5879	801007960	Đầu nối thủy lực 1 đầu ren 3/4 inch BSPP gắn oring, 1 đầu ren 3/4 inch BSPP côn lồi 60 độ, 250bar	CAI	3	KHO_CO			
+5880	801007963	Đầu nối thủy lực 1 đầu ren 3/4 inch NPT, 1 đầu ren 3/4 inch BSPP	CAI	10	KHO_CO			
+5881	801007985	Đầu nối thủy lực 1 đầu ren ngoài 1.1/2 inch BSPP, 1 đầu hàn	BO	10	KHO_CO			
+5882	801007989	Đầu nối thủy lực 1 đầu ren ngoài 3/4 inch BSPP, 1 đầu hàn	BO	3	KHO_CO			
+5883	801007990	Đầu nối thủy lực 1 đầu ren ngoài M33x2 đầu bằng, 1 đầu hàn	BO	8	KHO_CO			
+5884	801008228	Mặt bích thép DN50, JIS10K	CAI	8	KHO_CO			
+5885	801008234	Mặt bích thép DN80	CAI	6	KHO_CO			
+5886	801008340	Ống inox 304 phi 21x2.5x6000mm	CAY	1	KHO_CO	1	True	8/20/2018 3:56:10 PM
+5887	801008359	Ống inox phi 20x2.5x6000mm	CAI	6	KHO_CO			
+5888	801008360	Ống inox phi 25x3x6000mm	CAI	3	KHO_CO			
+5889	801008960	Ống thủy lực 3/4 inch x 2200mm x 380bar, 2 đầu thẳng, côn lồi 60 độ, ren 3/4 inch BSPP	ONG	4	KHO_CO			
+5890	801016074	Ống dầu hồi PN 0574991903	CAI	3	KHO_CO			
+5891	801016075	Ống dầu hồi PN 0574991901	CAI	3	KHO_CO			
+5892	801016076	Ống dầu hồi PN 0574800257	CAI	3	KHO_CO			
+5893	801009293	Tời quay tay HW2000	CAI	1	KHO_CO			
+5894	801009384	Bạc lót dùng cho cụm trục đỡ bánh xe hàn của máy hàn 1248, 55x76x50mm	CAI	8	KHO_CO			
+5895	801009390	Bánh xe dùng cho nén máy hàn tôn	CAI	2	KHO_CO			
+5896	801009391	Bánh xe hàn bằng đồng dùng cho máy hàn tôn	CAI	2	KHO_CO			
+5897	801009392	Bánh xe hàn bằng đồng dùng cho máy hàn tôn dây chuyền Mạ Màu phi 64x270x12.7mm	CAI	15	KHO_CO			
+5898	801009393	Bánh xe hàn dùng cho máy hàn tôn 1199	CAI	14	KHO_CO			
+5899	801009394	Bánh xe hàn dùng cho máy hàn tôn 1247	CAI	5	KHO_CO			
+5900	801009395	Bánh xe hàn dùng cho máy hàn tôn 1619	CAI	6	KHO_CO			
+5901	801009396	Bánh xe hàn dùng cho máy hàn tôn 1667	CAI	8	KHO_CO			
+5902	801009397	Bánh xe hàn dùng cho máy hàn tôn lớn 1670	CAI	4	KHO_CO			
+5903	801009398	Bánh xe hàn dùng cho máy hàn tôn mỏng 1249	CAI	2	KHO_CO			
+5904	801009403	Cổ góp dùng cho máy hàn tôn 1247	CAI	30	KHO_CO			
+5905	801009407	Dao cắt dùng cho máy hàn	CAI	4	KHO_CO			
+5906	801009408	Dao cắt tôn dùng cho máy hàn tôn NOF3	CAI	4	KHO_CO			
+5907	801009410	Gối đỡ bánh xe hàn phía dưới dùng cho máy hàn lớn 1670	BO	1	KHO_CO			
+5908	801009411	Gối đỡ bánh xe hàn phía dưới dùng cho máy hàn tôn 1199	BO	1	KHO_CO			
+5909	801009413	Gối đỡ bánh xe hàn phía dưới dùng cho máy hàn tôn nhỏ 1664	BO	1	KHO_CO			
+5910	801009415	Gối đỡ bánh xe hàn phía trên dùng cho máy hàn tôn 1199	BO	1	KHO_CO			
+5911	801009427	Thanh ray dẫn hướng bằng sắt cho máy hàn LGW20CA	CAI	1	KHO_CO	1	True	8/20/2018 3:19:39 PM
+5912	801009428	Thanh ray dẫn hướng bằng sắt dùng cho máy hàn	BO	1	KHO_CO			
+5913	801009430	Trục cổ góp, cổ góp dùng cho máy hàn tôn 1199	BO	2	KHO_CO			
+5914	801009431	Trục cổ góp, cổ góp dùng cho máy hàn tôn 1247	BO	2	KHO_CO			
+5915	801009432	Trục cổ góp, cổ góp dùng cho máy hàn tôn lớn 1670	BO	2	KHO_CO			
+5916	801009433	Vòng ép trục lò xo dùng cho máy hàn tôn	CAI	10	KHO_CO			
+5917	801009440	Puly 355x6RC	CAI	1	KHO_CO			
+5918	801009441	Puly 360x6RC	CAI	1	KHO_CO			
+5919	801009486	Puly gối buồng cấp nhiệt phụ dùng cho dây chuyền Mạ Màu 1 phi 250x5, dày 115mm	CAI	4	KHO_CO			
+5920	801009490	Puly quạt tuần hoàn dùng cho dây chuyền Mạ Màu 2 phi 257x4, dày 110mm	CAI	1	KHO_CO			
+5921	801009797	Bố thắng búp sen DBH-205	CAI	125	KHO_CO			
+5922	801009813	Bộ thắng dùng cho hệ thống đầu xả và cuốn cuộn, YWZ4-400/E80	BO	2	KHO_CO			
+5923	801009814	Bộ thắng dùng cho hệ thống đầu xả và cuốn cuộn, YWZ4-5000/E80	BO	2	KHO_CO			
+5924	801009815	Bộ thắng dùng cho hệ thống đầu xả và cuốn cuộn, Ywz4-600/E2001	BO	3	KHO_CO			
+5925	801009816	Bố thắng dùng cho máy thu cuộn	CAI	1	KHO_CO			
+5926	801009817	Bố thắng dùng cho máy xả cuộn	CAI	1	KHO_CO			
+5927	801009835	Bố thắng YWZ 4-400/45	BO	5	KHO_CO			
+5928	801009836	Bố thắng YWZ 4-500/90	BO	4	KHO_CO			
+5929	801009925	Sóng trượt tang dùng cho dây chuyền Xẻ Băng	CAI	10	KHO_CO			
+5930	801009943	Thanh trượt dùng cho máy xả cuộn	CAI	4	KHO_CO	4	True	8/20/2018 3:55:15 PM
+5931	801009965	Thanh trượt tang dùng cho dây chuyền Xẻ Băng	CAI	20	KHO_CO			
+5932	801010043	Ty ren M30x2100mm, hai đầu ren 200mm	CAY	29	KHO_CO			
+5933	801010068	Cụm trục đỡ bánh xe hàn dùng cho máy hàn 1248 dây chuyền Mạ Màu 1	BO	2	KHO_CO			
+5934	801010072	Lõi trục chuyển hướng trên tháp NOF3 phi 1000x1600mm	CAY	1	KHO_CO			
+5935	801010074	Lõi trục đè dẫn tôn dây chuyền Xẻ Băng phi170x2060mm	CAY	1	KHO_CO			
+5936	801010129	Trục chống nhăn dùng cho máy cán, phi 350x2136mm	CAY	1	KHO_CO			
+5937	801010143	Trục chuyển hướng máy sơn chính dây chuyền Mạ Màu 1, phi 500x1450mm	CAY	2	KHO_CO			
+5938	801010150	Trục con lăn dẫn hướng máy cán, phi 65x132mm	CAY	10	KHO_CO	10	True	8/20/2018 3:56:45 PM
+5939	801010151	Trục con lăn đỡ dùng cho máy nắn, phi 65x132mm	CAY	35	KHO_CO			
+5940	801010175	Trục đè máy nắn dùng cho dây chuyền NOF1 phi 70x1500mm	CAY	7	KHO_CO			
+5941	801010176	Trục đè máy nắn phi 28x1450mm	CAY	43	KHO_CO			
+5942	801010184	Trục đỡ dùng cho máy nắn NOF3 phi 250x1450mm	CAY	4	KHO_CO			
+5943	801010190	Trục đỡ tôn đắp PU phi 90x1700mm	CAY	2	KHO_CO			
+5944	801010200	Trục đỡ trung gian dùng cho máy nắn dây chuyền NOF1 phi 40	CAY	7	KHO_CO			
+5945	801010205	Trục dùng cho quạt tuần hoàn	CAY	1	KHO_CO			
+5946	801010216	Trục hộp số tang xả cuộn 2 dùng cho dây chuyền Mạ Màu 2	CAY	1	KHO_CO			
+5947	801010222	Trục kéo căng 4 phi 600x3386mm	CAY	2	KHO_CO			
+5948	801010253	Trục máy nắn phẳng NOF2 phi 28x1460x1524mm	CAY	20	KHO_CO			
+5949	801010257	Trục máy nắn phi 35x1450mm	CAY	92	KHO_CO			
+5950	801010263	Trục nắn của máy nắn NOF4 phi 40x1450mm	CAY	20	KHO_CO			
+5951	801010265	Trục nắn dùng cho máy nắn NOF1 phi 70	CAY	4	KHO_CO			
+5952	801010288	Trục quấn cáp cho cụm dàn bù NOF1 phi 1500	CAY	1	KHO_CO			
+5953	801015120	Trục kẹp sang cuộn phi 200x2120mm	CAY	1	KHO_CO			
+5954	801015121	Trục kẹp hỗ trợ xả cuộn phi 170x650mm	CAY	2	KHO_CO			
+5955	801015123	Trục lò điện (Furnance roll of HGIL2)	CAY	3	KHO_CO			
+5956	801015534	Trục quạt lò sấy Phi 50x891mm	CAY	5	KHO_CO			
+5957	801015972	Trục bánh răng dùng cho máy làm niền	CAI	2	KHO_CO			
+5958	801010365	Ty ben mạ crom phi 55x500mm	CAY	3	KHO_CO			
+5959	801010367	Ty ben mạ crom phi 70x470mm	CAY	2	KHO_CO			
+5960	801010368	Ty ben mạ crom phi 70x500mm	CAY	2	KHO_CO			
+5961	801010374	Ty ben phi 40x1500mm	CAY	2	KHO_CO			
+5962	801010389	Ty ben thu cuộn dùng cho dây chuyền Mạ Màu 1	CAY	1	KHO_CO			
+5963	801010393	Ty ben xả cuộn dùng cho dây chuyền Mạ Màu 1	CAY	1	KHO_CO			
+5964	801015535	Ty ben phi 50x1500mm	CAY	2	KHO_CO			
+5965	801015536	Ty ben phi 55x1500mm	CAY	2	KHO_CO			
+5966	801016278	Ty ben phi 35x1500mm	CAY	2	KHO_CO			
+5967	801010413	Bộ van đóng mở ống khí hồi dùng cho trạm gas NOF4 KOSO-WUXI CQA2-036	BO	2	KHO_CO			
+5968	801010438	Đế van thủy lực CPC size 10	CAI	2	KHO_CO	2	True	8/20/2018 3:57:44 PM
+5969	801010468	Van 1 chiều 23449200	CAI	1	KHO_CO	1	True	8/20/2018 3:19:09 PM
+5970	801010471	Van 1 chiều DN100, ANSI class 300	CAI	1	KHO_CO			
+5971	801010473	Van 1 chiều DN150	CAI	2	KHO_CO			
+5972	801010478	Van 1 chiều DN50, ANSI class 300	CAI	2	KHO_CO			
+5973	801010479	Van 1 chiều DN80	CAI	1	KHO_CO	1	True	8/20/2018 10:20:12 AM
+5974	801010484	Van 1 chiều hơi mặt bích DN65, JIS 10K	CAI	1	KHO_CO	1	True	8/20/2018 3:59:19 PM
+5975	801010487	Van 1 chiều lá lật DN125, JIS 10K	CAI	10	KHO_CO			
+5976	801010489	Van 1 chiều lá lật DN80	CAI	3	KHO_CO			
+5977	801010490	Van 1 chiều lá lật inox 304 DN15, ren 1/2 inch	CAI	4	KHO_CO			
+5978	801010493	Van 1 chiều lá lật mặt bích DN100, JIS 10K	CAI	4	KHO_CO			
+5979	801010495	Van 1 chiều lá lật thép DN100, JIS 10K	CAI	5	KHO_CO			
+5980	801010496	Van 1 chiều lá lật thép DN80, JIS 10K	CAI	8	KHO_CO			
+5981	801010501	Van 1 chiều mặt bích DN100, JIS 10K	CAI	12	KHO_CO			
+5982	801010502	Van 1 chiều mặt bích DN80	CAI	5	KHO_CO			
+5983	801010503	Van 1 chiều mặt bích nhựa PP DN100, JIS 10K	CAI	2	KHO_CO			
+5984	801010514	Van 1 chiều thủy lực Z1S10P1-30B	CAI	15	KHO_CO	15	True	8/20/2018 10:07:39 AM
+5985	801010515	Van 1 chiều thủy lực Z1S10P1-30B/150YM	BO	5	KHO_CO	5	True	8/20/2018 9:55:29 AM
+5986	801010551	Van 611A 150A	CAI	2	KHO_CO	2	True	8/20/2018 3:54:16 PM
+5987	801010553	Van A27 H-10, DN50	CAI	1	KHO_CO	1	True	8/20/2018 3:21:21 PM
+5988	801010558	Van an toàn FCD-S, 10K-50	CAI	5	KHO_CO			
+5989	801010592	Van bi gang DN100, JIS 10K	CAI	2	KHO_CO			
+5990	801010601	Van bi inox 316L DN15	CAI	20	KHO_CO			
+5991	801010607	Van bi inox DN80, JIS 10K	CAI	2	KHO_CO			
+5992	801010614	Van bi mặt bích DN100	CAI	4	KHO_CO	4	True	8/20/2018 3:32:44 PM
+5993	801010629	Van bi nối bích inox DN40, ANSI	CAI	4	KHO_CO			
+5994	801010652	Van bi tay gạt DN100, ANSI class 150	CAI	1	KHO_CO			
+5995	801010658	Van bi tay gạt DN40, ANSI class 300	CAI	1	KHO_CO			
+5996	801010661	Van bi tay gạt DN80, ANSI class 300	CAI	1	KHO_CO			
+5997	801010662	Van bi tay gạt DN80, JIS 10K	CAI	2	KHO_CO			
+5998	801010663	Van bi tay gạt DN80, JIS 20K	CAI	2	KHO_CO			
+5999	801010695	Van bi tay gạt inox DN80, ANSI	CAI	4	KHO_CO			
+6000	801010718	Van bình tích áp đầu vào AJS-32HZ/M60x2	CAI	4	KHO_CO			
+6001	801010719	Van BP-A/08-E	CAI	1	KHO_CO			
+6002	801010720	Van BP-A/80-E	CAI	1	KHO_CO			
+6003	801010724	Van bướm 1 chiều DN80, PN16	CAI	2	KHO_CO			
+6004	801010730	Van bướm DN50, JIS 10K	CAI	1	KHO_CO			
+6005	801010746	Van bướm inox DN50, 10UB	CAI	5	KHO_CO			
+6006	801010747	Van bướm inox DN65, 10UB	CAI	5	KHO_CO			
+6007	801010748	Van bướm inox DN80, 10UB	CAI	5	KHO_CO			
+6008	801010762	Van bướm tay gạt DN100	CAI	1	KHO_CO			
+6009	801010773	Van bướm tay gạt inox DN50	CAI	5	KHO_CO			
+6010	801010783	Van bướm tay gạt thép DN50	CAI	3	KHO_CO			
+6011	801010784	Van bướm tay gạt thép DN65	CAI	3	KHO_CO			
+6012	801010788	Van bướm tay quay DN250	CAI	1	KHO_CO	1	True	8/20/2018 3:59:13 PM
+6013	801010789	Van bướm tay vặn DN50	CAI	4	KHO_CO			
+6014	801010790	Van cầu DN25	CAI	1	KHO_CO			
+6015	801010791	Van cầu DN32, PN25	CAI	2	KHO_CO			
+6016	801010792	Van cầu DN40, PN15	CAI	1	KHO_CO	1	True	8/20/2018 3:59:25 PM
+6017	801010793	Van cầu DN50	CAI	2	KHO_CO			
+6018	801010795	Van cầu gang 10FCL, DN50	CAI	3	KHO_CO			
+6019	801010796	Van cầu gang 10SJBF, DN50	CAI	2	KHO_CO			
+6020	801010799	Van cầu gang mặt bích DN80, JIS 10K	CAI	16	KHO_CO			
+6021	801010801	Van cầu hơi nóng gang DN25	CAI	5	KHO_CO			
+6022	801010802	Van cầu hơi nóng gang DN32	CAI	5	KHO_CO			
+6023	801010803	Van cầu hơi nóng gang DN40	CAI	5	KHO_CO			
+6024	801010804	Van cầu hơi nóng gang DN65	CAI	3	KHO_CO			
+6025	801010808	Van cầu hơi thép chữ ngã WCB DN125, 16Bar	CAI	2	KHO_CO	2	True	8/20/2018 4:00:50 PM
+6026	801010809	Van cầu hơi thép chữ ngã WCB DN80, 16Bar	CAI	4	KHO_CO			
+6027	801010817	Van cầu tay quay gang DN50, 150SPBO	CAI	1	KHO_CO			
+6028	801010818	Van cầu tay vặn chữ ngã DN40, PN16	CAI	2	KHO_CO			
+6029	801010820	Van cầu tay vặn DN15, 10SPBF	CAI	3	KHO_CO	3	True	8/20/2018 2:51:16 PM
+6030	801010821	Van cầu tay vặn DN50, ANSI class 300	CAI	2	KHO_CO			
+6031	801010827	Van cầu YQ-J25, PN 13/10 1MPA	CAI	1	KHO_CO	1	True	8/20/2018 3:21:15 PM
+6032	801010832	Van chia dầu 23418502	CAI	1	KHO_CO	1	True	8/20/2018 4:03:24 PM
+6033	801010856	Van chống lún thủy lực Z2S10-1-20B	BO	3	KHO_CO	3	True	8/20/2018 10:29:56 AM
+6034	801010861	Van chống lún thủy lực Z2S10-30B	CAI	3	KHO_CO	3	True	8/20/2018 10:07:17 AM
+6035	801010869	Van chống lún thủy lực Z2S6-1-60B	BO	3	KHO_CO	3	True	8/20/2018 10:26:12 AM
+6036	801010871	Van chống lún thủy lực Z2S6-2-60B	CAI	3	KHO_CO	3	True	8/20/2018 10:09:12 AM
+6037	801010925	Van điện từ cho trạm thủy lực DN50	CAI	1	KHO_CO	1	True	8/20/2018 10:19:00 AM
+6038	801010926	Van điện từ cho trạm thủy lực DN65	CAI	3	KHO_CO	3	True	8/20/2018 10:19:40 AM
+6039	801010963	Van điện từ khí nén 4V410-15	CAI	78	KHO_CO			
+6040	801010989	Van điện từ khí nén VFS4110-4E	CAI	2	KHO_CO			
+6041	801011025	Van điện từ VP544K-5D01-03FA	CAI	1	KHO_CO	1	True	8/20/2018 10:12:22 AM
+6042	801011037	Van điều áp dùng cho máy hàn JOC QP215-046	CAI	2	KHO_CO			
+6043	801011041	Van điều áp FRS 5065 DN65	BO	1	KHO_CO			
+6044	801011054	Van điều áp SAR4000-6BG	BO	1	KHO_CO	1	True	8/20/2018 3:05:51 PM
+6045	801011059	Van điều chỉnh áp lực gas của đầu đốt RG/2MC DN100	CAI	5	KHO_CO			
+6046	801011064	Van điều khiển 1 đường cấp khí dùng cho trạm gas NOF4	BO	1	KHO_CO			
+6047	801011065	Van điều khiển 5 đường cấp khí dùng cho trạm gas NOF4	BO	3	KHO_CO			
+6048	801011071	Van điều khiển khí nén DR035	CAI	2	KHO_CO			
+6049	801011076	Van điều khiển khí nén GSR-CV608, DN80, 0-16Bar	CAI	5	KHO_CO			
+6050	801011095	Van DMV-DLE 5065/11	CAI	2	KHO_CO			
+6051	801011100	Van đóng mở an toàn GSR CV290, 0-16Bar, DN25	CAI	4	KHO_CO			
+6052	801011101	Van đóng mở an toàn GSR CV634, 0-16Bar, DN80	CAI	6	KHO_CO			
+6053	801011103	Van đóng mở an toàn tự động thép dùng cho dây chuyền NOF BURKERT PN 00230040	CAI	15	KHO_CO			
+6054	801011104	Van đóng ngắt khí Burkert 2000, ID 00001251	CAI	7	KHO_CO			
+6055	801011105	Van đóng ngắt khí Burkert 2000, ID 00001398	CAI	2	KHO_CO			
+6056	801011106	Van đóng ngắt khí Burkert 2000, ID 00001401	CAI	2	KHO_CO			
+6057	801011107	Van đóng ngắt khí Burkert 2000, ID 00001402	CAI	2	KHO_CO			
+6058	801011136	Van gas EVPC/NC, DN50	CAI	1	KHO_CO	1	True	8/20/2018 3:01:59 PM
+6059	801011137	Van gas EVPCF/NC, DN50	CAI	1	KHO_CO	1	True	8/20/2018 3:01:53 PM
+6060	801011140	Van gas MVS/1 DN25	CAI	5	KHO_CO			
+6061	801011144	Van Gas VMR92 DN100	CAI	7	KHO_CO			
+6062	801011146	Van giảm áp 627-1217-29998	CAI	3	KHO_CO	3	True	8/20/2018 2:57:39 PM
+6063	801011164	Van giảm áp suất gas 299H-F	CAI	3	KHO_CO			
+6064	801011169	Van giảm áp thủy lực ZDR10DP1-40B/150YM	BO	7	KHO_CO	7	True	8/20/2018 4:02:17 PM
+6065	801011170	Van giảm áp thủy lực ZDR10DP1-40B/210YM	CAI	1	KHO_CO	1	True	8/20/2018 9:59:18 AM
+6066	801011171	Van giảm áp thuỷ lực ZDR10DP1-40B/75YM	BO	2	KHO_CO	2	True	8/20/2018 10:09:27 AM
+6067	801011172	Van giảm áp thủy lực ZDR10DP1-40B/75YM	BO	1	KHO_CO	1	True	8/20/2018 9:51:34 AM
+6068	801011180	Van giảm áp thủy lực ZDR6DP2-30B/150YM	CAI	2	KHO_CO	2	True	8/20/2018 10:43:22 AM
+6069	801011184	Van giảm áp xếp chồng size 16	CAI	1	KHO_CO	1	True	8/20/2018 9:57:39 AM
+6070	801011211	Van hơi mặt bích inox DN20	CAI	9	KHO_CO	9	True	8/20/2018 3:59:36 PM
+6071	801011312	Van một chiều lá lật thép DN150	CAI	2	KHO_CO			
+6072	801011331	Van nhiệt 22661490	CAI	4	KHO_CO			
+6073	801011360	Van PN 178855	CAI	2	KHO_CO	2	True	8/20/2018 3:02:47 PM
+6074	801011361	Van PN 178895	CAI	2	KHO_CO	2	True	8/20/2018 3:02:54 PM
+6075	801011382	Van servo RZGO-A-033/210/110	BO	1	KHO_CO	1	True	8/20/2018 10:23:40 AM
+6076	801011394	Van SHV 400-06	CAI	29	KHO_CO			
+6077	801011405	Van tay gạt thuỷ lực 021F-16C-ND24, 2 đầu đực M36x2	CAI	2	KHO_CO	2	True	8/20/2018 3:59:04 PM
+6078	801011432	Van thủy lực 4WE10D30B/CG24N9K4	CAI	2	KHO_CO	2	True	8/20/2018 10:26:24 AM
+6079	801011439	Van thủy lực 4WE10E-3X/CW230N9K4	CAI	2	KHO_CO	2	True	8/20/2018 9:50:19 AM
+6080	801011441	Van thủy lực 4WE10J30B/CG24N9K4	BO	1	KHO_CO	1	True	8/20/2018 10:43:51 AM
+6081	801011444	Van thủy lực 4WE10J31B/CG24N9Z5L	BO	4	KHO_CO	4	True	8/20/2018 10:27:19 AM
+6082	801011445	Van thủy lực 4WE10J31B/CW220	CAI	4	KHO_CO	4	True	8/20/2018 2:33:44 PM
+6083	801011449	Van thủy lực 4WE6D50B/AW220-50N9Z5L	CAI	2	KHO_CO	2	True	8/20/2018 3:01:22 PM
+6084	801011451	Van thủy lực 4WE6D61B/CG24N9Z5L	CAI	1	KHO_CO	1	True	8/20/2018 10:11:59 AM
+6085	801011454	Van thủy lực 4WE6D61B/OFCG24N9Z5L	CAI	3	KHO_CO	3	True	8/20/2018 10:38:06 AM
+6086	801011457	Van thủy lực 4WE6E61B/CG24 N9Z5L	CAI	8	KHO_CO	8	True	8/20/2018 3:11:39 PM
+6087	801011460	Van thủy lực 4WE6J50B/AW220-50N9Z5L	CAI	1	KHO_CO	1	True	8/20/2018 3:01:04 PM
+6088	801011462	Van thủy lực 4WE6J61B/CG24 N9Z5L	CAI	7	KHO_CO	7	True	8/20/2018 3:09:37 PM
+6089	801011464	Van thủy lực 4WE6J61B/CW220 50N9Z5L	CAI	5	KHO_CO	5	True	8/20/2018 2:56:37 PM
+6090	801011465	Van thủy lực 4WE6J61B/CW220-50N9Z5L	CAI	2	KHO_CO	2	True	8/20/2018 10:44:06 AM
+6091	801011468	Van thủy lực 4WEH 10J 20B/6GEG24NET25L	CAI	1	KHO_CO	1	True	8/20/2018 10:06:39 AM
+6092	801011470	Van thủy lực 4WEH10D20B/6EG24NZ5L	CAI	4	KHO_CO	4	True	8/20/2018 3:10:26 PM
+6093	801011471	Van thủy lực 4WEH10J20B/6EG24NETZ5L	CAI	2	KHO_CO	2	True	8/20/2018 3:10:41 PM
+6094	801011475	Van thủy lực 4WEH16D31B/CG24N9Z5L	BO	2	KHO_CO	2	True	8/20/2018 10:29:34 AM
+6095	801011477	Van thủy lực 4WEH16D50B/6EW220-50NETZ5L	CAI	1	KHO_CO	1	True	8/20/2018 10:24:56 AM
+6096	801011489	Van thủy lực 4WEJ6-6X/EW230N9K4	CAI	1	KHO_CO	1	True	8/20/2018 3:00:58 PM
+6097	801011495	Van thủy lực AJS-32HZ/M60x2	CAI	1	KHO_CO	1	True	8/20/2018 2:53:21 PM
+6098	801011496	Van thủy lực China 4WE10J3X/CW230N9K4	CAI	2	KHO_CO	2	True	8/20/2018 3:02:38 PM
+6099	801011507	Van thủy lực DAW20A-1-30B/80W220-50NZ5L	BO	3	KHO_CO	3	True	8/20/2018 10:38:18 AM
+6100	801011508	Van thuỷ lực DAW20A-1-50B/1006CW220-50N9Z5L	BO	3	KHO_CO	3	True	8/20/2018 9:56:20 AM
+6101	801011509	Van thủy lực DAW20B-1-30B/315G24NZ5L	CAI	3	KHO_CO	3	True	8/20/2018 3:09:56 PM
+6102	801011510	Van thủy lực DAW20B-1-30B/315W220-50NZ5L	CAI	2	KHO_CO	2	True	8/20/2018 3:10:13 PM
+6103	801011512	Van thủy lực DB10-1-50B/100	CAI	2	KHO_CO	2	True	8/20/2018 10:43:00 AM
+6104	801011513	Van thủy lực DB10-1-50B/200	BO	2	KHO_CO	2	True	8/20/2018 10:29:20 AM
+6105	801011515	Van thủy lực DB10-2-30B/315	CAI	3	KHO_CO	3	True	8/20/2018 10:39:32 AM
+6106	801011516	Van thủy lực DB10-2-50B/315	CAI	2	KHO_CO	2	True	8/20/2018 10:43:43 AM
+6107	801011524	Van thủy lực DBW10-1-30B/315UG24NZ5L	CAI	2	KHO_CO	2	True	8/20/2018 10:08:22 AM
+6108	801011526	Van thủy lực DBW10A-1-30/315 FUG24Z5L	BO	1	KHO_CO	1	True	8/20/2018 10:27:33 AM
+6109	801011527	Van thủy lực DBW10A-1-30B/315U G24NZ5L	BO	1	KHO_CO	1	True	8/20/2018 10:28:06 AM
+6110	801011528	Van thủy lực DBW10A-1-50/315U6AG24NZ5L	CAI	1	KHO_CO	1	True	8/20/2018 9:55:46 AM
+6111	801011530	Van thủy lực DBW10A-1-50B/2006CG24N9Z5L	CAI	3	KHO_CO	3	True	8/20/2018 10:41:16 AM
+6112	801011531	Van thủy lực DBW10A-1-50B/2006CW220-50N9Z5L	CAI	2	KHO_CO	2	True	8/20/2018 3:10:04 PM
+6113	801011532	Van thủy lực DBW10A-1-50B/200U	CAI	2	KHO_CO	2	True	8/20/2018 9:59:56 AM
+6114	801011537	Van thủy lực DBW10A-1-5B/200UW220-50N9Z5L	CAI	1	KHO_CO	1	True	8/20/2018 2:53:44 PM
+6115	801011538	Van thủy lực DBW10A-2-50B/3156 CG 24N9Z5L	CAI	2	KHO_CO	2	True	8/20/2018 9:56:57 AM
+6116	801011539	Van thủy lực DBW10A-2-50B/315U G24NZ5L	BO	3	KHO_CO	3	True	8/20/2018 10:27:46 AM
+6117	801011542	Van thủy lực DBW10B-1-30B/315G24NZ5L	CAI	1	KHO_CO	1	True	8/20/2018 10:08:43 AM
+6118	801011543	Van thủy lực DBW10B-1-50B/2006 CG24N9Z5L	BO	2	KHO_CO	2	True	8/20/2018 10:24:42 AM
+6119	801011544	Van thủy lực DBW10B-1-50B/3156CG24N9Z5L	CAI	4	KHO_CO	4	True	8/20/2018 10:21:40 AM
+6120	801011546	Van thủy lực DBW10B-30B/100U G24NZ5L	BO	3	KHO_CO	3	True	8/20/2018 10:25:28 AM
+6121	801011549	Van thủy lực DBW20A-1-30/80W220-50NZ5L	CAI	2	KHO_CO	2	True	8/20/2018 2:53:38 PM
+6122	801011551	Van thủy lực DBW20A-1-50B/10006CW220-50N9Z5L	CAI	4	KHO_CO			
+6123	801011552	Van thủy lực DBW20B-1-30B/315U G24NZ5L	BO	2	KHO_CO	2	True	8/20/2018 10:28:29 AM
+6124	801011557	Van thủy lực DR10-4-50B/200YM	CAI	4	KHO_CO	4	True	8/20/2018 2:55:32 PM
+6125	801011560	Van thủy lực DR20-1-30B/315YM	BO	2	KHO_CO	2	True	8/20/2018 10:25:50 AM
+6126	801011568	Van thủy lực DSG 2B2-03	CAI	1	KHO_CO			
+6127	801011569	Van thủy lực DSG-01-2B2-A220-50-50HZT	CAI	1	KHO_CO	1	True	8/20/2018 10:10:15 AM
+6128	801011571	Van thủy lực DSG-01-2B3B-A220-50-50HZT	CAI	1	KHO_CO	1	True	8/20/2018 10:10:43 AM
+6129	801011572	Van thủy lực DSG-01-3C2-A220-50-50HZT	CAI	1	KHO_CO	1	True	8/20/2018 10:10:36 AM
+6130	801011576	Van thủy lực DSG-02-3C6	CAI	2	KHO_CO	2	True	8/20/2018 3:18:14 PM
+6131	801011577	Van thủy lực DSG-03-3C2-A220-50-50HZT	CAI	1	KHO_CO	1	True	8/20/2018 10:10:50 AM
+6132	801011581	Van thủy lực DSG-03-3C4-A220-50-50HZT	CAI	2	KHO_CO	2	True	8/20/2018 10:10:27 AM
+6133	801011584	Van thủy lực DSG-3C60-03	BO	1	KHO_CO			
+6134	801011587	Van thủy lực DSHG-04-3C2-A220-50-50HzT	CAI	1	KHO_CO			
+6135	801011590	Van thủy lực G761-3003, H19J0GM4VPL	CAI	1	KHO_CO	1	True	8/20/2018 10:48:08 AM
+6136	801011591	Van thủy lực Germany 4WE10J3X/CW230N9K4	CAI	2	KHO_CO	2	True	8/20/2018 3:02:29 PM
+6137	801011600	Van thủy lực MPC-02-W1	CAI	2	KHO_CO	2	True	8/20/2018 3:22:00 PM
+6138	801011601	Van thủy lực MRP-04-C-10C	CAI	3	KHO_CO			
+6139	801011603	Van thủy lực MTCV-047-W-K	CAI	2	KHO_CO	2	True	8/20/2018 3:02:11 PM
+6140	801011606	Van thủy lực PN 00001251	CAI	4	KHO_CO	4	True	8/20/2018 3:57:57 PM
+6141	801011614	Van thuỷ lực R900420287 2FRM16-3X/100LB	CAI	2	KHO_CO	2	True	8/20/2018 3:54:43 PM
+6142	801011640	Van thủy lực R900911762	CAI	1	KHO_CO	1	True	8/20/2018 9:58:02 AM
+6143	801011663	Van thủy lực RV-04T-3	CAI	2	KHO_CO	2	True	8/20/2018 3:22:08 PM
+6144	801011664	Van thủy lực RVP10-10B	CAI	1	KHO_CO	1	True	8/20/2018 10:11:03 AM
+6145	801011667	Van thuỷ lực S10P1.0B	BO	5	KHO_CO	5	True	8/20/2018 10:11:50 AM
+6146	801011670	Van thủy lực S15A12B	CAI	1	KHO_CO	1	True	8/20/2018 10:39:15 AM
+6147	801011671	Van thủy lực S15A22B	CAI	2	KHO_CO	2	True	8/20/2018 10:41:59 AM
+6148	801011672	Van thủy lực S15A52B	CAI	2	KHO_CO	2	True	8/20/2018 10:41:46 AM
+6149	801011673	Van thuỷ lực S20A12B	BO	1	KHO_CO	1	True	8/20/2018 9:58:21 AM
+6150	801011674	Van thủy lực S20A12B	BO	2	KHO_CO	2	True	8/20/2018 9:54:32 AM
+6151	801011675	Van thủy lực S20A22B	CAI	2	KHO_CO	2	True	8/20/2018 10:42:09 AM
+6152	801011678	Van thủy lực S20P1.OB	BO	1	KHO_CO	1	True	8/20/2018 10:46:17 AM
+6153	801011679	Van thủy lực S20P2.0B	CAI	2	KHO_CO	2	True	8/20/2018 10:46:37 AM
+6154	801011680	Van thủy lực S20P3.OB	BO	2	KHO_CO	2	True	8/20/2018 10:25:42 AM
+6155	801011681	Van thủy lực S25A12B	CAI	2	KHO_CO	2	True	8/20/2018 10:30:25 AM
+6156	801011701	Van thủy lực Z2DB10 VD-2-40B/200	CAI	1	KHO_CO	1	True	8/20/2018 9:58:47 AM
+6157	801011702	Van thủy lực Z2DB6VD2-40B/200	BO	2	KHO_CO	2	True	8/20/2018 10:09:55 AM
+6158	801011703	Van thủy lực Z2DB6VD-2-40B/200	CAI	2	KHO_CO	2	True	8/20/2018 10:38:49 AM
+6159	801011709	Van thuỷ lực Z2FS10-20B	CAI	3	KHO_CO	3	True	8/20/2018 2:55:04 PM
+6160	801011711	Van thuỷ lực Z2FS10-20B/150YM	BO	2	KHO_CO	2	True	8/20/2018 2:54:11 PM
+6161	801011712	Van thủy lực Z2FS10-30B/S2	BO	1	KHO_CO	1	True	8/20/2018 10:30:56 AM
+6162	801011713	Van thủy lực Z2FS10-5-30B	CAI	2	KHO_CO	2	True	8/20/2018 3:09:47 PM
+6163	801011716	Van thuỷ lực Z2FS16-30/S2	BO	2	KHO_CO	2	True	8/20/2018 10:06:02 AM
+6164	801011717	Van thủy lực Z2FS16-30/S2	BO	3	KHO_CO	3	True	8/20/2018 9:57:18 AM
+6165	801011722	Van thủy lực Z2FS6-30B/S2	BO	2	KHO_CO	2	True	8/20/2018 10:30:12 AM
+6166	801011723	Van thủy lực Z2FS6-5-40B/2Q	CAI	4	KHO_CO	4	True	8/20/2018 10:43:33 AM
+6167	801011728	Van tiết lưu DN20	CAI	4	KHO_CO	4	True	8/20/2018 10:01:29 AM
+6168	801011782	Van xả tự động EDV-X-HD 1-1	CAI	1	KHO_CO			
+6169	801011783	Van xả tự động EDV-X-HD 1-1, 230V AC 1HP50Hz, 15Kg/cm3	CAI	2	KHO_CO			
+6170	801014723	Van 1622368600	CAI	3	KHO_CO			
+6171	801014724	Van 1622906200	CAI	3	KHO_CO			
+6172	801015195	Van cầu hơi nóng gang dẻo ty nổi mặt bích phi 90,  Jis 10k	CAI	2	KHO_CO			
+6173	801015196	Van đóng ngắt khí Burkert 2000, ID 00178896	CAI	3	KHO_CO			
+6174	801015197	Van đóng ngắt khí Burkert 2000, ID 00178855	CAI	3	KHO_CO			
+6175	801009865	Má thắng búp sen DBH 205	CAI	100	KHO_CO			
+6176	801012017	Oring 150x8	CAI	4	KHO_CO			
+6177	801012023	Oring 185x5	CAI	7	KHO_CO			
+6178	801012028	Oring 23,7x3,5	CAI	17	KHO_CO			
+6179	801012063	Oring 75	CAI	9	KHO_CO			
+6180	801012108	Oring ID135x2.6	CAI	832	KHO_CO			
+6181	801012111	Oring ID170x4	CAI	8	KHO_CO			
+6182	801011965	Bộ phốt dùng cho dây chuyền Cán Nguội 1 phi 160	BO	5	KHO_CO			
+6183	801011505	Van thủy lực DAW20A-1-30B/160W220-50NZ5L	CAI	2	KHO_CO	2	True	8/20/2018 4:03:02 PM
+6184	801011461	Van thủy lực 4WE6J60/SG24N9Z5L	CAI	1	KHO_CO	1	True	8/20/2018 10:38:37 AM
+6185	801005096	Hộp số ZSY180-25-II	CAI	1	KHO_CO			
+6186	801017188	Xy lanh OSPP3200100015000S0GSP041	CAI	2	KHO_CO			
+6187	801017915	Bồn lọc tinh trạm N2 phi 500x1800mm	CAI	1	KHO_CO			
+6188	801017916	Bồn DE-OXO phi 450x1000mm	CAI	1	KHO_CO			
+6189	801017917	Bồn MoiST phi 300x1040mm	CAI	2	KHO_CO			
+6190	801012615	Phốt HMSA10V, 120x150x11	CAI	30	KHO_CO			
+6191	801012620	Phốt HMSA10V, 55x70x8	CAI	30	KHO_CO			
+6192	801017601	Hộp giảm tốc ZSY180-25-1	CAI	1	KHO_CO			
+6193	801018314	Xy lanh khí nén QGB-E 160x220	CAI	2	KHO_CO			
+6194	801018316	Xy lanh khí nén 10A-5FA160B160 (RY-T)	CAI	2	KHO_CO			
+6195	801018320	Trục đỡ tôn lò gas phi 160x3350mm	CAI	18	KHO_CO			
+6196	801018832	Ống dầu máy nén khí P/N 24260879001	CAI	2	KHO_CO	2	True	8/20/2018 2:54:48 PM
+6197	801018996	Trục chuyển hướng phi 475x1885mm	CAY	1	KHO_CO			
+6198	801020360	Bánh răng dầm biên cầu trục 5 tấn M=4, Z=21	CAI	5	KHO_CO			
+6199	801020361	Bánh xe dầm biên chủ động cầu trục 5 tấn phi 152x115mm	CAI	5	KHO_CO			
+6200	801018434	Bạc lót dùng cho máy nén khí 54396114	CAI	1	KHO_CO			
+6201	801018435	Phốt dùng cho máy nén khí 88142450	CAI	1	KHO_CO			
+6202	801018436	Bạc lót dùng cho máy nén khí 89292460	CAI	3	KHO_CO			
+6203	801018437	Phốt dùng cho máy nén khí 89244024	CAI	3	KHO_CO			
+6204	801018448	Bạc lót dùng cho máy nén khí 89292445	CAI	2	KHO_CO			
+6205	801018449	Phốt dùng cho máy nén khí 89292478	CAI	2	KHO_CO			
+6206	801018836	Bộ trao đổi nhiệt máy nén khí PN 23422512	CAI	1	KHO_CO			
+6207	801018919	Van xả chậm máy nén khí PN 22124085	CAI	1	KHO_CO			
+6208	801018920	Van chặn dầu máy nén khí PN 22205462	CAI	2	KHO_CO			
+6209	812000347	Lưỡi dao cắt tôn dùng cho Nof 1	CAI	4	KHO_CO			
+6210	810000252	Móc cẩu thả kẽm dùng cho dây chuyền NOF	CAI	2	KHO_CO			
+6211	812000452	Gia công cụm mặt bích dùng cho lò Nof dây chuyền Nof 2, ID305	BO	1	KHO_CO			
+6212	812000453	Gia công cụm mặt bích dùng cho lò Nof dây chuyền Nof 2, ID250	BO	1	KHO_CO			
+6213	801001957	Bộ làm mát dầu OR-350-CK	CAI	1	KHO_CO			
+6214	801001961	Bộ làm mát dầu thủy lực trạm nguồn EPC GLC2-2.6	CAI	1	KHO_CO			
+6215	801001964	Bộ tản nhiệt đoạn gas dùng cho dây chuyền NOF 4	CAI	2	KHO_CO			
+6216	801002001	Giàn giải nhiệt PN 1092000168	CAI	1	KHO_CO			
+6217	801002002	Két nước giải nhiệt làm mát dùng cho lò NOF	CAI	5	KHO_CO			
+6218	801002003	Két nước giải nhiệt làm mát dùng cho lò NOF 1	CAI	9	KHO_CO			
+6219	801002005	Két nước giải nhiệt làm mát dùng cho lò NOF 4 350x1250x1250mm	BO	2	KHO_CO			
+6220	801014506	Bộ trao đổi nhiệt dùng cho dây chuyền mạ NOF, A121266	CAI	1	KHO_CO			
+6221	801014507	Bộ trao đổi nhiệt dùng cho dây chuyền mạ NOF, C12161	CAI	1	KHO_CO			
+6222	801002021	Bộ truyền động trục vít, bánh vít JTM50-IS-50-H-IV-B-HW	CAI	18	KHO_CO			
+6223	801002022	Bộ truyền động trục vít, bánh vít JTM50-US-50-H-I-B-HW	CAI	14	KHO_CO			
+6224	801002023	Bộ truyền động trục vít, bánh vít SWL2.5M-1A-2-50FZ	BO	30	KHO_CO			
+6225	801002033	Bơm màng HUSKY 2150, DF2911	CAI	1	KHO_CO			
+6226	801002076	Bồn chứa khí hóa lỏng từ chất phản ứng Palladium hình trụ thép đúc liền dùng cho trạm H2-N2 NOF1 159 lít	CAI	1	KHO_CO			
+6227	801002085	Bồn sấy khí hình trụ thép đúc liền dùng cho trạm H2-N2 NOF1 196 lít	CAI	1	KHO_CO			
+6228	801002086	Bồn sấy khí hình trụ thép đúc liền dùng cho trạm H2-N2 NOF1 830 lít	CAI	1	KHO_CO			
+6229	801002088	Ruột bồn phân giải khí NH3 trong lò NOF 3	BO	2	KHO_CO			
+6230	801002141	Bulon dùng cho khớp nối bơm dao gió NOF 4	BO	18	KHO_CO			
+6231	801002143	Bulon dùng cho khớp nối quạt cấp khí lò gas NOF4	BO	30	KHO_CO			
+6232	801002814	Đai ốc M30	BO	120	KHO_CO			
+6233	801011668	Van thủy lực S10P1.0B	CAI	6	KHO_CO	6	True	8/20/2018 9:53:21 AM
+6234	801011677	Van thủy lực S20P1.0B	BO	1	KHO_CO	1	True	8/20/2018 10:30:52 AM
+6235	801001700	Bánh xe rùa phi 267x100mm	CAI	8	KHO_CO			
+6236	801001701	Bánh xe rùa phi 536x191mm	CAI	4	KHO_CO			
+6237	801001702	Bánh xe rùa phi 75 x phi 245 x 100mm	CAI	7	KHO_CO			
+6238	801001705	Bánh xe sau dùng cho rùa đầu vào NOF1	CAI	3	KHO_CO			
+6239	801001708	Bánh xe trước dùng cho rùa đầu vào NOF1	CAI	2	KHO_CO			
+6240	801001722	Tấm calcium silicate cách nhiệt 25x500x1000mm	CAI	6	KHO_CO			
+6241	801001724	Bình tích áp thủy lực 3K10601625L 20MPa	CAI	2	KHO_CO			
+6242	801001725	Bình tích áp thủy lực dùng cho trạm nguồn EPC NXQ-A-10/10-L-Y, 10 lít	CAI	1	KHO_CO			
+6243	801001726	Bình tích áp thủy lực dùng cho trạm nguồn vào/ra NXQ-A-40/20-L-Y, 40 lít	CAI	8	KHO_CO			
+6244	801001727	Bình tích khí nén C-0.3/10B-SHSJ, 30 lít	CAI	1	KHO_CO			
+6245	801001735	Bộ chia dầu dùng cho dây chuyền mạ NOF 4	CAI	2	KHO_CO			
+6246	801001736	Bộ chia dầu dùng cho dây chuyền Sang Cuộn	BO	1	KHO_CO			
+6247	801001737	Bộ chia dầu dùng cho dây chuyền Tẩy Rỉ	CAI	3	KHO_CO			
+6248	801014497	Đuôi chia dầu dùng cho tang xả cuộn 1, 2 đầu vào dây chuyền Nof 1	BO	1	KHO_CO			
+6249	801014498	Đuôi chia dầu dùng cho tang thu cuộn 2 đầu ra dây chuyền Nof 1	BO	1	KHO_CO			
+6250	801001766	Bộ điều áp AR40-04-A	CAI	3	KHO_CO	3	True	8/20/2018 3:01:44 PM
+6251	801001786	Bộ lọc khí AC60A-10G-BB	BO	1	KHO_CO	1	True	8/20/2018 3:46:30 PM
+6252	801001791	Bộ lọc khí AFR20001	CAI	1	KHO_CO	1	True	8/20/2018 3:06:26 PM
+6253	801001792	Bộ lọc khí AW60-10D-B	BO	3	KHO_CO	3	True	8/20/2018 3:45:46 PM
+6254	801001846	Lọc khí nén 1788B	CAI	2	KHO_CO			
+6255	801001850	Lọc khí nén SAF 6000	CAI	3	KHO_CO	3	True	8/20/2018 2:58:37 PM
+6256	801001851	Lọc khí nén SAL 6000	CAI	3	KHO_CO	3	True	8/20/2018 2:58:02 PM
+6257	801015489	Bộ lọc khí AC5000-10A	CAI	2	KHO_CO			
+6258	801015490	Bộ lọc khí GC300-15	CAI	5	KHO_CO	5	True	8/20/2018 2:57:51 PM
+6259	801015491	Bộ lọc khí GFR600-25	CAI	2	KHO_CO	2	True	8/20/2018 2:58:49 PM
+6260	801015492	Bộ lọc khí AC50-10-B	CAI	2	KHO_CO			
+6261	801015493	Bộ lọc khí AC50-04D-A	CAI	1	KHO_CO	1	True	8/20/2018 3:03:05 PM
+6262	801015502	Bộ lọc khí JAC5000-10	CAI	2	KHO_CO			
+6263	801001880	Chữ thập dùng cho tang thu cuộn dây chuyền NOF3	CAI	1	KHO_CO			
+6264	801001884	Cụm tang xả cuộn thép dùng cho dây chuyền NOF1	BO	1	KHO_CO			
+6265	801001898	Thanh trượt đồng bung tang dùng cho dây chuyền Cán Nguội 1, 2	CAI	2	KHO_CO	2	True	8/20/2018 3:54:54 PM
+6266	801001903	Trục tang xả cuộn dùng cho dây chuyền Mạ Màu 1	CAY	1	KHO_CO			
+6267	801001904	Trục tang xả cuộn dùng cho dây chuyền Mạ Màu 2	CAY	2	KHO_CO			
+6268	801001906	Trục tang xả cuộn dùng cho dây chuyền NOF 2	CAY	1	KHO_CO			
+6269	801001946	Bộ làm mát dầu AH1012	BO	3	KHO_CO			
+6270	801001947	Bộ làm mát dầu AOR-150	BO	13	KHO_CO			
+6271	801001948	Bộ làm mát dầu AOR-250	BO	1	KHO_CO	1	True	8/20/2018 3:00:51 PM
+6272	801001950	Bộ làm mát dầu GLC1-0.6	BO	2	KHO_CO			
+6273	801001953	Bộ làm mát dầu OR-100-CK	CAI	5	KHO_CO			
+6274	801015844	Xy lanh thủy lực D80/45-120	CAI	4	KHO_CO	3	True	8/20/2018 4:02:29 PM
+6275	801001200	Bạc đạn SKF NU 2308 ECJ, PN 0508 21 5801	CAI	1	KHO_CO			
+6276	801001392	Băng tải 6x550x5450mm	TAM	1	KHO_CO			
+6277	801001403	Băng tải NN100-3P/500	M	5	KHO_CO			
+6278	801001413	Báng răng khớp nối dùng cho dàn bù Tẩy Rỉ phi trong 260x335mm	CAI	1	KHO_CO			
+6279	801001418	Bánh răng 1621 92 7700	CAI	1	KHO_CO			
+6280	801001419	Bánh răng 1621 92 7800	CAI	1	KHO_CO			
+6281	801001428	Bánh răng chuyền 1 máy làm nhúng răng thẳng m4, 40-45 HRC	CAI	2	KHO_CO			
+6282	801001429	Bánh răng chuyền 2 máy làm nhúng răng thẳng m4, 40-45 HRC	CAI	5	KHO_CO			
+6283	801001430	Bánh răng chuyển cầu trục 5T	CAI	2	KHO_CO			
+6284	801001431	Bánh răng côn dùng cho motor xe rùa Z30	CAI	1	KHO_CO			
+6285	801001456	Bánh răng dùng cho hộp số trục đỡ tôn lò NOF Z22, Z83	BO	5	KHO_CO			
+6286	801001461	Bánh răng dùng cho máy làm niềng đôi Z25, Z20	CAI	2	KHO_CO			
+6287	801001462	Bánh răng dùng cho máy làm niềng phi 108x80mm, Z25	CAI	2	KHO_CO			
+6288	801001465	Bánh răng dùng cho máy nhúng phi 121x45mm, Z20	CAI	2	KHO_CO			
+6289	801001466	Bánh răng dùng cho máy nhúng phi 40 x phi 160 x 55mm, Z38	CAI	2	KHO_CO			
+6290	801001467	Bánh răng dùng cho máy nhúng phi 42 x phi 121, Z20	CAI	2	KHO_CO			
+6291	801001471	Bánh răng dùng cho xe rùa phi trong 50x110mm, Z21	CAI	9	KHO_CO			
+6292	801001477	Bánh răng m15 - Z73	CAI	7	KHO_CO			
+6293	801001478	Bánh Răng m6 - Z21, phi 40	CAI	5	KHO_CO			
+6294	801001479	Bánh Răng m6 - Z21, phi 50	CAI	1	KHO_CO			
+6295	801001480	Bánh răng máy cuốn lõi Z20	BO	1	KHO_CO			
+6296	801001482	Bánh răng máy nhúng phi 60 x phi 160	CAI	2	KHO_CO			
+6297	801001516	Bánh răng phi 300x180mm, Z30, Z50	CAP	1	KHO_CO			
+6298	801001535	Bánh răng trụ răng thẳng m5 - Z36	CAI	3	KHO_CO			
+6299	801001536	Bánh răng trụ răng thẳng m5 - Z72	CAI	3	KHO_CO			
+6300	801001538	Bánh răng trụ răng thẳng Z15	CAI	2	KHO_CO			
+6301	801001552	Bánh răng trục vít dùng cho dây chuyền Tẩy Rỉ	CAI	1	KHO_CO			
+6302	801001557	Bánh răng xe rùa phi 370x197mm	CAI	3	KHO_CO			
+6303	801001563	Bộ bánh răng dùng cho cổ góp máy hàn NOF3	BO	1	KHO_CO			
+6304	801001564	Bộ bánh răng dùng cho hộp số CPC 5 NOF1	BO	3	KHO_CO			
+6305	801001568	Cụm bánh răng truyền động ăn khớp số 1 dùng cho xe dàn bù đầu vào ra dây chuyền Mạ Màu 2	CAI	2	KHO_CO			
+6306	801001569	Cụm bánh răng truyền động ăn khớp số 2 dùng cho xe dàn bù đầu vào ra dây chuyền Mạ Màu 2	CAI	2	KHO_CO			
+6307	801001581	Thanh răng m5, 50x50x3000mm, bánh răng m5 - Z41	BO	4	KHO_CO			
+6308	801001582	Trục bánh răng m15 - Z20	CAI	7	KHO_CO			
+6309	801014492	Bánh xe dẫn hướng dàn bù dùng cho dây chuyền Nof 1	CAI	14	KHO_CO			
+6310	801014493	Bánh răng M6-Z50	CAI	1	KHO_CO			
+6311	801015512	Trục bánh răng hộp số tang xả cuộn dùng cho dây chuyền Mạ màu 2	CAI	2	KHO_CO			
+6312	801016179	Bánh răng máy làm niềng đơn	CAI	2	KHO_CO			
+6313	801001607	Bánh vít dùng cho dây chuyền Cán Nguội	CAI	2	KHO_CO			
+6314	801001608	Bánh vít dùng cho dây chuyền NOF1 Z30	CAI	2	KHO_CO			
+6315	801001612	Bánh vít trụ phi trong 40x17mm - Z37	CAI	1	KHO_CO	1	True	8/20/2018 3:04:27 PM
+6316	801001635	Trục vít dùng cho điều chỉnh máy nắn dây chuyền Mạ Màu 2	BO	2	KHO_CO	2	True	8/20/2018 3:51:10 PM
+6317	801001636	Trục vít m4 - Z1	CAY	1	KHO_CO			
+6318	801001637	Trục vít me 66x1390mm	CAY	1	KHO_CO	1	True	8/20/2018 3:58:17 PM
+6319	801001643	Trục vít me, đai ốc dùng cho cạo xỉ trục dìm NOF3 phi 60x2820mm	CAY	1	KHO_CO			
+6320	801001645	Vít me bi dùng cho máy hàn 1248, T60x12x3610mm	BO	1	KHO_CO			
+6321	801001663	Bánh xe dầm biên dùng cho cầu trục ABUS 20 tấn	CAI	2	KHO_CO			
+6322	801001666	Bánh xe dàn bù phi 290x110mm	CAI	22	KHO_CO			
+6323	801003113	Cánh quạt dùng cho dây chuyền Mạ Màu 1 phi 1010	CAI	1	KHO_CO			
+6324	801003115	Cánh quạt dùng cho lò sấy dây chuyền NOF dày	CAI	2	KHO_CO			
+6325	801003127	Cánh quạt inox 316L dùng cho dây chuyền Mạ Màu 2	CAI	3	KHO_CO			
+6326	801003129	Cánh quạt inox dùng cho dây chuyền Mạ Màu 1 5.5kW	CAI	1	KHO_CO			
+6327	801003130	Cánh quạt inox phi 70 x phi 700 x 220mm	CAI	2	KHO_CO			
+6328	801003131	Cánh quạt làm mát motor chổi quét dùng cho dây chuyền NOF3	CAI	2	KHO_CO			
+6329	801003133	Cánh quạt lò sấy dùng cho dây chuyền Mạ Màu 2	CAI	3	KHO_CO			
+6330	801003134	Cánh quạt máy bơm phi 20 x phi 260 x 41mm, 11 cánh	CAI	10	KHO_CO			
+6331	801003140	Cánh quạt tuần hoàn dùng cho dây chuyền Mạ Màu 1	CAI	1	KHO_CO			
+6332	801014613	Cánh quạt 7.5kw	CAI	1	KHO_CO			
+6333	801014614	Cánh quạt tuần hoàn ngược dùng cho dây chuyền Nof 1	CAI	1	KHO_CO			
+6334	801003201	Cáp phi 38	M	70	KHO_CO			
+6335	801003221	Cáp thép phi 20.6x36	M	200	KHO_CO			
+6336	801003226	Cáp thép phi 38x3m, 6x36, chầu 2 đầu	SOI	1	KHO_CO			
+6337	801003233	Cuộn cáp dùng cho dàn bù dây chuyền NOF2	CUO	2	KHO_CO			
+6338	801016063	Cáp thép dàn bù phi 40mmx180m	CUO	2	KHO_CO			
+6339	801003276	Trục cardan của cửa lò SWC 200BHx390mm	BO	1	KHO_CO			
+6340	801003299	Trục cardan dùng cho trục kẹp trước thu cuộn Tẩy Rỉ	BO	1	KHO_CO			
+6341	801003320	Trục cardan phi 200x800mm	CAY	1	KHO_CO			
+6342	801003331	Trục cardan SWC 100BHx2000 LS55 ETR	BO	1	KHO_CO			
+6343	801003332	Trục cardan SWC 100WHx243 ETR	BO	1	KHO_CO			
+6344	801003333	Trục cardan SWC 100x2000mm	CAY	1	KHO_CO			
+6345	801003335	Trục cardan SWC 100x450mm	CAY	6	KHO_CO			
+6346	801003336	Trục cardan SWC 100x900mm	CAY	5	KHO_CO			
+6347	801003338	Trục cardan SWC 120x1200mm	CAY	2	KHO_CO			
+6348	801003339	Trục cardan SWC 120x1700mm	CAY	3	KHO_CO			
+6349	801003340	Trục cardan SWC 120x2200mm	CAY	2	KHO_CO			
+6350	801003341	Trục cardan SWC 120x750mm	CAY	1	KHO_CO			
+6351	801003347	Trục cardan SWC 180CHx425	CAY	1	KHO_CO			
+6352	801003349	Trục cardan SWC 180x1425mm	CAY	6	KHO_CO			
+6353	801003351	Trục cardan SWC 225x550mm	CAY	2	KHO_CO			
+6354	801003352	Trục cardan SWC 250x600mm	CAY	1	KHO_CO			
+6355	801003354	Trục cardan SWC 315WHx3680 ETR	CAY	1	KHO_CO			
+6356	801003356	Trục cardan SWC BH120x690mm	CAY	1	KHO_CO	1	True	8/20/2018 3:36:52 PM
+6357	801003358	Trục cardan SWC BH120x880mm	BO	1	KHO_CO			
+6358	801003359	Trục cardan SWC BH150x590mm	BO	2	KHO_CO			
+6359	801003362	Trục cardan SWC I100A 355	BO	2	KHO_CO			
+6360	801003363	Trục cardan SWC I100x1200mm	CAY	7	KHO_CO			
+6361	801016082	Trục cardan SWC 150x690mm	CAY	2	KHO_CO			
+6362	801003499	Chêm dao thép phi 220 x phi 260 x 0.95mm	CAI	80	KHO_CO	80	True	8/20/2018 3:30:09 PM
+6363	801003549	Chêm thép phi 220 x phi 260 x 1.1mm	CAI	40	KHO_CO	40	True	8/20/2018 3:32:04 PM
+6364	801003550	Chêm thép phi 220 x phi 260 x 1.2mm	CAI	40	KHO_CO	40	True	8/20/2018 3:31:56 PM
+6365	801003551	Chêm thép phi 220 x phi 260 x 1.3mm	CAI	40	KHO_CO	40	True	8/20/2018 3:31:36 PM
+6366	801003552	Chêm thép phi 220 x phi 260 x 1.4mm	CAI	40	KHO_CO	40	True	8/20/2018 3:31:19 PM
+6367	801003553	Chêm thép phi 220 x phi 260 x 1.5mm	CAI	40	KHO_CO	40	True	8/20/2018 3:31:07 PM
+6368	801003554	Chêm thép phi 220 x phi 260 x 1.6mm	CAI	40	KHO_CO	40	True	8/20/2018 3:30:57 PM
+6369	801003555	Chêm thép phi 220 x phi 260 x 1.7mm	CAI	40	KHO_CO	40	True	8/20/2018 3:30:51 PM
+6370	801003556	Chêm thép phi 220 x phi 260 x 1.8mm	CAI	40	KHO_CO	40	True	8/20/2018 3:30:43 PM
+6371	801003557	Chêm thép phi 220 x phi 260 x 1.9mm	CAI	50	KHO_CO	50	True	8/20/2018 3:29:53 PM
+6372	801003558	Chêm thép phi 220 x phi 260 x 10mm	CAI	20	KHO_CO	20	True	8/20/2018 3:30:33 PM
+6373	801003559	Chêm thép phi 220 x phi 260 x 1mm	CAI	40	KHO_CO	40	True	8/20/2018 3:30:26 PM
+6374	801003560	Chêm thép phi 220 x phi 260 x 20mm	CAI	20	KHO_CO	20	True	8/20/2018 3:30:17 PM
+6375	801003563	Chêm thép phi 220 x phi 260 x 3mm	CAI	40	KHO_CO	40	True	8/20/2018 3:29:25 PM
+6376	801003564	Chêm thép phi 220 x phi 260 x 40mm	CAI	20	KHO_CO	20	True	8/20/2018 3:29:14 PM
+6377	801003565	Chêm thép phi 220 x phi 260 x 4mm	CAI	20	KHO_CO	20	True	8/20/2018 3:28:43 PM
+6378	801003566	Chêm thép phi 220 x phi 260 x 50mm	CAI	20	KHO_CO	20	True	8/20/2018 3:28:34 PM
+6379	801003567	Chêm thép phi 220 x phi 260 x 5mm	CAI	20	KHO_CO	20	True	8/20/2018 3:28:19 PM
+6380	801003568	Chêm thép phi 220 x phi 260 x 6mm	CAI	20	KHO_CO	20	True	8/20/2018 3:28:05 PM
+6381	801003569	Chêm thép phi 220 x phi 260 x 7mm	CAI	20	KHO_CO	20	True	8/20/2018 3:27:57 PM
+6382	801003570	Chêm thép phi 220 x phi 260 x 8mm	CAI	20	KHO_CO	20	True	8/20/2018 3:27:46 PM
+6383	801003571	Chêm thép phi 220 x phi 260 x 9mm	CAI	20	KHO_CO	20	True	8/20/2018 3:27:17 PM
+6384	801003670	Con lăn máy nắn dẫn hướng bằng thép phi 74x150mm	CAI	70	KHO_CO			
+6385	801003714	Cốt dùng cho hộp số xe rùa chuyển tôn	CAY	3	KHO_CO			
+6386	801014628	Cốt quạt lò sấy sau máy phủ hóa chất phi 50x1110mm	CAY	2	KHO_CO			
+6387	801003778	Dao cắt tôn 20x60x1330mm	CAI	1	KHO_CO			
+6388	801003779	Dao cắt tôn 25x60x1350mm	CAI	1	KHO_CO			
+6389	801003794	Lưỡi dao cắt tôn 20x60x1450mm	CAI	1	KHO_CO			
+6390	801003795	Lưỡi dao cắt tôn 25x60x1350mm	CAI	2	KHO_CO			
+6391	801003801	Lưỡi dao gió dùng cho dây chuyền mạ NOF4	BO	4	KHO_CO			
+6392	801004098	Dây đai đồng bộ bằng cao su dùng cho trục lò Gas NOF4 MITSUBISHI 1000H8M	BO	17	KHO_CO			
+6393	801004106	Dây thừng Seal dùng làm ron lò NOF	CUO	14	KHO_CO			
+6394	801004135	Khóa xích PHC 80-1 C/L	CAI	4	KHO_CO	4	True	8/20/2018 3:21:51 PM
+6395	801004158	Xích 140-1R, 3m	HOP	4	KHO_CO	4	True	8/20/2018 3:51:31 PM
+6396	801004174	Xích 80-1R, 3m	SOI	3	KHO_CO			
+6397	801004175	Xích 80-2R	M	3	KHO_CO	1	True	8/20/2018 3:52:33 PM
+6398	801004185	Xích dàn bù 28B-3, P44.45mm, 20m	SOI	8	KHO_CO			
+6399	801004210	Xích máng cáp dùng cho cầu trục 32 tấn	M	9	KHO_CO			
+6400	801004212	Xích máng cáp thép SSC1250xKR300xBK300xL4000	BO	1	KHO_CO			
+6401	801004224	Xích PHC 100-1X10FT	HOP	1	KHO_CO	1	True	8/20/2018 3:51:44 PM
+6402	801004228	Xích PHC 16B-1X5MTR	SOI	2	KHO_CO	2	True	8/20/2018 3:53:24 PM
+6403	801004231	Xích PHC 80-1X10FT	HOP	2	KHO_CO	2	True	8/20/2018 3:20:54 PM
+6404	801004232	Xích PHC BL1044X10FT	SOI	4	KHO_CO	4	True	8/20/2018 3:53:38 PM
+6405	801004233	Xích PHC BL2044X10FT	HOP	3	KHO_CO			
+6406	801004235	Xích PHC BL834X10FT	SOI	4	KHO_CO			
+6407	801004454	Đồng hồ áp suất nước 0-16bar, ren 1/2NPT	CAI	1	KHO_CO			
+6408	801004461	Đồng hồ áp suất thủy lực 250bar	CAI	1	KHO_CO			
+6409	801004529	Đồng hồ đo áp 250bar phi 63, ren 1/4 inch NPT	CAI	5	KHO_CO			
+6410	801004582	Đồng hồ đo nhiệt độ 0-100 độ C, ren 27	CAI	1	KHO_CO	1	True	8/20/2018 10:47:42 AM
+6411	801004596	Đồng hồ đo nồng độ % khí Hidro trong lò NOF EN-600	CAI	2	KHO_CO			
+6412	801004602	Đồng hồ đo tín hiệu MW150-A4	CAI	2	KHO_CO			
+6413	801004603	Đồng hồ đo tín hiệu MW50-A4	CAI	2	KHO_CO			
+6414	801004614	Đồng hồ gas YR-71	CAI	1	KHO_CO			
+6415	801004636	Đồng hồ lẻ (25kg/cm2)	CAI	4	KHO_CO			
+6416	801004637	Đồng hồ lẻ (2kg/cm2)	CAI	2	KHO_CO			
+6417	801004638	Đồng hồ lẻ (350kg/cm2)	CAI	2	KHO_CO			
+6418	801004677	Đồng hồ so điện tử 543-49B, 50mm	CAI	1	KHO_CO	1	True	8/20/2018 10:47:46 AM
+6419	801004692	Cụm gối đỡ dùng cho trục đĩa hàn dưới máy hàn 1667	BO	1	KHO_CO			
+6420	801004693	Cụm gối đỡ dùng cho trục đĩa hàn trên máy hàn 1667	BO	1	KHO_CO			
+6421	801021202	Van thủy lực G761-3003b	CAI	2	KHO_CO	2	True	8/20/2018 10:48:00 AM
+6422	801020796	Bánh răng cầu trục cầu trục TMC, phi 88x45mm	CAI	10	KHO_CO			
+6423	801019941	Van thủy lực 4WEH16E50B/6AW220-50NETZ5L	CAI	1	KHO_CO	1	True	8/20/2018 10:26:42 AM
+6424	801020793	Bánh xe dầm biên chủ động cầu trục TMC, M=3.5, Z=64	CAI	10	KHO_CO			
+6425	801020795	Bánh xe dầm biên bị động cầu trục ABUS, phi 152x96mm	CAI	10	KHO_CO			
+6426	801021453	Gối đỡ trục vắt dùng cho dây chuyền mạ màu, gồm: nắp	BO	8	KHO_CO			
+6427	801013853	Xy lanh khí nén 10A-5 CBB125B400, RY-T	BO	1	KHO_CO			
+6428	801016382	Xy lanh khí nén 10A 5CBB125 B400 RY-T	CAI	4	KHO_CO			
+6429	801018312	Xy lanh thủy lực HSGK02 150/75E-100, 25MPA	CAI	1	KHO_CO			
+6430	801018315	Xy lanh khí nén 10A-5 TCCC 125B150-RY	CAI	2	KHO_CO			
+6431	801019710	Nắp đĩa PN 024653	CAI	5	KHO_CO	5	True	8/20/2018 3:14:04 PM
+6432	801020306	Lọc dầu WU-100X80-J	BO	7	KHO_CO			
+6433	801021080	Lọc dầu WU-160x80-J	CAI	2	KHO_CO			
+6434	801021332	Van điều áp AR925-20	CAI	1	KHO_CO			
+6435	801021333	Đồng hồ đo áp suất G46-10-02	CAI	1	KHO_CO			
+6436	801010865	Van chống lún thủy lực Z2S16-30B	CAI	3	KHO_CO	1	True	8/20/2018 10:13:56 AM
+6437	801011269	Van thủy lực Z2S6-40B	BO	4	KHO_CO	4	True	8/20/2018 4:01:36 PM
+6438	801020794	Bánh xe dầm biên bị động cầu trục TMC, phi 231x95mm	CAI	10	KHO_CO			
+6439	801020994	Xích thép TL125xBa200R300-II, lỗ hột xoài 50x100mm	M	3.2	KHO_CO			
+6440	801020995	Xích thép TL125xBa200R300-II, 2 lỗ 50mm, 1 lỗ 20mm	M	5.2	KHO_CO			
+6441	801020996	Xích thép TL125xBa200R350-II, 2 lỗ 50mm, 1 lỗ 20mm	M	7	KHO_CO			
+6442	801021827	Bơm màng HUSKY 1590-DB2911	CAI	1	KHO_CO			
+6443	801001817	Bộ lọc khí SL20C-4G-PN	CAI	5	KHO_CO	5	True	8/20/2018 10:18:35 AM
+6444	801020066	Bộ lọc khí SB20K-2G-M1P/RGMN	BO	5	KHO_CO	1	True	8/20/2018 10:15:53 AM
+6445	810000197	Bánh xe dầm biên phi 180 dùng cho cầu trục 32T Abus	CAI	6	KHO_CO			
+6446	801018998	Gối trục quạt lò đốt LX018-280	CAI	1	KHO_CO			
+6447	801018999	Gối trục quạt tuần hoàn LX013-195	CAI	1	KHO_CO			
+6448	801018433	Van nạp tải dùng cho máy nén khí M110 VSD-A	CAI	2	KHO_CO	2	True	8/20/2018 2:54:31 PM
+6449	801020593	Ống hồi dầu dùng cho máy nén khí MM75, PN 24278905	CAI	2	KHO_CO			
+6450	801020594	Ống cấp dầu trục vít dùng cho máy nén khí MM75, PN 24278970	CAI	2	KHO_CO			
+6451	801020595	Ống dầu từ van chia dầu lên két dùng cho máy nén khí MM75, PN 24278939	CAI	2	KHO_CO			
+6452	801020797	Long đền bằng phi 87 x phi 97 x 0.6mm	CAI	100	KHO_CO			
+6453	801020798	Long đền bằng phi 70 x phi 78 x 0.6mm	CAI	100	KHO_CO			
+6454	801021071	Van 1 chiều DN65	CAI	2	KHO_CO			
+6455	801021072	Van cổng DN65	CAI	4	KHO_CO			
+6456	801021073	Van lọc chữ Y DN65	CAI	2	KHO_CO			
+6457	801021074	Láp thép C45 phi 30x2290mm, tiện ren 2 đầu	CAY	10	KHO_CO			
+6458	801021311	Khớp nối trạm nguồn thủy lực phi 117x112mm	BO	5	KHO_CO			
+6459	812000678	Ống lót bánh xe cầu trục TMC, phi 50x120mm	CAI	10	KHO_CO			
+6460	812000679	Ống lót bánh xe cầu trục ABUS, phi 50x120mm	CAI	10	KHO_CO			
+6461	801018321	Dao mài đĩa hàn PN U1020M06	CAI	50	KHO_CO			
+6462	801018318	Khớp nối thắng có đĩa WGP2-315 Y48x112/Y28x62-II	BO	1	KHO_CO			
+6463	801018319	Khớp nối răng GIICL8 85x132/Y90x172	BO	1	KHO_CO			
+6464	801005742	Khớp nối thắng đĩa WGP4 Y75x142/Y48x112	CAI	3	KHO_CO			
+6465	801005762	Khớp nối thắng đĩa WGP6 Y95x172/J1 70x107	CAI	1	KHO_CO			
+6466	801018307	Khớp nối WGP3 Y60x142/J1 32x60	CAI	2	KHO_CO			
+6467	801018308	Khớp nối GIICL12 J1 100x167/J1 140x202	CAI	1	KHO_CO			
+6468	801018309	Khớp nối GIICL12 J1 110x167/J1 140x202	CAI	1	KHO_CO			
+6469	801011013	Van điện từ thủy lực 4WEH16J50B/6EG24NETZ5L	CAI	2	KHO_CO	2	True	8/20/2018 3:58:53 PM
+6470	801018839	Van thủy lực Z2FS10-20B/S2	CAI	3	KHO_CO	3	True	8/20/2018 10:14:17 AM
+6471	801018840	Van thủy lực Z2S10-2-30B	CAI	3	KHO_CO	3	True	8/20/2018 10:14:31 AM
+6472	801019085	Gối bạc đạn máy ép niềng phi 80x77mm	CAI	3	KHO_CO			
+6473	801019942	Van tay gạt DK-1144	CAI	3	KHO_CO	3	True	8/20/2018 2:59:02 PM
+6474	801019087	Dao cắt máy cắt tấm 25x60x1348mm	CAI	2	KHO_CO			
+6475	801019248	Gối đỡ bánh xe rùa phi 120x43mm	CAI	8	KHO_CO			
+6476	801019851	Khớp nối thắng đĩa GIICL8 Y80x172/J1 55x84	CAI	2	KHO_CO			
+6477	801010498	Van 1 chiều lò xo dùng cho trạm H2N2 DN25	CAI	4	KHO_CO			
+6478	801010499	Van 1 chiều lò xo dùng cho trạm H2N2 DN50	CAI	4	KHO_CO			
+6479	801010500	Van 1 chiều lò xo dùng cho trạm H2N2 DN80	CAI	4	KHO_CO			
+6480	801020500	Bạc trục trục dìm chạy lạnh phi 114 x phi 92 x 130mm	CAI	15	KHO_CO			
+6481	801020504	Bạc trục trục ổn định chạy lạnh phi 68 x phi 50 x 110mm	CAI	35	KHO_CO			
+6482	810000253	Bát đỡ kẹp ray điện đơn 316x35x6mm	CAI	100	KHO_CO			
+6483	801010873	Van chuyển đổi cụm PSA dùng cho trạm H2N2 DN25	CAI	5	KHO_CO	5	True	8/20/2018 10:14:58 AM
+6484	801010258	Trục máy nắn phi 40x1500mm	CAY	14	KHO_CO			
+6485	801018931	Trục nắn phi 50x1450mm	CAY	5	KHO_CO			
+6486	801018932	Xy lanh thủy lực nâng hạ trục nắn trên dủng cho dây chuyền NOF	CAI	2	KHO_CO			
+6487	801020064	Bánh răng nghiêng dùng cho hộp giảm tốc tang thu cuộn dây chuyền NOF	CAI	1	KHO_CO			
+6488	801018837	Bộ trao đổi nhiệt máy nén khí PN 23422496	CAI	1	KHO_CO			
+6489	801022668	Gối Chữ L máy nắn 5 trục 120x133x100mm	BO	1	KHO_CO			
+6490	812000730	Cán dao rà trục ổn định dùng cho dây chuyền NOF	CAI	1	KHO_CO			
+6491	812000738	Thanh vuông dẫn hướng dao rà trục dìm dùng cho dây chuyền NOF 1536mm	CAI	1	KHO_CO			
+6492	812000739	Thanh vuông dẫn hướng dao rà trục ổn định dùng cho dây chuyền NOF 1261mm	CAI	1	KHO_CO			
+6493	801023061	Xy lanh 90x45x650	CAI	1	KHO_CO			
+6494	801023062	Xy lanh 63x35x300	CAI	2	KHO_CO			
+6495	801023063	Xy lanh 100x55x160	CAI	1	KHO_CO			
+6496	801023064	Xy lanh 125x70x1550	CAI	1	KHO_CO			
+6497	801021862	Xy lanh thủy lực 140x200x1000	CAI	2	KHO_CO			
+6498	801022300	Xy lanh thủy lực CDMIMT4/125/70/390 AIXBICFDMWY	CAI	2	KHO_CO			
+6499	801022301	Xy lanh thủy lực HSGK01-100/70-E2521-575	CAI	1	KHO_CO			
+6500	801022305	Xy lanh thủy lực DKS 100/70-220	CAI	4	KHO_CO			
+6501	801022306	Xy lanh thủy lực DKS 63/45-125	CAI	2	KHO_CO			
+6502	801022307	Xy lanh thủy lực D63/45-800	CAI	1	KHO_CO			
+6503	801022308	Xy lanh thủy lực D180/80-200	CAI	1	KHO_CO			
+6504	801022311	Xy lanh thủy lực D100/50-300	CAI	2	KHO_CO			
+6505	801016380	Bộ truyền động SWL-15T- 1 : 24, 3 cardan rolls, 9 couplings	BO	1	KHO_CO			
+6506	801016381	Bộ truyền động vít SWL - 15T - 1 : 24, 2 cardan rolls, 6 couplings	BO	1	KHO_CO			
+6507	801014512	Bơm định lượng hóa chất D121N-120/B-13	CAI	1	KHO_CO			
+6508	801019007	Chêm dao phi 220 x phi 260 x 0.97mm	CAI	20	KHO_CO			
+6509	801004123	Khóa xích 80-2R	CAI	2	KHO_CO			
+6510	801005814	Khớp nối xích KC 8020	CAI	1	KHO_CO			
+6511	802004643	Bơm nước bánh răng CBW-F306-ALP, 1.3m3/h	CAI	2	KHO_CO			
+6512	801017634	Puly phi 180x3R	CAI	5	KHO_CO			
+6513	801022729	Puly phi 150x3R	CAI	5	KHO_CO			
+6514	801015110	Trục đỡ tôn dưới giàn bù, phi 100x1600mm	CAY	6	KHO_CO			
+6515	801013889	Xy lanh khí nén 10A-5FA125B150-RY	CAI	2	KHO_CO			
+6516	801019593	Xy lanh thủy lực HSGL 63/45x250-E2511	CAI	1	KHO_CO			
+6517	801019594	Xy lanh thủy lực HSGL 63/45x125-E2511	CAI	1	KHO_CO			
+6518	801019596	Xy lanh thủy lực HSGL 125/90, L=2000mm	CAI	1	KHO_CO			
+6519	801021203	Xy lanh khí nén SC 200x200-S	CAI	2	KHO_CO			
+6520	801022303	Xy lanh thủy lực ZSG300x115x120-HH	CAI	1	KHO_CO			
+6521	801022304	Xy lanh thủy lực RTCY360x125x110ST	CAI	1	KHO_CO			
+6522	801022310	Xy lanh thủy lực D100/45-115	CAI	2	KHO_CO			
+6523	802000693	Miếng nêm dùng cho inductor 110mm	CAI	80	KHO_CO			
+6524	802000694	Miếng nêm dùng cho inductor 85mm	CAI	80	KHO_CO			
+6525	801006256	Tách dầu dùng cho máy nén khí, 23545841	CAI	5	KHO_CO			
+6526	801006257	Tách dầu dùng cho máy nén khí, 54509427	CAI	4	KHO_CO			
+6527	801022021	Lọc nước đường ống PN 85565943	CAI	5	KHO_CO			
+6528	801022022	Lọc nước đường ống PN 85565950	CAI	5	KHO_CO			
+6529	808001246	Đầu bơm thủy lực B0012182	CAI	1	KHO_CO			
+6530	808001247	Đầu bơm thủy lực B2002166	CAI	1	KHO_CO			
+6531	809000750	Máy mài trụ KPT-24DG	CAI	4	KHO_CO	4	True	8/20/2018 3:08:26 PM
+6532	801022023	Van xả chậm dùng cho máy nén khí PN 22516025	CAI	2	KHO_CO			
+6533	801022024	Van solenoid dùng cho máy nén khí PN 22050090	CAI	2	KHO_CO			
+6534	801021266	Lõi lọc dầu 0030 D 010 BN4HC	CAI	5	KHO_CO	5	True	8/20/2018 3:07:10 PM
+6535	808001510	Đầu bơm thủy lực PV2R1-12-F-RAA-43C	CAI	1	KHO_CO			
+6536	801023470	Van đảo chiều DSG-03-3C2-A220-51T	CAI	2	KHO_CO	2	True	8/20/2018 2:55:59 PM
+6537	801023475	Van tiết lưu  DG-02-C-22	CAI	2	KHO_CO	2	True	8/20/2018 2:55:45 PM
+6538	801023804	Van thủy lực DSG-01-3C2-A220-51T	CAI	2	KHO_CO	2	True	8/20/2018 2:56:13 PM
+6539	812000749	Chữ thập tang thu cuộn 215x60mm	CAI	4	KHO_CO			
+6540	801021270	Cụm gối đỡ dùng cho trục đĩa hàn dưới máy hàn 1247	BO	1	KHO_CO			
+6541	801021271	Cụm gối đỡ dùng cho trục đĩa hàn trên máy hàn 1247	BO	2	KHO_CO			
+6542	801015749	Bộ bạc càng, bạc trục dìm bằng thép không gỉ dùng cho dây chuyền mạ NOF, DIA220 x DIA92 x 130mm	BO	2	KHO_CO			
+6543	801022309	Xy lanh thủy lực W140L-1-1TC80C14H-100AB	CAI	1	KHO_CO			
+6544	801022943	Bánh răng đôi M1=3, Z1=35, M2=3, Z2=28	CAI	6	KHO_CO			
+6545	801022944	Bánh răng đôi M1=3, Z1=32, M2=3.5, Z2=20	CAI	6	KHO_CO			
+6546	801022240	Xy lanh 140x200x200	CAI	1	KHO_CO			
+6547	801022302	Xy lanh thủy lực CGHIMT4/200/140/200 AIXBICGASUWW	CAI	2	KHO_CO			
+6548	812000729	Cán dao rà trục dìm dùng cho dây chuyền NOF	CAI	2	KHO_CO			
+6549	801022734	Trục đè kéo căng phi 220x800mm	CAY	2	KHO_CO			
+6550	801022782	Bạc càng dùng cho trục dìm chạy lạnh phi 700,  phi 120 x phi 142	BO	17	KHO_CO			
+6551	801023291	Đai ốc vít me phi 120x161.5mm	CAI	3	KHO_CO			
+6552	801023115	Bánh răng máy tiện m=2, z=54	CAI	3	KHO_CO			
+6553	801009417	Lưỡi dao cắt dưới dùng cho máy hàn lớn mạ NOF 1 FZY-250O	CAI	2	KHO_CO			
+6554	802005244	Quạt G355B	CAI	3	KHO_CO			
+6555	801010198	Trục đỡ tôn trong lò NOF phi160x1600mm	CAY	2	KHO_CO			
+6556	801022732	Trục đỡ tôn máy phủ hóa chất phi 350x1600mm	CAY	1	KHO_CO			
+6557	801022733	Trục chuyền hướng trước CPC số 4 phi 470x1700mm	CAY	1	KHO_CO			
+6558	801023296	Ống gang đúc phi 80x500mm	CAY	1	KHO_CO			
+6559	801018520	Van thủy lực BSG-03-2B3B-A220-47T	CAI	2	KHO_CO	2	True	8/20/2018 3:16:25 PM
+6560	801023803	Van thủy lực DSG-01-2B2-A220-51T	CAI	2	KHO_CO	2	True	8/20/2018 3:16:17 PM
+6561	801004453	Đồng hồ áp suất nước 0-10kg, phi 100, có dầu	CAI	8	KHO_CO	8	True	8/20/2018 3:16:06 PM
+6562	802012018	Quạt hút bụi lò thuận phi 350	CAI	2	KHO_CO			
+6563	802012054	Quạt hút bụi lò nghịch phi 350	CAI	2	KHO_CO			
+6564	801020506	Bạc trục trục ổn định chạy kẽm phi 66 x phi 50 x 130mm	CAI	19	KHO_CO			
+6565	801022783	Bạc càng dùng trục ổn định chạy lạnh phi 230, phi 72 x phi 90	BO	39	KHO_CO			
+6566	801021201	Đồng hồ đo áp 3051TG1A2B21AB4M5	CAI	1	KHO_CO	1	True	8/20/2018 10:14:44 AM
+6567	801020767	Lọc khí PLF100	CAI	5	KHO_CO	5	True	8/20/2018 3:13:31 PM
+6568	802012134	Đầu hàn điện trờ 3x35x85mm	CAI	1000	KHO_CO			
+6569	801006503	Bánh răng dùng cho máy rút đai Signode 423529	CAI	6	KHO_CO	6	True	8/20/2018 3:14:32 PM
+6570	801022238	Nắp chặn bạc đạn dưới PN 423509	CAI	5	KHO_CO	5	True	8/20/2018 3:14:22 PM
+6571	801022239	Bánh xe PN 423398	CAI	6	KHO_CO	6	True	8/20/2018 3:15:49 PM
+6572	801022726	Trục kẹp trên sau máy phun dầu phi 270x1500mm	CAY	1	KHO_CO			

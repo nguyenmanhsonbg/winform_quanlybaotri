@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet_Get_GroupForklifts" targetNamespace="http://tempuri.org/DataSet_Get_GroupForklifts.xsd" xmlns:mstns="http://tempuri.org/DataSet_Get_GroupForklifts.xsd" xmlns="http://tempuri.org/DataSet_Get_GroupForklifts.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="HS_QuanLyBaoTriConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="HS_QuanLyBaoTriConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.HS_QuanLyBaoTri.Properties.Settings.GlobalReference.Default.HS_QuanLyBaoTriConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblGroupEquip_ForkliftsTableAdapter" GeneratorDataComponentClassName="tblGroupEquip_ForkliftsTableAdapter" Name="tblGroupEquip_Forklifts" UserDataComponentName="tblGroupEquip_ForkliftsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="HS_QuanLyBaoTriConnectionString (Settings)" DbObjectName="[HS-QuanLyBaoTri].dbo.tblGroupEquip_Forklifts" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        IDGroupFL, GroupEQForklifts, UserCreate
+FROM            tblGroupEquip_Forklifts
+UNION ALL
+SELECT        '_0000' AS IDGroupFL, N'-Tất cả-' AS GroupEQForklifts, N'-Tất cả-' AS UserCreate
+ORDER BY IDGroupFL</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="IDGroupFL" DataSetColumn="IDGroupFL" />
+              <Mapping SourceColumn="GroupEQForklifts" DataSetColumn="GroupEQForklifts" />
+              <Mapping SourceColumn="UserCreate" DataSetColumn="UserCreate" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet_Get_GroupForklifts" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet_Get_GroupForklifts" msprop:Generator_UserDSName="DataSet_Get_GroupForklifts">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblGroupEquip_Forklifts" msprop:Generator_TableClassName="tblGroupEquip_ForkliftsDataTable" msprop:Generator_TableVarName="tabletblGroupEquip_Forklifts" msprop:Generator_TablePropName="tblGroupEquip_Forklifts" msprop:Generator_RowDeletingName="tblGroupEquip_ForkliftsRowDeleting" msprop:Generator_RowChangingName="tblGroupEquip_ForkliftsRowChanging" msprop:Generator_RowEvHandlerName="tblGroupEquip_ForkliftsRowChangeEventHandler" msprop:Generator_RowDeletedName="tblGroupEquip_ForkliftsRowDeleted" msprop:Generator_UserTableName="tblGroupEquip_Forklifts" msprop:Generator_RowChangedName="tblGroupEquip_ForkliftsRowChanged" msprop:Generator_RowEvArgName="tblGroupEquip_ForkliftsRowChangeEvent" msprop:Generator_RowClassName="tblGroupEquip_ForkliftsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDGroupFL" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnIDGroupFL" msprop:Generator_ColumnPropNameInRow="IDGroupFL" msprop:Generator_ColumnPropNameInTable="IDGroupFLColumn" msprop:Generator_UserColumnName="IDGroupFL" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="GroupEQForklifts" msprop:Generator_ColumnVarNameInTable="columnGroupEQForklifts" msprop:Generator_ColumnPropNameInRow="GroupEQForklifts" msprop:Generator_ColumnPropNameInTable="GroupEQForkliftsColumn" msprop:Generator_UserColumnName="GroupEQForklifts" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="500" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UserCreate" msprop:Generator_ColumnVarNameInTable="columnUserCreate" msprop:Generator_ColumnPropNameInRow="UserCreate" msprop:Generator_ColumnPropNameInTable="UserCreateColumn" msprop:Generator_UserColumnName="UserCreate" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,1343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CB48BC8D-D03D-4DF4-BECE-0DE8FF80915A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HS_QuanLyBaoTri</RootNamespace>
+    <AssemblyName>HS_QuanLyBaoTri</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v16.1" />
+    <Reference Include="DevExpress.Charts.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v16.1" />
+    <Reference Include="DevExpress.Data.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v16.1.UI, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Drawing.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v22.1.Core, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core" />
+    <Reference Include="DevExpress.Utils.v16.1.UI, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v16.1" />
+    <Reference Include="DevExpress.XtraEditors.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v16.1.Extensions, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v16.1.Core, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v16.1.Extensions, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v16.1.Reporting, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.337.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.337.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.337.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.337.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.337.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Desktop.Communication">
+      <HintPath>..\..\PhanMem_VLXD\QL_XuatHang_MHPK_VLXD\QL_XuatHang_MHPK_VLXD\bin\Debug\OpenNETCF.Desktop.Communication.dll</HintPath>
+    </Reference>
+    <Reference Include="RAPI2">
+      <HintPath>..\..\PhanMem_VLXD\QL_XuatHang_MHPK_VLXD\QL_XuatHang_MHPK_VLXD\bin\Debug\RAPI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow">
+      <HintPath>..\..\DXApplication1\packages\Tulpep.NotificationWindow.1.1.23\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clsCommon\Common.cs" />
+    <Compile Include="CustomAppointmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomAppointmentForm.designer.cs">
+      <DependentUpon>CustomAppointmentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomAppointmentForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomAppointmentForm1.Designer.cs">
+      <DependentUpon>CustomAppointmentForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Check_ThongSo.cs">
+      <DependentUpon>DataSet_Check_ThongSo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Check_ThongSo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Check_ThongSo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_ChiTietHieuChuan.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_ChiTietHieuChuan.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Dept.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Dept.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_GetChecking_ByEQ.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_GetChecking_ByEQ.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_GetCheckListEquipments_Daily.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_GetCheckListEquipments_Daily.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_GetCheck_AllEQ.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_GetCheck_AllEQ.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_GetDept_ISO.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_GetDept_ISO.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_GetDocumentsEQ.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_GetDocumentsEQ.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_AllEquipment.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_AllEquipment.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_BaoTriISO.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_BaoTriISO.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_BaoTriNamISO.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_BaoTriNamISO.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_BaoTriThangISO.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_BaoTriThangISO.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Duty.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Duty.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_EqForklifts.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_EqForklifts.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Equipments.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Equipments.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Goods.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Goods.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_GroupEquiments.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_GroupEquiments.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_GroupForklifts.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_GroupForklifts.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_HieuChuanThietBi.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_HieuChuanThietBi.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Location.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Location.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_NhapKho.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_NhapKho.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Position.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Position.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Priority.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Priority.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Problem_Equipment.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Problem_Equipment.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Purchase.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Purchase.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Purchase_Equipments.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Purchase_Equipments.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Resource_big.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Resource_big.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_Staff.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_Staff.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_TonKho.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_TonKho.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_User.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_User.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_VatTuBaoTri.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_VatTuBaoTri.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_VatTuBaoTri_ByVocher.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_VatTuBaoTri_ByVocher.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_VocherByDept.cs">
+      <DependentUpon>DataSet_Get_VocherByDept.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_VocherByDept.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_VocherByDept.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Get_XuatKho.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Get_XuatKho.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_HistoryPosition_EQ.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_HistoryPosition_EQ.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_Purchase_EQ_NoneTK.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Purchase_EQ_NoneTK.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_ReportSchedule.cs">
+      <DependentUpon>DataSet_ReportSchedule.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_ReportSchedule.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_ReportSchedule.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_ThoiGian.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_ThoiGian.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\DataSet_GetTHongTinChoREport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_GetTHongTinChoREport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePass.designer.cs">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckingDetails_Alltime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckingDetails_Alltime.Designer.cs">
+      <DependentUpon>frmCheckingDetails_Alltime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckingListEquipments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckingListEquipments.Designer.cs">
+      <DependentUpon>frmCheckingListEquipments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmBaoTri_ISO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmBaoTri_ISO.Designer.cs">
+      <DependentUpon>frmBaoTri_ISO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmDetailEquipments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmDetailEquipments.designer.cs">
+      <DependentUpon>frmDetailEquipments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmGroupEQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmGroupEQ.designer.cs">
+      <DependentUpon>frmGroupEQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmGroupFL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmGroupFL.designer.cs">
+      <DependentUpon>frmGroupFL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmHistory_Check_ByEQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmHistory_Check_ByEQ.Designer.cs">
+      <DependentUpon>frmHistory_Check_ByEQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmImport_Puchare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmImport_Puchare.designer.cs">
+      <DependentUpon>frmImport_Puchare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmLoaiThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmLoaiThietBi.designer.cs">
+      <DependentUpon>frmLoaiThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmNhapKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmNhapKho.Designer.cs">
+      <DependentUpon>frmNhapKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmProblem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmProblem.Designer.cs">
+      <DependentUpon>frmProblem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmPurchaseEQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmPurchaseEQ.Designer.cs">
+      <DependentUpon>frmPurchaseEQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmPurchaseEQ_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmPurchaseEQ_1.Designer.cs">
+      <DependentUpon>frmPurchaseEQ_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmStaff.Designer.cs">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmTaiKhoan.Designer.cs">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmThemPhieuBaoTri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmThemPhieuBaoTri.Designer.cs">
+      <DependentUpon>frmThemPhieuBaoTri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmThietBiXeNang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmThietBiXeNang.Designer.cs">
+      <DependentUpon>frmThietBiXeNang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmTonKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmTonKho.designer.cs">
+      <DependentUpon>frmTonKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmView_VatTuBaoTri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmView_VatTuBaoTri.Designer.cs">
+      <DependentUpon>frmView_VatTuBaoTri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\frmXuatKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\frmXuatKho.Designer.cs">
+      <DependentUpon>frmXuatKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChild\ImageProblem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChild\ImageProblem.Designer.cs">
+      <DependentUpon>ImageProblem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupEquipments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroupEquipments.Designer.cs">
+      <DependentUpon>frmGroupEquipments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEquipments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEquipments.Designer.cs">
+      <DependentUpon>frmEquipments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogIn.designer.cs">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport_Puchase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport_Puchase.Designer.cs">
+      <DependentUpon>frmReport_Puchase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSchedule.Designer.cs">
+      <DependentUpon>frmSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSchedule_Big.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSchedule_Big.Designer.cs">
+      <DependentUpon>frmSchedule_Big.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportExcell\frmImportExcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportExcell\frmImportExcel.designer.cs">
+      <DependentUpon>frmImportExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportExcell\frmImportNhapKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportExcell\frmImportNhapKho.Designer.cs">
+      <DependentUpon>frmImportNhapKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportExcell\frmImportXuatKho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportExcell\frmImportXuatKho.Designer.cs">
+      <DependentUpon>frmImportXuatKho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportExcell\frmSelectSTOCK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportExcell\frmSelectSTOCK.designer.cs">
+      <DependentUpon>frmSelectSTOCK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\EquipmentName.cs" />
+    <Compile Include="Models\LocationModel.cs" />
+    <Compile Include="Models\EquipmentModel.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\frmReportISO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmReportISO.Designer.cs">
+      <DependentUpon>frmReportISO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Report_ReportCheckingListEquipments.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Report_ReportCheckingListEquipments.Designer.cs">
+      <DependentUpon>Report_ReportCheckingListEquipments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Report_ReportScheadule.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\Report_ReportScheadule.designer.cs">
+      <DependentUpon>Report_ReportScheadule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="TestDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TestDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="XtraForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XtraForm1.Designer.cs">
+      <DependentUpon>XtraForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="_HS_QuanLyBaoTriDataSet.cs">
+      <DependentUpon>_HS_QuanLyBaoTriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_HS_QuanLyBaoTriDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_HS_QuanLyBaoTriDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_HS_QuanLyBaoTriDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_HS_QuanLyBaoTriDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_HS_QuanLyBaoTriDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_HS_QuanLyBaoTriDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_Schedule_Maintenance_Big.cs">
+      <DependentUpon>_Schedule_Maintenance_Big.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_Schedule_Maintenance_Big.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_Schedule_Maintenance_Big.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CustomAppointmentForm.de.resx">
+      <DependentUpon>CustomAppointmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm.es.resx">
+      <DependentUpon>CustomAppointmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm.ja.resx">
+      <DependentUpon>CustomAppointmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm.resx">
+      <DependentUpon>CustomAppointmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm.ru.resx">
+      <DependentUpon>CustomAppointmentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm1.de.resx">
+      <DependentUpon>CustomAppointmentForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm1.es.resx">
+      <DependentUpon>CustomAppointmentForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm1.ja.resx">
+      <DependentUpon>CustomAppointmentForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm1.resx">
+      <DependentUpon>CustomAppointmentForm1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomAppointmentForm1.ru.resx">
+      <DependentUpon>CustomAppointmentForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePass.resx">
+      <DependentUpon>frmChangePass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckingDetails_Alltime.resx">
+      <DependentUpon>frmCheckingDetails_Alltime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckingListEquipments.resx">
+      <DependentUpon>frmCheckingListEquipments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmBaoTri_ISO.resx">
+      <DependentUpon>frmBaoTri_ISO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmDetailEquipments.resx">
+      <DependentUpon>frmDetailEquipments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmGroupEQ.resx">
+      <DependentUpon>frmGroupEQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmGroupFL.resx">
+      <DependentUpon>frmGroupFL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmHistory_Check_ByEQ.resx">
+      <DependentUpon>frmHistory_Check_ByEQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmImport_Puchare.resx">
+      <DependentUpon>frmImport_Puchare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmLoaiThietBi.resx">
+      <DependentUpon>frmLoaiThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmNhapKho.resx">
+      <DependentUpon>frmNhapKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmProblem.resx">
+      <DependentUpon>frmProblem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmPurchaseEQ.resx">
+      <DependentUpon>frmPurchaseEQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmPurchaseEQ_1.resx">
+      <DependentUpon>frmPurchaseEQ_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmStaff.resx">
+      <DependentUpon>frmStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmTaiKhoan.resx">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmThemPhieuBaoTri.resx">
+      <DependentUpon>frmThemPhieuBaoTri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmThietBiXeNang.resx">
+      <DependentUpon>frmThietBiXeNang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmTonKho.resx">
+      <DependentUpon>frmTonKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmView_VatTuBaoTri.resx">
+      <DependentUpon>frmView_VatTuBaoTri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\frmXuatKho.resx">
+      <DependentUpon>frmXuatKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChild\ImageProblem.resx">
+      <DependentUpon>ImageProblem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroupEquipments.resx">
+      <DependentUpon>frmGroupEquipments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEquipments.resx">
+      <DependentUpon>frmEquipments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogIn.resx">
+      <DependentUpon>frmLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport_Puchase.resx">
+      <DependentUpon>frmReport_Puchase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSchedule.resx">
+      <DependentUpon>frmSchedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSchedule_Big.resx">
+      <DependentUpon>frmSchedule_Big.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportExcell\frmImportExcel.resx">
+      <DependentUpon>frmImportExcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportExcell\frmImportNhapKho.resx">
+      <DependentUpon>frmImportNhapKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportExcell\frmImportXuatKho.resx">
+      <DependentUpon>frmImportXuatKho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportExcell\frmSelectSTOCK.resx">
+      <DependentUpon>frmSelectSTOCK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\frmReportISO.resx">
+      <DependentUpon>frmReportISO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Report1.rdlc" />
+    <EmbeddedResource Include="Report\Report_Nam.rdlc" />
+    <EmbeddedResource Include="Report\Report_Purcharse.rdlc" />
+    <EmbeddedResource Include="Report\Report_ReportCheckingListEquipments.resx">
+      <DependentUpon>Report_ReportCheckingListEquipments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Report_ReportScheadule.resx">
+      <DependentUpon>Report_ReportScheadule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\Report_Thang.rdlc" />
+    <EmbeddedResource Include="XtraForm1.resx">
+      <DependentUpon>XtraForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Check_ThongSo.xsc">
+      <DependentUpon>DataSet_Check_ThongSo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Check_ThongSo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Check_ThongSo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Check_ThongSo.xss">
+      <DependentUpon>DataSet_Check_ThongSo.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_ChiTietHieuChuan.xsc">
+      <DependentUpon>DataSet_ChiTietHieuChuan.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_ChiTietHieuChuan.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_ChiTietHieuChuan.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_ChiTietHieuChuan.xss">
+      <DependentUpon>DataSet_ChiTietHieuChuan.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Dept.xsc">
+      <DependentUpon>DataSet_Dept.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Dept.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Dept.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\DataSet_Dept.xss">
+      <DependentUpon>DataSet_Dept.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetChecking_ByEQ.xsc">
+      <DependentUpon>DataSet_GetChecking_ByEQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetChecking_ByEQ.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_GetChecking_ByEQ.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_GetChecking_ByEQ.xss">
+      <DependentUpon>DataSet_GetChecking_ByEQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetCheckListEquipments_Daily.xsc">
+      <DependentUpon>DataSet_GetCheckListEquipments_Daily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetCheckListEquipments_Daily.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_GetCheckListEquipments_Daily.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_GetCheckListEquipments_Daily.xss">
+      <DependentUpon>DataSet_GetCheckListEquipments_Daily.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetCheck_AllEQ.xsc">
+      <DependentUpon>DataSet_GetCheck_AllEQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetCheck_AllEQ.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_GetCheck_AllEQ.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_GetCheck_AllEQ.xss">
+      <DependentUpon>DataSet_GetCheck_AllEQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetDept_ISO.xsc">
+      <DependentUpon>DataSet_GetDept_ISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetDept_ISO.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_GetDept_ISO.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_GetDept_ISO.xss">
+      <DependentUpon>DataSet_GetDept_ISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetDocumentsEQ.xsc">
+      <DependentUpon>DataSet_GetDocumentsEQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetDocumentsEQ.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_GetDocumentsEQ.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_GetDocumentsEQ.xss">
+      <DependentUpon>DataSet_GetDocumentsEQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_AllEquipment.xsc">
+      <DependentUpon>DataSet_Get_AllEquipment.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_AllEquipment.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_AllEquipment.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_AllEquipment.xss">
+      <DependentUpon>DataSet_Get_AllEquipment.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriISO.xsc">
+      <DependentUpon>DataSet_Get_BaoTriISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriISO.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_BaoTriISO.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriISO.xss">
+      <DependentUpon>DataSet_Get_BaoTriISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriNamISO.xsc">
+      <DependentUpon>DataSet_Get_BaoTriNamISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriNamISO.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_BaoTriNamISO.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriNamISO.xss">
+      <DependentUpon>DataSet_Get_BaoTriNamISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriThangISO.xsc">
+      <DependentUpon>DataSet_Get_BaoTriThangISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriThangISO.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_BaoTriThangISO.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_BaoTriThangISO.xss">
+      <DependentUpon>DataSet_Get_BaoTriThangISO.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Duty.xsc">
+      <DependentUpon>DataSet_Get_Duty.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Duty.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Duty.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Duty.xss">
+      <DependentUpon>DataSet_Get_Duty.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_EqForklifts.xsc">
+      <DependentUpon>DataSet_Get_EqForklifts.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_EqForklifts.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_EqForklifts.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_EqForklifts.xss">
+      <DependentUpon>DataSet_Get_EqForklifts.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Equipments.xsc">
+      <DependentUpon>DataSet_Get_Equipments.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Equipments.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Equipments.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\DataSet_Get_Equipments.xss">
+      <DependentUpon>DataSet_Get_Equipments.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Goods.xsc">
+      <DependentUpon>DataSet_Get_Goods.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Goods.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Goods.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Goods.xss">
+      <DependentUpon>DataSet_Get_Goods.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_GroupEquiments.xsc">
+      <DependentUpon>DataSet_Get_GroupEquiments.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_GroupEquiments.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_GroupEquiments.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_GroupEquiments.xss">
+      <DependentUpon>DataSet_Get_GroupEquiments.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_GroupForklifts.xsc">
+      <DependentUpon>DataSet_Get_GroupForklifts.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_GroupForklifts.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_GroupForklifts.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_GroupForklifts.xss">
+      <DependentUpon>DataSet_Get_GroupForklifts.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_HieuChuanThietBi.xsc">
+      <DependentUpon>DataSet_Get_HieuChuanThietBi.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_HieuChuanThietBi.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_HieuChuanThietBi.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_HieuChuanThietBi.xss">
+      <DependentUpon>DataSet_Get_HieuChuanThietBi.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Location.xsc">
+      <DependentUpon>DataSet_Get_Location.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Location.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Location.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\DataSet_Get_Location.xss">
+      <DependentUpon>DataSet_Get_Location.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_NhapKho.xsc">
+      <DependentUpon>DataSet_Get_NhapKho.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_NhapKho.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_NhapKho.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_NhapKho.xss">
+      <DependentUpon>DataSet_Get_NhapKho.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Position.xsc">
+      <DependentUpon>DataSet_Get_Position.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Position.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Position.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Position.xss">
+      <DependentUpon>DataSet_Get_Position.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Priority.xsc">
+      <DependentUpon>DataSet_Get_Priority.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Priority.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Priority.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\DataSet_Get_Priority.xss">
+      <DependentUpon>DataSet_Get_Priority.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Problem_Equipment.xsc">
+      <DependentUpon>DataSet_Get_Problem_Equipment.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Problem_Equipment.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Problem_Equipment.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Problem_Equipment.xss">
+      <DependentUpon>DataSet_Get_Problem_Equipment.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Purchase.xsc">
+      <DependentUpon>DataSet_Get_Purchase.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Purchase.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Purchase.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Purchase.xss">
+      <DependentUpon>DataSet_Get_Purchase.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Purchase_Equipments.xsc">
+      <DependentUpon>DataSet_Get_Purchase_Equipments.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Purchase_Equipments.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Purchase_Equipments.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Purchase_Equipments.xss">
+      <DependentUpon>DataSet_Get_Purchase_Equipments.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Resource_big.xsc">
+      <DependentUpon>DataSet_Get_Resource_big.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Resource_big.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Resource_big.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Resource_big.xss">
+      <DependentUpon>DataSet_Get_Resource_big.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Staff.xsc">
+      <DependentUpon>DataSet_Get_Staff.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_Staff.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_Staff.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_Staff.xss">
+      <DependentUpon>DataSet_Get_Staff.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_TonKho.xsc">
+      <DependentUpon>DataSet_Get_TonKho.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_TonKho.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_TonKho.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_TonKho.xss">
+      <DependentUpon>DataSet_Get_TonKho.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_User.xsc">
+      <DependentUpon>DataSet_Get_User.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_User.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_User.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_User.xss">
+      <DependentUpon>DataSet_Get_User.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_VatTuBaoTri.xsc">
+      <DependentUpon>DataSet_Get_VatTuBaoTri.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_VatTuBaoTri.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_VatTuBaoTri.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_VatTuBaoTri.xss">
+      <DependentUpon>DataSet_Get_VatTuBaoTri.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_VatTuBaoTri_ByVocher.xsc">
+      <DependentUpon>DataSet_Get_VatTuBaoTri_ByVocher.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_VatTuBaoTri_ByVocher.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_VatTuBaoTri_ByVocher.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_VatTuBaoTri_ByVocher.xss">
+      <DependentUpon>DataSet_Get_VatTuBaoTri_ByVocher.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_VocherByDept.xsc">
+      <DependentUpon>DataSet_Get_VocherByDept.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_VocherByDept.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_VocherByDept.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_VocherByDept.xss">
+      <DependentUpon>DataSet_Get_VocherByDept.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_XuatKho.xsc">
+      <DependentUpon>DataSet_Get_XuatKho.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Get_XuatKho.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Get_XuatKho.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Get_XuatKho.xss">
+      <DependentUpon>DataSet_Get_XuatKho.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_HistoryPosition_EQ.xsc">
+      <DependentUpon>DataSet_HistoryPosition_EQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_HistoryPosition_EQ.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_HistoryPosition_EQ.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_HistoryPosition_EQ.xss">
+      <DependentUpon>DataSet_HistoryPosition_EQ.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Purchase_EQ_NoneTK.xsc">
+      <DependentUpon>DataSet_Purchase_EQ_NoneTK.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_Purchase_EQ_NoneTK.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Purchase_EQ_NoneTK.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_Purchase_EQ_NoneTK.xss">
+      <DependentUpon>DataSet_Purchase_EQ_NoneTK.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_ReportSchedule.xsc">
+      <DependentUpon>DataSet_ReportSchedule.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_ReportSchedule.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_ReportSchedule.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_ReportSchedule.xss">
+      <DependentUpon>DataSet_ReportSchedule.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_ThoiGian.xsc">
+      <DependentUpon>DataSet_ThoiGian.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_ThoiGian.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_ThoiGian.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\DataSet_ThoiGian.xss">
+      <DependentUpon>DataSet_ThoiGian.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetTHongTinChoREport.xsc">
+      <DependentUpon>DataSet_GetTHongTinChoREport.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\DataSet_GetTHongTinChoREport.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_GetTHongTinChoREport.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\DataSet_GetTHongTinChoREport.xss">
+      <DependentUpon>DataSet_GetTHongTinChoREport.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TestDataset.xsc">
+      <DependentUpon>TestDataset.xsd</DependentUpon>
+    </None>
+    <None Include="TestDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TestDataset.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TestDataset.xss">
+      <DependentUpon>TestDataset.xsd</DependentUpon>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet.xsc">
+      <DependentUpon>_HS_QuanLyBaoTriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_HS_QuanLyBaoTriDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet.xss">
+      <DependentUpon>_HS_QuanLyBaoTriDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet1.xsc">
+      <DependentUpon>_HS_QuanLyBaoTriDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_HS_QuanLyBaoTriDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet1.xss">
+      <DependentUpon>_HS_QuanLyBaoTriDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet2.xsc">
+      <DependentUpon>_HS_QuanLyBaoTriDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_HS_QuanLyBaoTriDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_HS_QuanLyBaoTriDataSet2.xss">
+      <DependentUpon>_HS_QuanLyBaoTriDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="_Schedule_Maintenance_Big.xsc">
+      <DependentUpon>_Schedule_Maintenance_Big.xsd</DependentUpon>
+    </None>
+    <None Include="_Schedule_Maintenance_Big.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_Schedule_Maintenance_Big.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_Schedule_Maintenance_Big.xss">
+      <DependentUpon>_Schedule_Maintenance_Big.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddNewDataSource_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FormatAsTable_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DrillDownOnArguments_Chart_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
